@@ -5,6 +5,8 @@
 By default, Adguard doesn't filter websites of financial services and websites with important personal data.
 This repo contains the list of excluded websites.
 
+If you want us to add any domain into this list, please create a [new issue](https://github.com/AdguardTeam/HttpsExclusions/issues/new).
+
 ## What is HTTPS?
 
 HTTPS is similar to HTTP (Hyper Text Transfer Protocol), but using an encryption protocol (called SSL/TLS), as indicated by the last letter S (Secure). This protocol is used for the transmission of sensitive information, such as MasterCard/Visa card numbers and personal data.
