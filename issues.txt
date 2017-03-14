@@ -1,0 +1,19 @@
+//
+// HTTPS exclusions, necessary to resolve specific issues
+//
+// Opera VPN:
+api.surfeasy.com
+opera-proxy.net
+sitecheck1.opera.com
+sitecheck2.opera.com
+sitecheck3.opera.com
+sitecheck4.opera.com
+sitecheck5.opera.com
+sitecheck6.opera.com
+sitecheck7.opera.com
+// For teamspeak: https://github.com/AdguardTeam/AdguardForWindows/issues/1409
+api.myteamspeak.com
+clientapi.myteamspeak.com
+badges-content.teamspeak.com
+// For Euro Truck Simulator 2 MP: https://github.com/AdguardTeam/AdguardForWindows/issues/1592
+api.truckersmp.com
