@@ -1,4 +1,9 @@
-# How does HTTPS filtering work?
+# HTTPS filtering
+
+## What does this repo contain?
+
+By default, Adguard doesn't filter websites of financial services and websites with important personal data.
+This repo contains the list of excluded websites.
 
 ## What is HTTPS?
 
@@ -17,10 +22,6 @@ If this was easy, HTTPS wouldn't be secure. In order to filter secure traffic, A
 ## Does my traffic stay secure and encrypted?
 
 Of course! Your connection to the remote server stays encrypted and secure. Just like a browser Adguard checks the server certificate before starting to filter it.
-
-By defaul
-
-, Adguard doesn't filter websites of financial services and websites with important personal data.
 
 There are two modes of HTTPS filtering:
 
