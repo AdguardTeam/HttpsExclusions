@@ -17,3 +17,10 @@ clientapi.myteamspeak.com
 badges-content.teamspeak.com
 // For Euro Truck Simulator 2 MP: https://github.com/AdguardTeam/AdguardForWindows/issues/1592
 api.truckersmp.com
+// Router interfaces
+fritz.box
+speedport.ip
+easy.box
+192.168.1.1
+192.168.2.1
+192.168.178.1
