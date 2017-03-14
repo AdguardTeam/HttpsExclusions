@@ -1,0 +1,97 @@
+//
+// HTTPs exclusions, necessary for Android apps
+//
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/609
+androidwearcloudsync-pa.googleapis.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/613
+mob.maps.yandex.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/343
+global.uci.blackberry.com
+profile.bbm.blackberry.com
+goods.bbm.blackberry.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/362
+vas.samsungapps.com
+samsungosp.com
+// Dropbox
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/371
+dropbox.com
+api-notify.dropbox.com
+dropboxapi.com
+dropboxusercontent.com
+// Yandex Taxi
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/320
+m.taxi.yandex.ru
+// WhatsApp
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/376
+whatsapp.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/433
+googleusercontent.com
+// google serves only static content from this domain, no need in https filtering
+googlevideo.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/388
+mobile.yandex.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/387
+webdav.yandex.ru
+webdav.yandex.com.ua
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/464
+musical.ly
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/462
+whisper.sh
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/642
+api.box.com
+// https://github.com/AdguardTeam/ExperimentalFilter/issues/1935
+api.accuweather.com
+brightcove.com
+urbanairship.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/498
+login.live.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/529
+api-kino.vl.ru
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/528
+api.meetme.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/530
+api.here.com
+data.here.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/565
+quizup.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/560
+login.live.com
+apis.live.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/571
+isu-odc.samsungapps.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/543
+mob2api.mdc53.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/591
+api-between.vcnc.co.kr
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/570
+auth.simperium.com
+api.simperium.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/510
+media.tumblr.com
+api.tumblr.com
+vt.tumblr.com
+static.tumblr.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/476
+lastpass.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/518
+wire.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/622
+api.freeletics.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/516
+us-central-api.yikyakapi.net
+notify.yikyakapi.net
+content.yikyakapi.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/647
+navcloud.tomtom.com
+lcms.services.tomtom.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/736
+disk.yandex.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/711
+newstube.ru
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/754
+accountsettingsmobile-pa.googleapis.com
+android.clients.google.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/811
+feoquizserver.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/805 https://github.com/AdguardTeam/AdguardForAndroid/issues/781
+search.midomi.com
