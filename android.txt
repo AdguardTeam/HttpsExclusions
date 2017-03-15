@@ -1,6 +1,8 @@
 //
-// HTTPs exclusions, necessary for Android apps
+// Android specific exclusions
 //
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1103
+media.api.viber.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/609
 androidwearcloudsync-pa.googleapis.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/613
@@ -93,5 +95,15 @@ accountsettingsmobile-pa.googleapis.com
 android.clients.google.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/811
 feoquizserver.com
-// https://github.com/AdguardTeam/AdguardForAndroid/issues/805 https://github.com/AdguardTeam/AdguardForAndroid/issues/781
-search.midomi.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/814
+trips-pa.googleapis.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/837
+api.crunchyroll.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/929
+clog-aggregator.kakao.com
+api.kakao.com
+ac-talk.kakao.com
+channel.kakao.com
+pf-api.kakao.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1073
+wunderlist.com
