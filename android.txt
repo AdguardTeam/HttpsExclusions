@@ -100,10 +100,15 @@ trips-pa.googleapis.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/837
 api.crunchyroll.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/929
-clog-aggregator.kakao.com
-api.kakao.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/960
 ac-talk.kakao.com
+api.kakao.com
 channel.kakao.com
+clog-aggregator.kakao.com
+gift.kakao.com
+item.kakao.com
+katalk.kakao.com
 pf-api.kakao.com
+talk.kakao.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1073
 wunderlist.com
