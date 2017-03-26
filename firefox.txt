@@ -1,3 +1,5 @@
+// FF sync
+accounts.firefox.com
 // FF add-ons (an issue with certificate and add-on update)
 8pecxstudios.com
 adtidy.org
