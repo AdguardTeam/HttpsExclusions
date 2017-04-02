@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+www.ing.nl
 1.elecsnet.ru
 194.105.148.87
 213.135.106.194
