@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+hubank.com
 venmo.com
 www.ing.nl
 1.elecsnet.ru
