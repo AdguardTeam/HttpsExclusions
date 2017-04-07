@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+1stnorcalcu.org
 hubank.com
 venmo.com
 www.ing.nl
