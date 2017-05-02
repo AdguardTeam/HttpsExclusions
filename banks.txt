@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+kh.hu
 1stnorcalcu.org
 hubank.com
 venmo.com
