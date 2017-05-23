@@ -1,6 +1,15 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+banknorwegian.se
+fryksdalenssparbank.se
+1822direkt.de
+1822direkt-banking.de
+volvofinans.se
+pensionsmyndigheten.se
+minpension.se
+minavardkontakter.se
+forsakringskassan.se
 online.beyondbank.com.au
 acs.sia.eu
 kh.hu
