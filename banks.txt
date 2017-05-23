@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+online.beyondbank.com.au
 acs.sia.eu
 kh.hu
 1stnorcalcu.org
