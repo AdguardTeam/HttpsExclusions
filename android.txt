@@ -114,3 +114,7 @@ talk.kakao.com
 wunderlist.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1229
 spdy3.maps.rostaxi.org
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1206
+grabtaxi.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1211
+zenstudios.com
