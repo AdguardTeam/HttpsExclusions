@@ -112,3 +112,5 @@ pf-api.kakao.com
 talk.kakao.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1073
 wunderlist.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1229
+spdy3.maps.rostaxi.org
