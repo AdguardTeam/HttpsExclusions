@@ -1,6 +1,8 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+skandia.se
+firstcard.se
 akf.de
 aliorbank.pl
 apobank.de
