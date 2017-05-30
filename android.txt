@@ -118,3 +118,7 @@ spdy3.maps.rostaxi.org
 grabtaxi.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1211
 zenstudios.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1248
+tech1-cdn.com
+tech2-cdn.com
+fireball.mipn-solutions.net
