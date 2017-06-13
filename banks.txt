@@ -1,6 +1,8 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+gbp.ma
+bmcedirect.ma
 aab.de
 abcbank.de
 airbus-group-bank.com
