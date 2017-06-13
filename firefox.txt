@@ -10,3 +10,4 @@ dl.dropboxusercontent.com
 eff.org
 mozilla.net
 mozilla.org
+d13itkw33a7sus.cloudfront.net
