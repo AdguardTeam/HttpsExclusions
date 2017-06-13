@@ -1486,6 +1486,7 @@ oi.bankia.es
 old.taatta.ru
 old1.elecsnet.ru
 onba.ch
+oneaccount.com
 oneclickmoney.ru
 onezaim.ru
 online.agroprombank.com
@@ -1828,6 +1829,7 @@ terminal.accentpay.com
 terminal.akado.ru
 terminal.ecommpay.com
 terminal.ucs.su
+tescobank.com
 theinstapay.com
 thepay.com.ua
 ticket.uz.gov.ua
