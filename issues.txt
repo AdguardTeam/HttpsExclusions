@@ -26,3 +26,5 @@ easy.box
 192.168.178.1
 // Mail app: https://github.com/AdguardTeam/AdguardForMac/issues/159
 gil.apple.com
+// https://forum.adguard.com/index.php?threads/sent-email-not-arriving-while-using-adguard.22690/
+mail.hostmonster.com
