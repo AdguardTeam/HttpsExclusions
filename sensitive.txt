@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
+kontur-ca.ru
 agenciatributaria.gob.es
 bolagsverket.se
 canadapost.ca
