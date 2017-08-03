@@ -8,6 +8,7 @@ canadapost.ca
 cra-arc.gc.ca
 dashlane.com
 developer.apple.com
+ekb.esplus.ru
 extensions.apple.com
 f-secure.com
 gil.apple.com
@@ -22,6 +23,7 @@ lazerpenguin.com
 lisa.motivtelecom.ru
 lk.megafon.ru
 lk.sesb.ru
+lkk-ekb.esplus.ru
 mil
 nwdealer.megafon.ru
 passport.yandex.by
