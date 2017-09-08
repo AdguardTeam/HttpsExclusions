@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+hsbc.com.hk
 gbp.ma
 bmcedirect.ma
 aab.de
