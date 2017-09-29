@@ -131,3 +131,5 @@ tech2-cdn.com
 tamtam.chat
 //https://github.com/AdguardTeam/AdguardForAndroid/issues/1184
 tutotoons.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1493
+userapi.com
