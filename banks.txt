@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+checkout.paddle.com
 hsbc.com.hk
 gbp.ma
 bmcedirect.ma
