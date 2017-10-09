@@ -1948,3 +1948,5 @@ sydbank.dk
 aib.ie
 onlinebanking.aib.ie
 53.com
+icorner.ch
+bcj.ch
