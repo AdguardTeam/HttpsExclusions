@@ -1945,3 +1945,5 @@ creditbank.com.lb
 creditbank.com
 nykredit.dk
 sydbank.dk
+aib.ie
+onlinebanking.aib.ie
