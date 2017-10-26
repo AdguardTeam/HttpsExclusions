@@ -133,3 +133,6 @@ tamtam.chat
 tutotoons.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1493
 userapi.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1557
+voiseservices.yandex.net
+
