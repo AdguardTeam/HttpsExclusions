@@ -135,4 +135,6 @@ tutotoons.com
 userapi.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1557
 voiseservices.yandex.net
-
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1567
+bccard.com
+local.gosi.go.kr
