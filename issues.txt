@@ -28,3 +28,4 @@ easy.box
 gil.apple.com
 // https://forum.adguard.com/index.php?threads/sent-email-not-arriving-while-using-adguard.22690/
 mail.hostmonster.com
+icloud.com
