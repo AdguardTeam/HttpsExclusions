@@ -1946,7 +1946,6 @@ creditbank.com
 nykredit.dk
 sydbank.dk
 aib.ie
-onlinebanking.aib.ie
 53.com
 icorner.ch
 bcj.ch
@@ -1982,12 +1981,10 @@ raiba-beilngries.de
 rb-biebergrund-petersberg.de
 muenchner-bank.de
 leipziger-volksbank.de
-leipziger-volksbank.de
 raibadirekt.de
 raiffeisenbank-elztal.de
 rb-ehingen-hochstraess.de
 rb-elln.de
-rb-deggendorf.de
 raiffeisenbank-gmund.de
 vb-lauterecken.de
 rb-kieselbronn.de
@@ -2042,7 +2039,6 @@ frankfurter-volksbank.de
 rb-dietersheim.de
 raiffeisenbank-gundelfingen.de
 raiffeisenbank-wyhl.de
-diebank.de
 raiffeisenbank-bauschlott.de
 rb-as.de
 raiffeisenbank-sinzing.de
@@ -2060,8 +2056,6 @@ raiffeisenbank-erlenbach.de
 abtsgmuender-bank.de
 diebank.de
 volksbank-allgaeu-oberschwaben.de
-volksbank-allgaeu-oberschwaben.de
-oberlandbank.de
 grafschafter-volksbank.de
 heidelberger-volksbank.de
 federseebank.de
@@ -2132,7 +2126,6 @@ raiba-roth-schwabach.de
 vobahe.de
 vobabm.de
 raiffeisenbank-plankstetten.de
-vr-bank-erding.de
 raiba-altschweier.de
 volksbank-montabaur.de
 rb-frankenhardt-stimpfach.de
@@ -2150,17 +2143,13 @@ vr-bank-lua.de
 rb-koetzting.de
 raiffeisenbank-vordere-alb.de
 vrkt.de
-vrbank-bayreuth-hof.de
 levo-bank.de
 raiba-bibertgrund.de
 volksbank-fntt.de
 vr-partnerbank.de
-volksbank-fntt.de
-vr-tuebingen.de
 volksbank-aktiv.de
 rb-onw.de
 rb-jettingen.de
-vr-partnerbank.de
 volksbank-raiffeisenbank-rhoen-grabfeld.de
 raiffeisenbank-mengkofen-loiching.de
 vrbank-ellwangen.de
@@ -2169,7 +2158,6 @@ echterdinger-bank.de
 wvb.de
 vr-neuburg-rain.de
 foehr-amrumer-bank.de
-vr-vilshofen.de
 vr-bank-wuerzburg.de
 rb-emtmannsberg.de
 volksbank-zwickau.de
@@ -2180,7 +2168,6 @@ rb-hersbruck.de
 rb-graevenwiesbach.de
 vr-vilshofen.de
 volksbank-wissmar.de
-vr-ll.de
 rb-grossenlueder.de
 rb-hfw.de
 volksbank-ulm-biberach.de
@@ -2199,7 +2186,6 @@ vrbank-am.de
 w-saarplus.de
 volksbank-nordschwarzwald.de
 rbuv.de
-rb-schwaben.de
 vr-b.de
 vrb-westthueringen.de
 volksbank-welzheim.de
@@ -2227,7 +2213,6 @@ winterbacher-bank.de
 rb-grabfeld.de
 volksbank-heuberg.de
 rb-holzheim.de
-vrbank-feuchtwangen-dinkelsbuehl.de
 rbbissingen.de
 vrbank-bamberg.de
 rbobermain.de
@@ -2237,22 +2222,17 @@ vr-ofrm.de
 voba-mainspitze.de
 volksbank-lindenberg.de
 vorne.de
-vr-ofrm.de
 volksbank-messkirch.de
 vr-mfr.de
 rb-chamer-land.de
 rvb-saale-orla.de
 voba-aschaffenburg.de
-volksbank-karlsruhe.de
 vr-genobank.de
 volksbank-magstadt.de
 volksbank-mittleres-erzgebirge.de
-vrbank-ostalb.de
 volksbank-buehl.de
-volksbank-dresden-bautzen.de
 vr-burglengenfeld.de
 rb-hofkirchen-bayerbach.de
-vrbank-isar-vils.de
 rb-schwaben.de
 vrbank-feuchtwangen-dinkelsbuehl.de
 voba-bkh.de
@@ -2304,7 +2284,6 @@ vr-meissen.de
 rb-am-kulm.de
 vrla.de
 volksbank-albstadt.de
-vb-rb.de
 vr-banknordeifel.de
 vr-bank-sw.de
 volksbank-griesheim.de
@@ -2325,7 +2304,6 @@ vr-bank-landau.de
 vrbank-suedthueringen.de
 rb-lauf.de
 rb-sondelfingen.de
-vrbank-rv-wgt.de
 vrbank-hg.de
 volksbank-dresden-bautzen.de
 volksbank-pfullendorf.de
@@ -2333,11 +2311,9 @@ volksbank-trossingen.de
 vr-dachau.de
 vobamt.de
 vb-untere-saar.de
-rb-biberach.de
 vobadill.de
 volksbank-krp.de
 vb-regensburg.de
-vr-nordoberpfalz.de
 vrbank-sww.de
 rb-sued-oal.de
 volksbank-rhein-wehra.de
@@ -2394,7 +2370,6 @@ vr-nms.de
 volksbank-plochingen.de
 volksbank-dingolfing.de
 rb-mehrstetten.de
-vr-nordoberpfalz.de
 rb-zorneding.de
 vrbank-sha.de
 volksbank-remseck.de
@@ -2410,7 +2385,6 @@ raiba-schwabmuenchen.de
 vbhaseluenne.de
 volksbank-ettlingen.de
 rb-bfm.de
-raiba-aschaffenburg.de
 rb-dreisessel.de
 raibawiesedermeer.de
 volksbank-mittweida.de
@@ -2510,7 +2484,6 @@ vobasandhofen.de
 rb-ichenhausen.de
 rb-tuerkheim.de
 rvb-bad-staffelstein.de
-volksbank-kassel-goettingen.de
 rb-holzkirchen-otterfing.de
 vrbank-rendsburg.de
 vb-iw.de
@@ -2557,7 +2530,6 @@ westkreis.de
 rb-stauden.de
 rb-oberaudorf.de
 rb-new-voh.de
-vrb-eisenach.de
 rbbutjadingenabbehausen.de
 vb-jerichower-land.de
 unserevolksbank.de
