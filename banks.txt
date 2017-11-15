@@ -180,7 +180,10 @@ bcr.md
 bcv.ch
 bekb.ch
 belfius.be
+bensbergerbank.de
 berenberg.de
+bergische-volksbank.de
+berkheimer-bank.de
 berliner-sparkasse.de
 berliner-volksbank.de
 bernhauser-bank.de
@@ -222,7 +225,9 @@ bpcprocessing.com
 bph.pl
 bpiexpressonline.com
 bps-sberbank.by
+bremischevb.de
 brokers.tcsbank.ru
+bruehlerbank.de
 bsb.by
 bsi.sevnb.ru
 bspb.ru
@@ -361,6 +366,7 @@ dbo1.uralfinance.com
 dcu-online.org
 dcu.org
 degussa-bank.de
+deine-volksbank.de
 delta-online.kz
 dengisend.ru
 dettinger-bank.de
@@ -382,6 +388,7 @@ dkb.de
 dkm.de
 donau-iller-bank.de
 donner-reuschel.de
+dovoba.de
 dslbank.de
 dto.vakifbank.com.tr
 dvbank.ua
@@ -508,6 +515,7 @@ genoba-weil.de
 genobamuc.de
 genobank-mainz.de
 genobank-unterallgaeu.de
+genobank.de
 getlogin.rosbank.ru
 gibank.ru
 global.moneygram.com
@@ -527,11 +535,13 @@ halifax-online.co.uk
 halkbankgayrimenkul.com.tr
 hallertauer-volksbank.de
 halykpay.kz
+hamburger-volksbank.de
 handelsbanken.se
 handybank.ru
 hannoversche-volksbank.de
 hanseaticbank.de
 harrisbank.com
+harzer-volksbank.de
 harzsparkasse.de
 haspa.de
 hauck-aufhaeuser.de
@@ -1027,6 +1037,7 @@ lzo.com
 m2mbank.ru
 mabanque.bnpparibas
 mabanqueprivee.bnpparibas
+maerkische-bank.de
 maib.md
 mangomoney.ru
 manimo.su
@@ -2374,6 +2385,7 @@ volksbank-hochrhein.de
 volksbank-karlsruhe.de
 volksbank-kassel-goettingen.de
 volksbank-kirchheim-nuertingen.de
+volksbank-koeln-bonn.de
 volksbank-krp.de
 volksbank-kurpfalz.de
 volksbank-lahr.de
