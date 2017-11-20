@@ -2606,3 +2606,4 @@ zkb.ru
 vostbank.ru
 express-bank.ru
 secure-payments.express-bank.ru
+express-credit.in.ua
