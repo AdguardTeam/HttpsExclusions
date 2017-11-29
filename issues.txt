@@ -1,6 +1,12 @@
 //
 // HTTPS exclusions, necessary to resolve specific issues
 //
+// https://github.com/AdguardTeam/AdguardFilters/issues/7531
+files.msal.ru
+// https://github.com/AdguardTeam/AdguardFilters/issues/7678
+firestore.clients6.google.com
+// https://forum.adguard.com/index.php?threads/27219/
+triolan.name
 // Opera VPN:
 api.surfeasy.com
 opera-proxy.net
