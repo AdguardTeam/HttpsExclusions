@@ -2608,3 +2608,10 @@ vostbank.ru
 express-bank.ru
 secure-payments.express-bank.ru
 express-credit.in.ua
+abank.com.tr
+argenta.be
+atbank.com.tr
+csas.cz
+internetbanka.cz
+qnbfinansbank.com
+sberbankcz.cz
