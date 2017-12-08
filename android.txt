@@ -138,3 +138,5 @@ voiseservices.yandex.net
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1567
 bccard.com
 local.gosi.go.kr
+// https://github.com/AdguardTeam/AdguardFilters/issues/8191
+productserver.sygic.com
