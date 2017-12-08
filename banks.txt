@@ -65,6 +65,7 @@ alorbank.ru
 alpari.ru
 altbank.com
 alxinger-bank.de
+androidpay-users-pa.googleapis.com
 anz.com
 apeksbank.com.ua
 api.oplata.com
