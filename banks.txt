@@ -413,7 +413,7 @@ easypay.ua
 eb.de
 eba.procreditbank.md
 ebank.ansarbank.com
-ebank.bmi.ir
+bmi.ir
 ebank.ofb.uz
 ebanka.danskebank.lv
 ebankas.danskebank.lt
