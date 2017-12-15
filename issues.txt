@@ -9,6 +9,7 @@ firestore.clients6.google.com
 triolan.name
 // Opera VPN:
 api.surfeasy.com
+sec-tunnel.com
 opera-proxy.net
 sitecheck1.opera.com
 sitecheck2.opera.com
