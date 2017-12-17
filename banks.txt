@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+bezpecnost.csas.cz
 bpostbank.be
 1.elecsnet.ru
 1822direkt-banking.de
