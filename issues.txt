@@ -39,5 +39,3 @@ icloud.com
 formy.upriver.ru
 ufa.wifi.domru.ru
 ihelper.mts.by
-// https://github.com/AdguardTeam/CoreLibs/issues/155
-mapcam.info
