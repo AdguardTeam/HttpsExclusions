@@ -1,6 +1,10 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+cibc.com
+eqbank.ca
+memberdirect.net
+chasecanada.ca
 citibankonline.com
 bezpecnost.csas.cz
 bpostbank.be
