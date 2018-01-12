@@ -1,6 +1,8 @@
 //
 // HTTPS exclusions, necessary to resolve specific issues
 //
+// https://github.com/AdguardTeam/AdguardFilters/issues/9131
+tknauth.spmode.ne.jp
 // https://github.com/AdguardTeam/AdguardFilters/issues/7531
 files.msal.ru
 // https://github.com/AdguardTeam/AdguardFilters/issues/7678
