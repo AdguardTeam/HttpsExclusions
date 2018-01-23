@@ -1,6 +1,8 @@
 //
 // Android specific exclusions
 //
+// https://github.com/AdguardTeam/AdguardFilters/issues/9120
+mapi.flypgs.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/9860
 review.lineageos.org
 // https://github.com/AdguardTeam/AdguardFilters/issues/9688
