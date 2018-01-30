@@ -2679,3 +2679,4 @@ login.ingbank.pl
 system.aliorbank.pl
 bn.aliorbank.pl
 www.ipkobiznes.pl
+enpara.com
