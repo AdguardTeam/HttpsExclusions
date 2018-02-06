@@ -44,3 +44,5 @@ formy.upriver.ru
 ufa.wifi.domru.ru
 ihelper.mts.by
 nest.com
+// https://github.com/AdguardTeam/AdguardFilters/issues/9983
+lh3.googleusercontent.com
