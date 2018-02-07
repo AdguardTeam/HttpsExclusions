@@ -150,3 +150,7 @@ local.gosi.go.kr
 productserver.sygic.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1705
 gov.tw
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1641
+api.cognitive.microsoft.com
+otf.msn.com
+websockets.platform.bing.com
