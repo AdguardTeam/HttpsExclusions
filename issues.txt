@@ -46,3 +46,5 @@ ihelper.mts.by
 nest.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/9983
 lh3.googleusercontent.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/60
+swisslife.ch 
