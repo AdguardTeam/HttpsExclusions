@@ -1,6 +1,10 @@
 //
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
+bitwarden.com
+1password.com
+roboform.com
+enpass.io
 navyfederal.org
 kontur-ca.ru
 agenciatributaria.gob.es
