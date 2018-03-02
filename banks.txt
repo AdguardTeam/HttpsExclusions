@@ -2743,3 +2743,6 @@ ally.com
 qnbfinansbank.com
 qnbfinansbank.enpara.com
 seninbankan.com.tr
+raiffeisenonline.ro
+ib.btrl.ro
+mybrdnet.ro
