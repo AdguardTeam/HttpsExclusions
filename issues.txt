@@ -1,6 +1,8 @@
 //
 // HTTPS exclusions, necessary to resolve specific issues
 //
+// https://github.com/AdguardTeam/AdguardFilters/issues/12461
+api.sunlight.net
 // https://github.com/AdguardTeam/AdguardFilters/issues/9901
 mapcam.info
 // https://github.com/AdguardTeam/AdguardFilters/issues/9131
