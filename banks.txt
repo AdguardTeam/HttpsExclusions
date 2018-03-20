@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+pay.rambler.ru
 cibc.com
 eqbank.ca
 memberdirect.net
