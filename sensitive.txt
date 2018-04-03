@@ -13,6 +13,7 @@ canadapost.ca
 cra-arc.gc.ca
 dashlane.com
 developer.apple.com
+idmsa.apple.com
 ekb.esplus.ru
 extensions.apple.com
 f-secure.com
