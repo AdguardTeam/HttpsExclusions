@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+pay.my.com
 americanexpress.com
 1.elecsnet.ru
 1822direkt-banking.de
