@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+online-banking.hsbc.com.ar
 pay.my.com
 americanexpress.com
 1.elecsnet.ru
