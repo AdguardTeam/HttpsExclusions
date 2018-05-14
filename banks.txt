@@ -545,7 +545,6 @@ genobamuc.de
 genobank-mainz.de
 genobank-unterallgaeu.de
 genobank.de
-george.slsp.sk
 getlogin.rosbank.ru
 gibank.ru
 global.moneygram.com
@@ -657,7 +656,6 @@ ib.raiffeisen.sk
 ib.rencredit.ru
 ib.ribbank.com
 ib.seb.se
-ib.slsp.sk
 ib.solidar.ru
 ib.solidbank.ru
 ib.svabank.ru
@@ -1921,6 +1919,7 @@ sko.rbkmoney.ru
 sl-vb.de
 slbank.ru
 sls-direkt.de
+slsp.sk
 smartbank.ru
 smponbank.ru
 sms-hm.de
