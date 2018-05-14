@@ -545,6 +545,7 @@ genobamuc.de
 genobank-mainz.de
 genobank-unterallgaeu.de
 genobank.de
+george.slsp.sk
 getlogin.rosbank.ru
 gibank.ru
 global.moneygram.com
