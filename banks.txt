@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+bankid.org.ua
 online-banking.hsbc.com.ar
 pay.my.com
 americanexpress.com
