@@ -1,5 +1,4 @@
 //
-//
 // Adguard HTTPS exclusions: banks and financial services
 1.elecsnet.ru
 1822direkt-banking.de
@@ -605,7 +604,6 @@ hellenicnetbanking.com
 hembanken2.danskebank.se
 hermsdorfer-kreuz.de
 herner-sparkasse.de
-hesab.az
 hesab.az
 hkb.de
 homebank.kz
@@ -2575,7 +2573,6 @@ volksbank-allgaeu-oberschwaben.de
 volksbank-altshausen.de
 volksbank-backnang.de
 volksbank-baden-baden-rastatt.de
-volksbank-berg.de
 volksbank-berg.de
 volksbank-bi-gt.de
 volksbank-boerde-bernburg.de
