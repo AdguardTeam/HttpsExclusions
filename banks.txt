@@ -2804,3 +2804,5 @@ ml.com
 mymerrill.com
 vanguard.com
 schwab.com
+banklinth.ch
+llb.at
