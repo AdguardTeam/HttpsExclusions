@@ -2840,3 +2840,5 @@ ziraatbank.az
 ziraatbank.com.tr
 zkb.ch
 zkb.ru
+banklinth.ch
+llb.at
