@@ -1202,6 +1202,8 @@ nbmc.ru
 nedbank.co.za
 netbank.de
 netbank.erstebank.hu
+netbank.kdb.hu
+netbank.takarek.hu
 netbanking.erstebank.hr
 netbanking.erstebank.me
 netbanking.erstebank.rs
@@ -2840,3 +2842,6 @@ ziraatbank.az
 ziraatbank.com.tr
 zkb.ch
 zkb.ru
+banklinth.ch
+llb.at
+
