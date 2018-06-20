@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
+accounts.google.com
 bitwarden.com
 1password.com
 roboform.com
@@ -47,3 +48,5 @@ my.gov.au
 web.whatsapp.com
 www.apple.com
 pass.rzd.ru
+1password.eu
+1password.ca
