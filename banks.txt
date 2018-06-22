@@ -1913,6 +1913,7 @@ secure.payu.com
 secure.payu.com.tr
 secure.payu.ru
 secure.payza.com
+secure.payza.eu
 secure.platononline.com
 secure.sirena-travel.ru
 secure.tcsbank.ru
