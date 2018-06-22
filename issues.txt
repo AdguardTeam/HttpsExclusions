@@ -56,3 +56,5 @@ ssh.cloud.google.com
 generalmotorscorporation.sc.omtrdc.net
 api.gm.com
 gmmobileservices.gm.com
+// https://github.com/AdguardTeam/AdguardForWindows/issues/2156
+asm.skype.com
