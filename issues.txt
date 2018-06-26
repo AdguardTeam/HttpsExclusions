@@ -58,3 +58,5 @@ api.gm.com
 gmmobileservices.gm.com
 // https://github.com/AdguardTeam/AdguardForWindows/issues/2156
 asm.skype.com
+// https://github.com/AdguardTeam/AdguardForWindows/issues/2266
+instantmessaging-pa.googleapis.com
