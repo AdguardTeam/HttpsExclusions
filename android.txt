@@ -156,3 +156,5 @@ gov.tw
 api.cognitive.microsoft.com
 otf.msn.com
 websockets.platform.bing.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1936
+clientproxyservice.atomtickets.com
