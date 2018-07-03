@@ -1,6 +1,8 @@
 //
 // Android specific exclusions
 //
+// https://github.com/AdguardTeam/AdguardFilters/issues/18070
+termux.net
 // https://github.com/AdguardTeam/AdguardFilters/issues/12189
 wodtogether.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/9120
