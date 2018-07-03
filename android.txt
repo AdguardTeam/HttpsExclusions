@@ -19,8 +19,6 @@ thisissand.com
 tamtam.ok.ru
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1269
 global.ssl.fastly.net
-// https://github.com/AdguardTeam/AdguardForAndroid/issues/1103
-media.api.viber.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/609
 androidwearcloudsync-pa.googleapis.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/613

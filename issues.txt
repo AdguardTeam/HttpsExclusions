@@ -62,3 +62,9 @@ asm.skype.com
 instantmessaging-pa.googleapis.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/19030
 firestore.googleapis.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1103
+api.viber.com
+// https://github.com/AdguardTeam/AdguardForWindows/issues/1990
+media-share-4.s3-eu-west-1.amazonaws.com
+media-share-5.s3.eu-central-1.amazonaws.com
+media-share-1.s3.amazonaws.com
