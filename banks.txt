@@ -2883,3 +2883,9 @@ docfcu.org
 campuscu.com
 tsp.gov
 gov.pl
+www.dbs.com
+www.posb.com.sg
+internet-banking.dbs.com.sg
+internet-banking.dbs.com.sg
+internet-banking.hk.dbs.com
+internet-banking.dbsbank.in
