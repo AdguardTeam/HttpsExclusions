@@ -70,3 +70,6 @@ media-share-5.s3.eu-central-1.amazonaws.com
 media-share-1.s3.amazonaws.com
 // https://github.com/AdguardTeam/AdguardForWindows/issues/2294
 get.skype.com
+// Kinetic Routers admin pages
+keenetic.pro
+keenetic.link
