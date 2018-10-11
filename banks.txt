@@ -73,6 +73,7 @@ alorbank.ru
 alpari.ru
 altbank.com
 alxinger-bank.de
+americanexpress.com
 ambank.amonline.com.my
 ambank.com.my
 americanexpress.com
@@ -1320,6 +1321,7 @@ online.unicombank.com.ua
 online.vostbank.ru
 online.vtb-bank.kz
 online.vtb.ua
+online.vtb.ru
 onlineapp.unibank.az
 onlinebank.kz
 onlinebanking-aktivbank.de
@@ -2819,6 +2821,7 @@ vrsta.de
 vrwm.de
 vspk-neustadt.de
 vtb-direktbank.de
+vtb.ru
 vtb.az
 vtb24.ru
 vtbdirekt.de
