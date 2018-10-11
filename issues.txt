@@ -2,7 +2,7 @@
 // HTTPS exclusions, necessary to resolve specific issues
 //
 // https://github.com/AdguardTeam/CoreLibs/issues/533
-gst.gov.in
+gov.in
 // https://github.com/AdguardTeam/HttpsExclusions/issues/85
 boxcryptor.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/9901
