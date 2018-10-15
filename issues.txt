@@ -77,3 +77,5 @@ get.skype.com
 // Kinetic Routers admin pages
 keenetic.pro
 keenetic.link
+// Google Cloud Shell
+ssh.cloud.google.com
