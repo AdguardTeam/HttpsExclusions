@@ -1,6 +1,8 @@
 //
 // HTTPS exclusions, necessary to resolve specific issues
 //
+// https://github.com/AdguardTeam/AdguardFilters/issues/24131
+charts.profinance.ru
 // https://github.com/AdguardTeam/AdguardFilters/issues/20368
 e-xacbank.com
 // https://github.com/AdguardTeam/CoreLibs/issues/533
