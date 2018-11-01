@@ -117,6 +117,7 @@ baker.ebanksepah.ir
 bancaintesa.ru
 bancobrasil.com.br
 bancodobrasil.com.br
+bancopopular.es
 bancomer.com
 bank-direct.ru
 bank-enisey.ru
@@ -143,6 +144,7 @@ bankhapoalim.co.il
 bankhaus-hallbaum.de
 bankhaus-mayer.de
 bankhaus-plump.de
+bankia.es
 bankid.org.ua
 banking-gefa-bank.de
 banking-merkur-bank.de
