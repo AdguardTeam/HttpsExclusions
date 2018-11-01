@@ -1,6 +1,8 @@
 //
 // HTTPS exclusions, necessary to resolve specific issues
 //
+// Samsung own stats are sent here, but it checks the cert
+atlas.samsung.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/24131
 charts.profinance.ru
 // https://github.com/AdguardTeam/AdguardFilters/issues/20368
