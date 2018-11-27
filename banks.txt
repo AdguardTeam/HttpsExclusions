@@ -59,6 +59,7 @@ akbars.ru
 akf.de
 akf24.de
 albank.ru
+alpha.gr
 alfa-bank.by
 alfabank.kz
 alfabank.ru
@@ -285,6 +286,7 @@ cabinet.hcsbk.kz
 caisse-epargne.fr
 caixa-enginyers.com
 caixaebankingonline.cgd.pt
+canarabank.in
 capitalone.com
 capitecbank.co.za
 card-transfer.tele2.ru
@@ -505,6 +507,7 @@ esube.turkishbank.com
 esube.turkishcards.com
 etrade.com
 eurasian-bank.ru
+eurobank.gr
 eurobank-ua.com
 eurocitybank-onlinebanking.de
 eurocitybank.ru
@@ -1212,6 +1215,7 @@ naspa.de
 navyfederal.org
 naxcivanbank.az
 nbcbank.az
+nbg.gr
 nbmc.ru
 nedbank.co.za
 netbank.de
