@@ -73,7 +73,6 @@ data.here.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/565
 quizup.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/560
-login.live.com
 apis.live.net
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/571
 isu-odc.samsungapps.com
