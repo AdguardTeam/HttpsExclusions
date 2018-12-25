@@ -979,6 +979,7 @@ iw.unistream.ru
 izhcard.ru
 jsafrasarasin.de
 juliusbaer.com
+jutlander-netbank.dk
 jyskebank.dk
 kaltenkirchener-bank.de
 kapitalbank.az
@@ -1153,6 +1154,7 @@ mijn.ing.nl
 minavardkontakter.se
 minbank.ru
 minpension.se
+mitfcu.org
 mitnykredit.dk
 mizrahi-tefahot.co.il
 mkbnetbankar.hu
