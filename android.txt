@@ -42,8 +42,6 @@ m.taxi.yandex.ru
 // WhatsApp
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/376
 whatsapp.net
-// https://github.com/AdguardTeam/AdguardForAndroid/issues/433
-googleusercontent.com
 // google serves only static content from this domain, no need in https filtering
 googlevideo.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/388
