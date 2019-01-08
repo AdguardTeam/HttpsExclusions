@@ -713,6 +713,7 @@ ibank.baikalcredobank.ru
 ibank.bank-accent.ru
 ibank.bank-hlynov.ru
 ibank.bankermak.ru
+ibank.bankmandiri.co.id
 ibank.bankmaxima.ru
 ibank.bankorange.ru
 ibank.bankrmp.ru
@@ -768,6 +769,7 @@ ibank.kdb.uz
 ibank.khmb.ru
 ibank.kicb.net
 ibank.kkapb.ru
+ibank.klikbca.com
 ibank.kremlinbank.ru
 ibank.ksgbank.com.ua
 ibank.kzibank.kz
@@ -1233,7 +1235,9 @@ netpnb.com
 nettbank2.danskebank.no
 nettbanken.nordea.no
 netteller.com
+new.permatanet.com
 new.mybank.by
+newvelocity.ocbcnisp.com
 nikoil.az
 nipbank.ru
 nispa.de
@@ -1312,6 +1316,7 @@ online.mkb.ru
 online.odeabank.com.tr
 online.open.ru
 online.openbank.ru
+online.ocbcnisp.com
 online.oschadbank.ua
 online.pchrb.ru
 online.piraeusbank.ua
@@ -1460,6 +1465,7 @@ pbbdirekt.com
 pbebank.com
 pekao.com.pl
 pekao24.pl
+permatae-business.com
 penfed.org
 pensionsmyndigheten.se
 perevedi.me
