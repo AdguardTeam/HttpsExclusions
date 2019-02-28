@@ -155,3 +155,5 @@ otf.msn.com
 websockets.platform.bing.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1936
 clientproxyservice.atomtickets.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
+googleapis.com$app=com.google.android.gms
