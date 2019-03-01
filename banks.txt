@@ -156,6 +156,7 @@ banking.axa.de
 banking.co.at
 banking.guarantee.ru
 banking.haspa.de
+banking.ing-diba.at
 banking.ksk-stade.de
 banking.postbank.de
 banking.raiffeisen.at
@@ -233,6 +234,7 @@ bic.modulbank.ru
 bigbank.ee
 billdesk.com
 binbank.ru
+binbank-online.open.ru
 bisbank.com.ua
 bistrozaim.ua
 biw-bank.de
@@ -472,6 +474,7 @@ ebanking-hoernerbank.de
 ebanking.bankmellat.ir
 ebanking.bawagpsk.com
 ebanking.cibeg.com
+ebanking.easybank.at
 ebanking.eurobank.com.cy
 ebanking.ge
 ebanking.ing.be
@@ -490,6 +493,7 @@ ekspertiz.bankasya.com.tr
 ekspertiz.turkiyefinans.com.tr
 ekspertiz.vakifbank.com.tr
 ellisbank.com
+elster.de
 emobias.md
 emsland-mitte.de
 enpara.com
@@ -545,6 +549,7 @@ firstcard.se
 flessabank.de
 fnb.co.za
 fnb.com.lb
+fnbba.com
 foehr-amrumer-bank.de
 foerde-sparkasse.de
 fondsdepotbank.de
@@ -1138,6 +1143,7 @@ meine-hausbank.de
 meine-vrbank.de
 meine-vvb.de
 meinebank.de
+meine.postbank.de
 meinevolksbank.de
 memberdirect.net
 mercedes-benz-bank.de
@@ -1210,6 +1216,7 @@ myhalyk.kz
 mykassa.kz
 mymerrill.com
 myskb.ru
+my.sjpbank.co.uk
 myvoba.com
 n26.com
 nab.com.au
@@ -1414,6 +1421,7 @@ palmettohealthcu.org
 pashabank.az
 passolig.com.tr
 pax-bank.de
+paydirekt.de
 pay.aeroflot.ru
 pay.alfabank.ua
 pay.best2pay.net
@@ -1835,6 +1843,7 @@ retail.mvbank.ru
 retail.nrb.ru
 retail.santander.co.uk
 retail.sdm.ru
+revenue.ie
 rfcu.com
 rficb.ru
 rgsbank.ru
@@ -1845,6 +1854,7 @@ robinhood.com
 robokassa.ru
 rocketbank.ru
 rodnayasvyaz.ru
+ros.ie
 rosavto.ru
 rosenergobank.ru
 rosevrobank.ru
@@ -1953,6 +1963,7 @@ seebachgrund.de
 seeligerbank.de
 seninbankan.com.tr
 service.fuib.com
+service.santanderconsumer.at
 servis24.cz
 sgb24.pl
 sgeb.bg
@@ -2393,6 +2404,7 @@ umbank.ru
 umweltbank.de
 uniastrum.ru
 unibank.az
+uiccu.org
 unicreditbanking.net
 unifinbank.ru
 union-investment.de
@@ -2860,6 +2872,7 @@ webebank.ebb-bg.com
 weberbank.de
 webid2.gs.com
 webmoney.ru
+webtrading.onvista-bank.de
 wellsfargo.com
 wespa.de
 westerwaldbank.de
