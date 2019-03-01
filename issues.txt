@@ -81,3 +81,5 @@ keenetic.pro
 keenetic.link
 // Google Cloud Shell
 ssh.cloud.google.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/138
+startmail.com
