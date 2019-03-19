@@ -170,6 +170,7 @@ banklenz.de
 bankline.ru
 banklinth.ch
 bankmed.com.lb
+banco.bradesco
 banknorwegian.se
 bankofamerica.com
 bankofbaku.com
@@ -191,6 +192,7 @@ banktrust.com.ua
 bankuralsib.ru
 bankvostok.com.ua
 banorte.com
+banrisul.com.br
 barclaycard.co.uk
 barclaycard.de
 barclays.co.uk
@@ -288,6 +290,7 @@ cabinet.altbb.ru
 cabinet.hcsbk.kz
 caisse-epargne.fr
 caixa-enginyers.com
+caixa.gov.br
 caixaebankingonline.cgd.pt
 canarabank.in
 capitalone.com
@@ -334,6 +337,7 @@ chelindbank.ru
 cibc.com
 cic.fr
 cimbclicks.com.my
+cimbclicks.co.id
 citibank.com
 citibank.ru
 citibankonline.com
@@ -393,6 +397,7 @@ cyber.rostbank.ru
 da.victoriabank.md
 dab-bank.de
 dalena.ru
+danamonline.com
 danskebank.dk
 db-pbc.pl
 db.com
@@ -666,6 +671,8 @@ ib.apkbank.ru
 ib.aversbank.ru
 ib.baltikums.eu
 ib.bank-maskan.ir
+ib.bankbjb.co.id
+ib.bankmandiri.co.id
 ib.banknp.ru
 ib.bankrbk.kz
 ib.bankrsi.ru
@@ -719,6 +726,8 @@ ibank.bank-accent.ru
 ibank.bank-hlynov.ru
 ibank.bankermak.ru
 ibank.bankmaxima.ru
+ibank.bankmandiri.co.id
+ibank.bankmega.com
 ibank.bankorange.ru
 ibank.bankrmp.ru
 ibank.banksbrr.ru
@@ -773,6 +782,7 @@ ibank.kdb.uz
 ibank.khmb.ru
 ibank.kicb.net
 ibank.kkapb.ru
+ibank.klikbca.com
 ibank.kremlinbank.ru
 ibank.ksgbank.com.ua
 ibank.kzibank.kz
@@ -959,6 +969,8 @@ internetbank.swedbank.se
 internetbanka.cz
 internetbanken.privat.nordea.se
 internetbanking.caixa.gov.br
+internetbanking.btn.co.id
+internetpanin.com
 internetsube.turkiyefinans.com.tr
 internetsubesi.fibabanka.com.tr
 internetsubesi.finansbank.enpara.com
@@ -1115,6 +1127,7 @@ login.sebbank.ru
 lovizaim.ru
 lzo.com
 m2mbank.ru
+m2u.maybank.co.id
 mabanque.bnpparibas
 mabanqueprivee.bnpparibas
 maerkische-bank.de
@@ -1241,6 +1254,7 @@ nettbank2.danskebank.no
 nettbanken.nordea.no
 netteller.com
 new.mybank.by
+newvelocity.ocbcnisp.com
 nikoil.az
 nipbank.ru
 nispa.de
@@ -1316,6 +1330,7 @@ online.mbank.pl
 online.mcbankrus.ru
 online.metcom.ru
 online.mkb.ru
+online.ocbcnisp.com
 online.odeabank.com.tr
 online.open.ru
 online.openbank.ru
@@ -1899,6 +1914,7 @@ salzlandsparkasse.de
 sanalpos.halkbank.com.tr
 santander.de
 santander.nl
+santander.com.br
 santanderbank.com
 santanderconsumer.se
 sbab.se
