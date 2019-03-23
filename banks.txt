@@ -1,6 +1,8 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+optumbank.com
+login.optumbank.com
 key.com
 1.elecsnet.ru
 1822direkt-banking.de
