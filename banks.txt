@@ -9,7 +9,7 @@ key.com
 1stnorcalcu.org
 213.135.106.194
 24banking.md
-24comertbank.md
+24.comertbank.md
 2checkout.com
 3ds.bankofbaku.com
 3ds.mdmbank.ru
@@ -20,9 +20,8 @@ key.com
 53.com
 95.56.246.182
 a-3.ru
-a24.a-bank.com.ua
+a24m.a-bank.com.ua
 aab.de
-abank.com.tr
 abcbank.de
 abl.agrocombank.com.ua
 abnamro.nl
@@ -30,8 +29,6 @@ abr.ru
 absa.co.za
 absolutbank.ru
 abtsgmuender-bank.de
-access.rbsbank.ru
-access.rbsm.com
 accessbank.az
 accessbankplc.com
 account.skrill.com
@@ -48,9 +45,7 @@ acs2.3ds.modirum.com
 acs2.rosbank.modirum.com
 afb.az
 agbank.az
-agrocombank.com.ua
 aib.ie
-airbus-group-bank.com
 ais.snbank.ru
 akb.ch
 akbank.com
@@ -152,6 +147,7 @@ banking-gefa-bank.de
 banking-merkur-bank.de
 banking-suedwestbank.de
 banking-wuestenrotdirect.de
+banking.airbusbank.com
 banking.axa.de
 banking.co.at
 banking.guarantee.ru
@@ -630,6 +626,7 @@ hermsdorfer-kreuz.de
 herner-sparkasse.de
 hesab.az
 hkb.de
+holvi.com
 homebank.kz
 homebank.tj
 homebanking.sskm.de
@@ -694,6 +691,7 @@ ib.nevskybank.ru
 ib.novobank.ru
 ib.nvkbank.ru
 ib.pashabank.az
+ib.pnbbanka.eu
 ib.pnbkaz.kz
 ib.psbank.ru
 ib.raiffeisen.sk
@@ -1003,6 +1001,7 @@ kapitalbank.az
 kariyer.vakifbank.com.tr
 kaspi.kz
 kasseler-sparkasse.de
+kautionen.aareal-bank.com
 kbtub.ru
 kd-bank.de
 keytradebank.be
@@ -1126,6 +1125,7 @@ login.ingbank.pl
 login.sebbank.ru
 lovizaim.ru
 lzo.com
+m24.comertbank.md
 m2mbank.ru
 m2u.maybank.co.id
 mabanque.bnpparibas
@@ -1286,6 +1286,7 @@ online-banking.hsbc.com.ar
 online.agroprombank.com
 online.aktifbank.com.tr
 online.alefbank.ru
+online.alternatifbank.com.tr
 online.asviobank.ua
 online.avtogradbank.ru
 online.baltbank.ru
@@ -1511,6 +1512,7 @@ plimus.com
 pnbindia.in
 poidem.ru
 pommerschevb.de
+portal.aareal.com
 portal.citidirect.com
 portal.lacaixa.es
 portal.nefteprom.com
