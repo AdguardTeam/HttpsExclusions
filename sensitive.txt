@@ -8,6 +8,8 @@ bitwarden.com
 roboform.com
 enpass.io
 navyfederal.org
+receita.economia.gov.br
+signal-iduna.de
 kontur-ca.ru
 agenciatributaria.gob.es
 bolagsverket.se
@@ -51,3 +53,4 @@ www.apple.com
 pass.rzd.ru
 1password.eu
 1password.ca
+login.live.com
