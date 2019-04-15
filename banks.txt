@@ -150,6 +150,7 @@ banking-wuestenrotdirect.de
 banking.airbusbank.com
 banking.axa.de
 banking.co.at
+boc.cn
 banking.guarantee.ru
 banking.haspa.de
 banking.ing-diba.at
@@ -360,6 +361,7 @@ co-operativebank.co.uk
 comdirect.de
 commbank.com.au
 commerzbank.de
+cfi.mb.seb.se
 commerzfinanz.com
 companyonline.ch
 connect.rtb.ru
@@ -576,6 +578,9 @@ gbp.ma
 gc3d.georgiancard.ge
 gefa-bank.de
 genoba-mecka.de
+grenke.net
+grenkeonline.com
+gobank-online.de
 genoba-weil.de
 genobamuc.de
 genobank-mainz.de
@@ -1269,6 +1274,7 @@ nospa.de
 ns-bank.ru
 nwolb.com
 nykredit.dk
+nubank.com.br
 oaookb.ru
 obconline.co.in
 oberlandbank.de
@@ -2955,3 +2961,16 @@ co-operativebank.co.nz
 tsb.co.nz
 sbsbank.co.nz
 ecommpay.com
+factoring.seb.de
+investor.vps.no
+ts.seb.se
+webapp.sebgroup.com
+wfc.sebank.se
+olb.consorsfinanz.de
+eantrag.ibb.de
+amundi-tc.com
+bhf-bank.ch
+oddo.fr
+oddo-bhf.com
+helaba.de
+my.helaba.bank
