@@ -86,3 +86,8 @@ startmail.com
 // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/674
 ohio8.vchecks.me
 check.svyaznoy.ru
+// Apple services
+music.apple.com
+xp.apple.com
+books.apple.com
+mzstatic.com
