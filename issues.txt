@@ -46,7 +46,20 @@ easy.box
 192.168.2.1
 192.168.178.1
 // Mail app: https://github.com/AdguardTeam/AdguardForMac/issues/159
+// Other Apple services must be excluded as well
 gil.apple.com
+extensions.apple.com
+gil.apple.com
+itunes.apple.com
+itunesconnect.apple.com
+reportingitc2.apple.com
+safari-extensions.apple.com
+www.apple.com
+developer.apple.com
+idmsa.apple.com
+music.apple.com
+xp.apple.com
+books.apple.com
 // https://forum.adguard.com/index.php?threads/sent-email-not-arriving-while-using-adguard.22690/
 mail.hostmonster.com
 icloud.com
