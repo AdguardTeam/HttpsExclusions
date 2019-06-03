@@ -83,3 +83,6 @@ keenetic.link
 ssh.cloud.google.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/138
 startmail.com
+// Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/674
+ohio8.vchecks.me
+check.svyaznoy.ru
