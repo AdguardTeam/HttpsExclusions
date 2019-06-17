@@ -602,6 +602,7 @@ group.pictet
 gunaybank.com
 gutapay.ru
 gws.sauberbank.com
+jp-bank.japanpost.jp
 hafnerbank.de
 hagnauer-volksbank.de
 halifax-online.co.uk
@@ -1193,6 +1194,7 @@ moja.tatrabanka.sk
 mojebanka.cz
 moneta.ru
 money.comepay.ru
+mizuhobank.co.jp
 money.idram.am
 money.mail.ru
 money.yandex.ru
@@ -1888,6 +1890,7 @@ rosinterbank.ru
 rosmicrocredit.ru
 rottaler-raiba.de
 round.ru
+resonabank.co.jp
 rs-portal.capitalbank.ru
 rsb.ru
 rshb.ru
@@ -1949,6 +1952,7 @@ sdk-stockhausen.de
 sdkinlamstedt.de
 seb.ee
 secb.de
+smbc.co.jp
 secure-banking.de
 secure-payments.express-bank.ru
 secure.acquiropay.com
