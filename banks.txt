@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+payments.olx.com
 mirconnect.ru
 key.com
 1.elecsnet.ru
