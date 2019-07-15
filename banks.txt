@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+online.standardlife.com
 payments.olx.com
 mirconnect.ru
 key.com
