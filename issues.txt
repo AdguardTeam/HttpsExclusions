@@ -84,5 +84,6 @@ ssh.cloud.google.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/138
 startmail.com
 // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/674
-ohio8.vchecks.me
+vchecks.me
+www.svyaznoy.ru
 check.svyaznoy.ru
