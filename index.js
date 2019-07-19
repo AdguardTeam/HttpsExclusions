@@ -38,22 +38,39 @@ console.log(`Android: ${androidPath}, ${androidContents.split('\n').length} line
 
 // Windows (just a list)
 const windowsPath = path.join(outputPath, 'windows_exclusions.txt');
-const windowsContents = `${header}\n${windows}\n${banks}\n${firefox}\n${sensitive}\n${issues}`;
+const windowsContents = `${header}\n${windows}\n${banks}\n${firefox}\n${sensitive}\n${issues}`
+    .split('\n')
+    .filter((line) => {
+        // Strip comments
+        line = line.trim();
+        if (!line || line.indexOf('//') !== -1) {
+            return false;
+        }
+        return true;
+    })
+    .join('\n');
+
 fs.writeFileSync(windowsPath, windowsContents);
 console.log(`Windows: ${windowsPath}, ${windowsContents.split('\n').length} lines.`);
 
 // Mac (prepare for a plist, strip comments)
-let macExclusions = '';
-const lines = `${mac}\n${banks}\n${firefox}\n${sensitive}\n${issues}`.split('\n');
-lines.forEach((line) => {
-    line = line.trim();
-    if (!line || line.indexOf('//') !== -1) {
-        return;
-    }
-    macExclusions += `<strings>${line}</string>\n`;
-});
+const macContents = `${mac}\n${banks}\n${firefox}\n${sensitive}\n${issues}`
+    .split('\n')
+    .filter((line) => {
+        // Strip comments
+        line = line.trim();
+        if (!line || line.indexOf('//') !== -1) {
+            return false;
+        }
+        return true;
+    })
+    .map(line => {
+        return `<strings>${line}</string>`;
+    })
+    .join('\n');
+
 const macPath = path.join(outputPath, 'mac_exclusions.txt');
-fs.writeFileSync(macPath, macExclusions);
-console.log(`Mac: ${windowsPath}, ${macExclusions.split('\n').length} lines.`);
+fs.writeFileSync(macPath, macContents);
+console.log(`Mac: ${windowsPath}, ${macContents.split('\n').length} lines.`);
 
 console.log('Exclusions list are ready!');
