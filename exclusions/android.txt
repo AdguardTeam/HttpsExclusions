@@ -147,8 +147,6 @@ bccard.com
 local.gosi.go.kr
 // https://github.com/AdguardTeam/AdguardFilters/issues/8191
 productserver.sygic.com
-// https://github.com/AdguardTeam/AdguardForAndroid/issues/1705
-gov.tw
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1641
 api.cognitive.microsoft.com
 otf.msn.com

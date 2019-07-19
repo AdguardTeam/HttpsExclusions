@@ -2,14 +2,12 @@
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
 hrblock.com
-mvd.dor.ga.gov
 accounts.google.com
 bitwarden.com
 1password.com
 roboform.com
 enpass.io
 navyfederal.org
-receita.economia.gov.br
 signal-iduna.de
 kontur-ca.ru
 agenciatributaria.gob.es
@@ -28,7 +26,6 @@ lisa.motivtelecom.ru
 lk.megafon.ru
 lk.sesb.ru
 lkk-ekb.esplus.ru
-mil
 nwdealer.megafon.ru
 passport.yandex.by
 passport.yandex.com
@@ -39,8 +36,6 @@ passport.yandex.ua
 securesafe.com
 skatteverket.se
 sophos.com
-turkiye.gov.tr
-my.gov.au
 web.whatsapp.com
 pass.rzd.ru
 1password.eu
@@ -55,3 +50,15 @@ trustedid.com
 idwatchdog.com
 trueidentity.com
 lifelock.com
+// Government domains
+gov.au
+turkiye.gov.tr
+mil
+mvd.dor.ga.gov
+receita.economia.gov.br
+zakupki.gov.ru
+gov.pl
+// https://github.com/AdguardTeam/CoreLibs/issues/533
+gov.in
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1705
+gov.tw

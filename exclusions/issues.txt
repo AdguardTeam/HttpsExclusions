@@ -5,8 +5,6 @@
 charts.profinance.ru
 // https://github.com/AdguardTeam/AdguardFilters/issues/20368
 e-xacbank.com
-// https://github.com/AdguardTeam/CoreLibs/issues/533
-gov.in
 // https://github.com/AdguardTeam/HttpsExclusions/issues/85
 boxcryptor.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/9901
