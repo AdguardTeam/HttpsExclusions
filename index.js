@@ -65,7 +65,7 @@ const macContents = `${mac}\n${banks}\n${firefox}\n${sensitive}\n${issues}`
         return true;
     })
     .map(line => {
-        return `<strings>${line}</string>`;
+        return `\t\t<string>${line}</string>`;
     })
     .join('\n');
 
