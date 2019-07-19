@@ -157,3 +157,9 @@ websockets.platform.bing.com
 clientproxyservice.atomtickets.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
 googleapis.com$app=com.google.android.gms
+// Samsung own stats are sent here, but it checks the cert
+atlas.samsung.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1867
+generalmotorscorporation.sc.omtrdc.net
+api.gm.com
+gmmobileservices.gm.com

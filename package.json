@@ -1,0 +1,9 @@
+{
+  "name": "https-exclusions",
+  "version": "1.0.0",
+  "description": "The list of default HTTPS exclusions for AdGuard products",
+  "main": "index.js",
+  "repository": "git@github.com:AdguardTeam/HttpsExclusions.git",
+  "author": "AdGuard",
+  "license": "MIT"
+}

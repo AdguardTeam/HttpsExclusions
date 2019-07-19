@@ -2,8 +2,10 @@
 
 ## What does this repo contain?
 
-By default, Adguard doesn't filter websites of financial services and websites with important personal data.
+By default, AdGuard doesn't filter websites of financial services and websites with important personal data.
 This repo contains the list of excluded websites.
+
+Here is a detailed description of how it works: https://kb.adguard.com/en/general/https-filtering.
 
 If you want us to add any domain into this list, please create a [new issue](https://github.com/AdguardTeam/HttpsExclusions/issues/new).
 
@@ -19,13 +21,23 @@ The following are examples of popular websites, where ads cannot be removed with
 
 ## How does the filtering of encrypted traffic work?
 
-If this was easy, HTTPS wouldn't be secure. In order to filter secure traffic, Adguard will create two secure connections. One to a browser, or other application; and another to a server. It is important that in this case the browser "trusts" Adguard and its created connection. For this purpose Adguard generates and installs a special root certificate in the system and, if necessary, in certain browsers e.g. Firefox.
+If this was easy, HTTPS wouldn't be secure. In order to filter secure traffic, AdGuard will create two secure connections. One to a browser, or other application; and another to a server. It is important that in this case the browser "trusts" AdGuard and its created connection. For this purpose Adguard generates and installs a special root certificate in the system and, if necessary, in certain browsers e.g. Firefox.
 
 ## Does my traffic stay secure and encrypted?
 
-Of course! Your connection to the remote server stays encrypted and secure. Just like a browser Adguard checks the server certificate before starting to filter it.
+Of course! Your connection to the remote server stays encrypted and secure. Just like a browser AdGuard checks the server certificate before starting to filter it.
 
 There are two modes of HTTPS filtering:
 
 * Filter ONLY connections to domains on the blacklist.
 * Filter ALL connections EXCEPT those to domains on the whitelist. We have pre-added domains of financial institutions and banks there, and this list will be updated in the future.
+
+## How to generate lists
+
+```
+git clone https://github.com/AdguardTeam/HttpsExclusions.git
+cd HttpsExclusions
+node index.js
+```
+
+Check the `dist` folder for the output.

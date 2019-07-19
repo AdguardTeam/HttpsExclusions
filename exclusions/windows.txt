@@ -1,0 +1,9 @@
+//
+// Windows specific exclusions
+//
+// For teamspeak: https://github.com/AdguardTeam/AdguardForWindows/issues/1409
+api.myteamspeak.com
+clientapi.myteamspeak.com
+badges-content.teamspeak.com
+// For Euro Truck Simulator 2 MP: https://github.com/AdguardTeam/AdguardForWindows/issues/1592
+api.truckersmp.com
