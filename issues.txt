@@ -87,3 +87,5 @@ startmail.com
 vchecks.me
 www.svyaznoy.ru
 check.svyaznoy.ru
+// https://github.com/AdguardTeam/AdguardForMac/issues/552
+mzstatic.com
