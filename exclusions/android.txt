@@ -161,3 +161,5 @@ atlas.samsung.com
 generalmotorscorporation.sc.omtrdc.net
 api.gm.com
 gmmobileservices.gm.com
+acompli.net
+// https://github.com/AdguardTeam/CoreLibs/issues/1032 (acompli.net Outlook)
