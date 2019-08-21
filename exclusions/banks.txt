@@ -338,6 +338,7 @@ cibc.com
 cic.fr
 cimbclicks.com.my
 cimbclicks.co.id
+citibank.co.id
 citibank.com
 citibank.ru
 citibankonline.com
@@ -1018,6 +1019,7 @@ keytradebank.be
 kh.hu
 kieler-volksbank.de
 kkb.ru
+klikbca.com
 kontrakt.ua
 kranbank.ru
 kreditkarten-banking.lbb.de
@@ -1267,6 +1269,7 @@ nettbank2.danskebank.no
 nettbanken.nordea.no
 netteller.com
 new.mybank.by
+new.permatanet.com
 newvelocity.ocbcnisp.com
 nikoil.az
 nipbank.ru
