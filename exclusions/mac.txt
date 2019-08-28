@@ -12,3 +12,5 @@ www.svyaznoy.ru
 check.svyaznoy.ru
 // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/1084
 www.re-store.ru
+// Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/1097
+www.antonioli.eu
