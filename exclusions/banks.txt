@@ -674,6 +674,7 @@ i.tcb.ru
 i.tochka.com
 i.vtb.ru
 ib.ablv.com
+ib.airbank.cz
 ib.apkbank.ru
 ib.aversbank.ru
 ib.baltikums.eu
