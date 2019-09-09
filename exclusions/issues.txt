@@ -68,3 +68,5 @@ keenetic.link
 ssh.cloud.google.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/138
 startmail.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/191
+profile.franklintempleton.com
