@@ -1208,6 +1208,7 @@ money.idram.am
 money.mail.ru
 money.yandex.ru
 moneymail.ru
+monobank.ua
 moneyman.kz
 moneyman.ru
 moneyou.de
