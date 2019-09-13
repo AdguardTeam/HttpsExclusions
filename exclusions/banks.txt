@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+us.hsbc.com
 ing.de
 interactivebrokers.com
 rabodirect.de
