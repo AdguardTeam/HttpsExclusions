@@ -64,3 +64,5 @@ gov.in
 gov.tw
 // https://github.com/AdguardTeam/HttpsExclusions/issues/186
 apps.cybonline.co.uk
+
+1177.se
