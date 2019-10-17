@@ -93,6 +93,7 @@ arabbank.com.lb
 argenta.be
 artembank.com.ua
 asb.az
+asnbank.nl
 asviobank.ua
 atabank.com
 atb-online.ru
@@ -285,6 +286,7 @@ bss.finars.ru
 bss.novahovcb.ru
 btb.az
 btc-e.com
+bunq.app
 bus.ideabank.ua
 businessonline.ge
 bv-activebanking.de
