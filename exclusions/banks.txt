@@ -3,6 +3,7 @@
 //
 us.hsbc.com
 ing.de
+ing-diba.de
 interactivebrokers.com
 rabodirect.de
 online.standardlife.com
