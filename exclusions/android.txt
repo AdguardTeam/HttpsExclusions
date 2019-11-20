@@ -177,6 +177,7 @@ vkuservideo.net$app=com.vkontakte.android
 // Outlook:
 azureedge.net$app=com.microsoft.office.outlook
 acompli.net$app=com.microsoft.office.outlook
+mam.manage.microsoft.com$app=com.microsoft.office.outlook
 // Instagram:
 facebook.com$app=com.instagram.android
 // Whatsapp & Whatsapp 4B:
@@ -193,5 +194,6 @@ xx.fbcdn.net$app=com.facebook.katana
 mqtt-mini.facebook.com$app=com.facebook.katana
 xx.fbcdn.net$app=com.facebook.katana
 m.facebook.com$app=com.facebook.katana
+graph.fbpigeon.com$app=com.facebook.katana
 // Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
 googleapis.com$app=com.google.android.gms
