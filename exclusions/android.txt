@@ -179,7 +179,7 @@ azureedge.net$app=com.microsoft.office.outlook
 acompli.net$app=com.microsoft.office.outlook
 // Instagram:
 facebook.com$app=com.instagram.android
-//Whatsapp & Whatsapp 4B:
+// Whatsapp & Whatsapp 4B:
 whatsapp.net$app=com.whatsapp
 whatsapp.net$app=com.whatsapp.w4b
 // Tele2:
