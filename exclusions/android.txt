@@ -153,8 +153,6 @@ otf.msn.com
 websockets.platform.bing.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1936
 clientproxyservice.atomtickets.com
-// https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
-googleapis.com$app=com.google.android.gms
 // Samsung own stats are sent here, but it checks the cert
 atlas.samsung.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1867
@@ -163,3 +161,37 @@ api.gm.com
 gmmobileservices.gm.com
 acompli.net
 // https://github.com/AdguardTeam/CoreLibs/issues/1032 (acompli.net Outlook)
+//
+// Specific Excelusions for Applications
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3052
+//
+// Mamba:
+api.mobile-api.ru$app=ru.mamba.client
+// Tunnelbear:
+tunnelbear.com$app=com.tunnelbear.android
+amazonaws.com$app=com.tunnelbear.android
+// VK:
+google.com$app=com.vkontakte.android
+vk.com$app=com.vkontakte.android
+vkuservideo.net$app=com.vkontakte.android
+// Outlook:
+azureedge.net$app=com.microsoft.office.outlook
+acompli.net$app=com.microsoft.office.outlook
+// Instagram:
+facebook.com$app=com.instagram.android
+// Whatsapp & Whatsapp 4B:
+whatsapp.net$app=com.whatsapp
+whatsapp.net$app=com.whatsapp.w4b
+// Tele2:
+tele2.ru$app=ru.tele2.mytele2
+// My Beeline:
+amazonaws.com$app=ru.beeline.services
+// Facebook:
+fna.fbcdn.net$app=com.facebook.katana
+xx.fbcdn.net$app=com.facebook.katana
+xx.fbcdn.net$app=com.facebook.katana
+mqtt-mini.facebook.com$app=com.facebook.katana
+xx.fbcdn.net$app=com.facebook.katana
+m.facebook.com$app=com.facebook.katana
+// Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
+googleapis.com$app=com.google.android.gms
