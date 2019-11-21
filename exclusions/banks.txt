@@ -1,7 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
-anz.com
+anz.com.au
 us.hsbc.com
 ing.de
 ing-diba.de
