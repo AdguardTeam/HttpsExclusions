@@ -197,3 +197,6 @@ m.facebook.com$app=com.facebook.katana
 graph.fbpigeon.com$app=com.facebook.katana
 // Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
 googleapis.com$app=com.google.android.gms
+myaccount.google.com$app=com.google.android.gms
+www.google.com$app=com.google.android.gms
+gvt1.com$app=com.google.android.gms
