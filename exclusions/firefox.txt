@@ -13,3 +13,5 @@ mozilla.org
 mozilla.com
 d13itkw33a7sus.cloudfront.net
 stickypassword.com
+// https://github.com/AdguardTeam/AdguardForWindows/issues/2981
+fpn.firefox.com
