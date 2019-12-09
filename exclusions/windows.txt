@@ -1,6 +1,8 @@
 //
 // Windows specific exclusions
 //
+// https://github.com/AdguardTeam/AdguardForWindows/issues/3116
+extensions.blockbyte.de
 // For teamspeak: https://github.com/AdguardTeam/AdguardForWindows/issues/1409
 api.myteamspeak.com
 clientapi.myteamspeak.com
