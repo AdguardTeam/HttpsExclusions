@@ -71,6 +71,6 @@ const macContents = `${mac}\n${banks}\n${firefox}\n${sensitive}\n${issues}`
 
 const macPath = path.join(outputPath, 'mac_exclusions.txt');
 fs.writeFileSync(macPath, macContents);
-console.log(`Mac: ${windowsPath}, ${macContents.split('\n').length} lines.`);
+console.log(`Mac: ${macPath}, ${macContents.split('\n').length} lines.`);
 
 console.log('Exclusions list are ready!');
