@@ -1,6 +1,8 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+alrayanbank.co.uk
+coventrybuildingsociety.co.uk
 anz.com.au
 us.hsbc.com
 ing.de
