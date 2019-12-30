@@ -327,6 +327,7 @@ cb.mosexibank.ru
 cb.vtb.com.ua
 cb1.sichbank.com
 cbar.az
+cbcfcu.org
 cbportal.commerzbank.com
 ccb.ru
 ccbank.ru
