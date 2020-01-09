@@ -1494,6 +1494,7 @@ payb2b.domru.ru
 paycard.beeline.ru
 payeer.com
 payjet.ru
+pay.google.com
 paymaster.ru
 payment.ru
 paymentgate.ru
