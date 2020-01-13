@@ -244,8 +244,6 @@ bibessen.de
 bic.modulbank.ru
 bigbank.ee
 billdesk.com
-binbank.ru
-binbank-online.open.ru
 bisbank.com.ua
 bistrozaim.ua
 biw-bank.de
@@ -1364,7 +1362,6 @@ online.metcom.ru
 online.mkb.ru
 online.ocbcnisp.com
 online.odeabank.com.tr
-online.open.ru
 online.openbank.ru
 online.oschadbank.ua
 online.pchrb.ru
@@ -3123,7 +3120,6 @@ online.woodforest.com
 pnc.com
 onlinebanking.pnc.com
 marcus.com
-ib.open.ru
 open.ru
 digid.nl
 credit-agricole.fr
@@ -3152,3 +3148,18 @@ online.alrayanbank.co.uk
 alrayanbank.co.uk
 uob.com.sg
 nttdocomo.co.jp
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/241
+
+lk.motivtelecom.ru
+shpd.motivtelecom.ru
+lk.sab-ekb.ru
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/240
+
+farmersebank.com
+ibanking-services.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/238
+
+bbva.com.ar
