@@ -327,6 +327,7 @@ cb1.sichbank.com
 cbar.az
 cbportal.commerzbank.com
 ccb.ru
+cbcfcu.org
 ccbank.ru
 ccservicing.com
 cdm24.pl
@@ -3163,3 +3164,10 @@ ibanking-services.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/238
 
 bbva.com.ar
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/243
+
+computershare.com
+coastal24.com
+allegacy.org
+treasurydirect.gov
