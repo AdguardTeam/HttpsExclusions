@@ -55,6 +55,7 @@ ssh.cloud.google.com
 asm.skype.com
 // https://github.com/AdguardTeam/AdguardForWindows/issues/2266
 instantmessaging-pa.googleapis.com
+meet.google.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/19030
 firestore.googleapis.com
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1103
