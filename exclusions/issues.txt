@@ -75,3 +75,5 @@ ssh.cloud.google.com
 startmail.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/191
 profile.franklintempleton.com
+// https://github.com/AdguardTeam/CoreLibs/issues/1040
+dms.metlife.ru
