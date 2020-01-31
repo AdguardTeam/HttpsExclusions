@@ -77,3 +77,5 @@ startmail.com
 profile.franklintempleton.com
 // https://github.com/AdguardTeam/CoreLibs/issues/1040
 dms.metlife.ru
+// https://github.com/AdguardTeam/CoreLibs/issues/1249
+vnn-res.vgcloud.vn
