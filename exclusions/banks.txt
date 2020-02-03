@@ -695,7 +695,6 @@ ib.bankrbk.kz
 ib.bankrsi.ru
 ib.bmbank.com.ua
 ib.bri.co.id
-ib.btrl.ro
 ib.chelinvest.ru
 ib.emb.spb.ru
 ib.energobank.ru
@@ -1138,7 +1137,6 @@ llb.li
 lloydsbank.com
 lloydsbank.nl
 loebbecke-bank.de
-login.24banking.ro
 login.aliorbank.pl
 login.banknetpower.net
 login.bsczarnkow.pl
@@ -3171,3 +3169,36 @@ computershare.com
 coastal24.com
 allegacy.org
 treasurydirect.gov
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/248
+
+alphabank.ro
+bcr.ro
+btrl.ro
+bfer.ro
+brom.ro
+leumi.ro
+i-conect.ro
+brdoffice.ro
+ceconline.ro
+otpdirekt.ro
+24banking.ro
+homebank.ro
+alphabank.ro
+crediteurope.ro
+internetbanking.ro
+unicreditbanking.eu
+
+// sumdomains
+
+e-bcr.bcr.ro
+george.bcr.ro
+retail.patriabank.ro
+corporate.patriabank.ro
+ebank.eximbank.ro
+ibank.roib.ro
+ibank.idea-bank.ro
+online.garantibbva.ro
+onlinebanking.brci.ro
+ib.intesasanpaolobank.ro
+ibkvbr.vistabank.ro
