@@ -64,11 +64,18 @@ gov.in
 gov.tw
 // https://github.com/AdguardTeam/HttpsExclusions/issues/186
 apps.cybonline.co.uk
-
 1177.se
 e-tjanster.1177.se
 home.mijngezondheid.net
 mijnpazio.nl
 uwzorgonline.nl
 ok.webhop.net
-static.adguard.com
+// Auone login
+connect.auone.jp
+// Docomo login
+cfg.smt.docomo.ne.jp
+id.smt.docomo.ne.jp
+mydocomo.com
+// Softbank login
+bbss.softbankbb.co.jp
+my.softbank.jp
