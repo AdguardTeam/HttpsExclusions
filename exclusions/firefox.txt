@@ -17,3 +17,5 @@ stickypassword.com
 fpn.firefox.com
 // AdGuard extension
 static.adguard.com
+// 1Paassword extension
+cdn.agilebits.com
