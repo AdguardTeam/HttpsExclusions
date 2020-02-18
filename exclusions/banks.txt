@@ -3189,6 +3189,37 @@ crediteurope.ro
 internetbanking.ro
 unicreditbanking.eu
 
+// https://github.com/AdguardTeam/HttpsExclusions/issues/252
+
+settrade.com
+ktbnetbank.com
+thanachartbank.co.th
+tmbdirect.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/251
+
+bdo.com.ph
+bpi.com.ph
+pnb.com.ph
+chinabank.ph
+bancnetonline.com
+devbnkphl.com
+rcbconline-corporate.com
+rcbconlinebanking.com
+unionbankph.com
+eastwestbanker.com
+ucpb.biz
+citibank.com.ph
+asiaunited.com.ph
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/250
+
+bidv.com
+bidv.vn
+vietinbank.vn
+agribank.com.vn
+eximbank.com.vn
+
 // sumdomains
 
 e-bcr.bcr.ro
