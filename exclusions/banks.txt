@@ -201,6 +201,7 @@ banktrust.com.ua
 bankuralsib.ru
 bankvostok.com.ua
 banorte.com
+banquelaurentienne.ca
 banrisul.com.br
 barclaycard.co.uk
 barclaycard.de
@@ -263,6 +264,7 @@ bmo.com
 bmoharris.com
 bmwbank.de
 bn.aliorbank.pl
+bnc.ca
 bnkv.ru
 bnpparibas.com
 bnpparibasfortis.be
@@ -438,6 +440,7 @@ dcu-online.org
 dcu.org
 degussa-bank.de
 deine-volksbank.de
+desjardins.com
 delta-online.kz
 dengisend.ru
 dettinger-bank.de
