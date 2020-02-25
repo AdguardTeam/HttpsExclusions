@@ -71,8 +71,16 @@ home.mijngezondheid.net
 mijnpazio.nl
 uwzorgonline.nl
 ok.webhop.net
-static.adguard.com
-
 cmbchina.com
 nordpass.com
+
+// Auone login
+connect.auone.jp
+// Docomo login
+cfg.smt.docomo.ne.jp
+id.smt.docomo.ne.jp
+mydocomo.com
+// Softbank login
+bbss.softbankbb.co.jp
+my.softbank.jp
 
