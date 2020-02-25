@@ -135,6 +135,8 @@ bank-online.ru
 bank.akbtb.ru
 bank.com.ua
 bank.eximb.com
+banquelaurentienne.ca
+bnc.ca
 bank.megafon.ru
 bank.postil.com
 bank.taatta.ru
@@ -437,6 +439,7 @@ dbo1.uralfinance.com
 dcu-online.org
 dcu.org
 degussa-bank.de
+desjardins.com
 deine-volksbank.de
 delta-online.kz
 dengisend.ru

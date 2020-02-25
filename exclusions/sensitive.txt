@@ -48,6 +48,8 @@ idnotify.com
 completeid.com
 trustedid.com
 idwatchdog.com
+cmbchina.com
+nordpass.com
 trueidentity.com
 lifelock.com
 // Government domains
