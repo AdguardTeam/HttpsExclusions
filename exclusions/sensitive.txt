@@ -48,6 +48,8 @@ idnotify.com
 completeid.com
 trustedid.com
 idwatchdog.com
+cmbchina.com
+nordpass.com
 trueidentity.com
 lifelock.com
 // Government domains
@@ -71,16 +73,4 @@ home.mijngezondheid.net
 mijnpazio.nl
 uwzorgonline.nl
 ok.webhop.net
-cmbchina.com
-nordpass.com
-
-// Auone login
-connect.auone.jp
-// Docomo login
-cfg.smt.docomo.ne.jp
-id.smt.docomo.ne.jp
-mydocomo.com
-// Softbank login
-bbss.softbankbb.co.jp
-my.softbank.jp
-
+static.adguard.com
