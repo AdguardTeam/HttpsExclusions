@@ -200,3 +200,5 @@ googleapis.com$app=com.google.android.gms
 myaccount.google.com$app=com.google.android.gms
 www.google.com$app=com.google.android.gms
 gvt1.com$app=com.google.android.gms
+// Plex https://github.com/AdguardTeam/AdguardForAndroid/issues/3324
+plex.tv$app=com.plexapp.android
