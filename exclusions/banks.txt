@@ -3225,6 +3225,53 @@ vietinbank.vn
 agribank.com.vn
 eximbank.com.vn
 
+// https://github.com/AdguardTeam/HttpsExclusions/issues/269
+
+takarekbank.hu
+netbank.takarekbank.hu
+simplepay.hu
+securepay.simplepay.hu
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/268
+
+bankchb.com
+eximbank.com.tw
+cathaybk.com.tw
+tbb.com.tw
+sc.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/267
+
+paypalobjects.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/266
+
+simplii.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/265
+
+agorainvestimentos.com.br
+bradesco.com.br
+btgpactualdigital.com.br
+credicard.com.br
+foxbit.com.br
+mercadobitcoin.com.br
+sofisadireto.com.br
+xpi.com.br
+cav.receita.fazenda.gov.br
+
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/263
+
+hangseng.com
+bochk.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/262
+
+simple.com
+chime.com
+alliantcreditunion.org
+
 // sumdomains
 
 e-bcr.bcr.ro
@@ -3238,3 +3285,5 @@ online.garantibbva.ro
 onlinebanking.brci.ro
 ib.intesasanpaolobank.ro
 ibkvbr.vistabank.ro
+
+
