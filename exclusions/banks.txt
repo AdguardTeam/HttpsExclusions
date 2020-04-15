@@ -3272,6 +3272,10 @@ simple.com
 chime.com
 alliantcreditunion.org
 
+// https://github.com/AdguardTeam/HttpsExclusions/issues/271
+
+cmbchina.com
+
 // sumdomains
 
 e-bcr.bcr.ro
