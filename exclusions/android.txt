@@ -202,3 +202,6 @@ www.google.com$app=com.google.android.gms
 gvt1.com$app=com.google.android.gms
 // Plex https://github.com/AdguardTeam/AdguardForAndroid/issues/3324
 plex.tv$app=com.plexapp.android
+// Railcard https://github.com/AdguardTeam/AdguardForAndroid/issues/3255
+railcard.co.uk$app=com.raildeliverygroup.railcard
+digital-railcard.co.uk$app=com.raildeliverygroup.railcard
