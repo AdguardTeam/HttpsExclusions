@@ -162,7 +162,7 @@ gmmobileservices.gm.com
 acompli.net
 // https://github.com/AdguardTeam/CoreLibs/issues/1032 (acompli.net Outlook)
 //
-// Specific Excelusions for Applications
+// Specific Exclusions for Applications
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/3052
 //
 // Mamba:
@@ -174,6 +174,7 @@ amazonaws.com$app=com.tunnelbear.android
 google.com$app=com.vkontakte.android
 vk.com$app=com.vkontakte.android
 vkuservideo.net$app=com.vkontakte.android
+vk-cdn.net$app=com.vkontakte.android
 // Outlook:
 azureedge.net$app=com.microsoft.office.outlook
 acompli.net$app=com.microsoft.office.outlook
@@ -205,3 +206,36 @@ plex.tv$app=com.plexapp.android
 // Railcard https://github.com/AdguardTeam/AdguardForAndroid/issues/3255
 railcard.co.uk$app=com.raildeliverygroup.railcard
 digital-railcard.co.uk$app=com.raildeliverygroup.railcard
+//
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3328
+//
+// Norton mobile security
+developers.google.com$app=com.symantec.mobilesecurity
+norton.com$app=com.symantec.mobilesecurity
+// Sophos Intercept X
+sophosxl.net$app=com.sophos.smsec
+// Zomato
+api.zomato.com$app=com.application.zomato
+// Google calendar
+googleapis.com$app=com.google.android.calendar
+googleapis.com$app=com.google.android.syncadapters.calendar
+// Audible by Amazon
+amazon.com$app=com.audible.application
+audible.de$app=com.audible.application
+// SASystemProviders (Samsung)
+dls-udc.dqa.samsung.com$app=com.samsung.accessory.safiletransfer
+// Play Services fonts
+fonts.gstatic.com$app=com.google.android.gms
+// YouTube
+googleusercontent.com$app=com.google.android.youtube
+youtubei.googleapis.com$app=com.google.android.youtube
+youtube.com$app=com.google.android.youtube
+ggpht.com$app=com.google.android.youtube
+ytimg.com$app=com.google.android.youtube
+// Yandex Disk
+downloader.disk.yandex.ru$app=ru.yandex.disk
+api.browser.yandex.ru$app=ru.yandex.disk
+cloud-api.yandex.net$app=ru.yandex.disk
+google.com$app=ru.yandex.disk
+// PS App
+playstation.com$app=com.scee.psxandroid
