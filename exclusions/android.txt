@@ -239,3 +239,5 @@ cloud-api.yandex.net$app=ru.yandex.disk
 google.com$app=ru.yandex.disk
 // PS App
 playstation.com$app=com.scee.psxandroid
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3419
+com.huawei.gameassistant
