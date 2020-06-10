@@ -1129,7 +1129,6 @@ ligabank.de
 lime-zaim.ru
 link.otkritiefc.ru
 liqpay.com
-lite.openbank.ru
 live.adyen.com
 lk.bcsb.ru
 lk.platon.ru
@@ -1366,7 +1365,6 @@ online.metcom.ru
 online.mkb.ru
 online.ocbcnisp.com
 online.odeabank.com.tr
-online.openbank.ru
 online.oschadbank.ua
 online.pchrb.ru
 online.piraeusbank.ua
@@ -1439,7 +1437,7 @@ onlinebanking-vrbanknet.de
 onlinebanking.aib.ie
 onlinebanking.bank-credit-suisse-moscow.ru
 onlinebanking.usbank.com
-onlineretailbank.unicredit.it
+unicredit.it
 onlinesbi.com
 onlinetsb.kz
 onstmettinger-bank.de
@@ -2388,7 +2386,6 @@ stadtsparkasse-versmold.de
 standardbank.co.za
 start2pay.com
 stat-dv.mtsbank.ru
-stat.openbank.ru
 static.siteheart.com
 steylerbank.de
 stripe.com
@@ -3290,4 +3287,41 @@ onlinebanking.brci.ro
 ib.intesasanpaolobank.ro
 ibkvbr.vistabank.ro
 
+// https://github.com/AdguardTeam/HttpsExclusions/issues/276
 
+online.adcb.com
+emiratesnbd.com
+emiratesnbd.com.eg
+nbe.com.eg
+ib.qnbalahli.com
+digital.noorbank.com
+rakbankonline.ae
+online.dubaifirst.com
+alahlynet.com.eg
+ae.online.standardchartered.com
+openbank.ru
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/278
+
+hl.co.uk
+online.hl.co.uk
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/279
+
+openbank.es
+bancosantander.es
+evobanco.com
+selfbank.es
+wizink.es
+bankinter.com
+unicaja.es
+unicajabanco.es
+bancsabadell.com
+liberbank.es
+wallet.btc.com
+wallet.bitcoin.com
+myetherwallet.com
+login.blockchain.com
+guarda.co
+coinbase.com
+bitwala.com
