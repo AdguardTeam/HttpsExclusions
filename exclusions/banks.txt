@@ -3325,3 +3325,18 @@ login.blockchain.com
 guarda.co
 coinbase.com
 bitwala.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/285
+
+payments.braintree-api.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/284
+
+qnb.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/282
+
+onfastspring.com
+
+
+
