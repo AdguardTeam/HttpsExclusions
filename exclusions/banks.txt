@@ -3339,12 +3339,6 @@ qnb.com
 
 onfastspring.com
 
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/287
 
 amerantbank.com
-
-
-// https://github.com/AdguardTeam/HttpsExclusions/issues/283
-
-rzd.ru
