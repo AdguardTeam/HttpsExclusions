@@ -245,6 +245,7 @@ bhw.de
 bibessen.de
 bic.modulbank.ru
 bigbank.ee
+big.pt
 billdesk.com
 bisbank.com.ua
 bistrozaim.ua
@@ -3339,4 +3340,11 @@ qnb.com
 onfastspring.com
 
 
+// https://github.com/AdguardTeam/HttpsExclusions/issues/287
 
+amerantbank.com
+
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/283
+
+rzd.ru

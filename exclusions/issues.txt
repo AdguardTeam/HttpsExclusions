@@ -83,3 +83,7 @@ profile.franklintempleton.com
 dms.metlife.ru
 // https://github.com/AdguardTeam/CoreLibs/issues/1249
 vnn-res.vgcloud.vn
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/291
+
+nuernberg.de
