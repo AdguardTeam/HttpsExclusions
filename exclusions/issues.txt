@@ -85,3 +85,5 @@ dms.metlife.ru
 vnn-res.vgcloud.vn
 // https://github.com/AdguardTeam/HttpsExclusions/issues/291
 nuernberg.de
+// AG-3013
+ping.*.adguard.io
