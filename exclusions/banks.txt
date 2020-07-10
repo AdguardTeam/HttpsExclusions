@@ -245,6 +245,7 @@ bhw.de
 bibessen.de
 bic.modulbank.ru
 bigbank.ee
+big.pt
 billdesk.com
 bisbank.com.ua
 bistrozaim.ua
@@ -3149,31 +3150,21 @@ online.alrayanbank.co.uk
 alrayanbank.co.uk
 uob.com.sg
 nttdocomo.co.jp
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/241
-
 lk.motivtelecom.ru
 shpd.motivtelecom.ru
 lk.sab-ekb.ru
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/240
-
 farmersebank.com
 ibanking-services.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/238
-
 bbva.com.ar
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/243
-
 computershare.com
 coastal24.com
 allegacy.org
 treasurydirect.gov
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/248
-
 alphabank.ro
 bcr.ro
 btrl.ro
@@ -3190,16 +3181,12 @@ alphabank.ro
 crediteurope.ro
 internetbanking.ro
 unicreditbanking.eu
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/252
-
 settrade.com
 ktbnetbank.com
 thanachartbank.co.th
 tmbdirect.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/251
-
 bdo.com.ph
 bpi.com.ph
 pnb.com.ph
@@ -3213,40 +3200,28 @@ eastwestbanker.com
 ucpb.biz
 citibank.com.ph
 asiaunited.com.ph
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/250
-
 bidv.com
 bidv.vn
 vietinbank.vn
 agribank.com.vn
 eximbank.com.vn
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/269
-
 takarekbank.hu
 netbank.takarekbank.hu
 simplepay.hu
 securepay.simplepay.hu
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/268
-
 bankchb.com
 eximbank.com.tw
 cathaybk.com.tw
 tbb.com.tw
 sc.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/267
-
 paypalobjects.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/266
-
 simplii.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/265
-
 agorainvestimentos.com.br
 bradesco.com.br
 btgpactualdigital.com.br
@@ -3256,25 +3231,16 @@ mercadobitcoin.com.br
 sofisadireto.com.br
 xpi.com.br
 cav.receita.fazenda.gov.br
-
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/263
-
 hangseng.com
 bochk.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/262
-
 simple.com
 chime.com
 alliantcreditunion.org
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/271
-
 cmbchina.com
-
 // sumdomains
-
 e-bcr.bcr.ro
 george.bcr.ro
 retail.patriabank.ro
@@ -3286,9 +3252,7 @@ online.garantibbva.ro
 onlinebanking.brci.ro
 ib.intesasanpaolobank.ro
 ibkvbr.vistabank.ro
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/276
-
 online.adcb.com
 emiratesnbd.com
 emiratesnbd.com.eg
@@ -3300,14 +3264,10 @@ online.dubaifirst.com
 alahlynet.com.eg
 ae.online.standardchartered.com
 openbank.ru
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/278
-
 hl.co.uk
 online.hl.co.uk
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/279
-
 openbank.es
 bancosantander.es
 evobanco.com
@@ -3325,18 +3285,11 @@ login.blockchain.com
 guarda.co
 coinbase.com
 bitwala.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/285
-
 payments.braintree-api.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/284
-
 qnb.com
-
 // https://github.com/AdguardTeam/HttpsExclusions/issues/282
-
 onfastspring.com
-
-
-
+// https://github.com/AdguardTeam/HttpsExclusions/issues/287
+amerantbank.com
