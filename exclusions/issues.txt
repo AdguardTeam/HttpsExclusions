@@ -83,7 +83,7 @@ profile.franklintempleton.com
 dms.metlife.ru
 // https://github.com/AdguardTeam/CoreLibs/issues/1249
 vnn-res.vgcloud.vn
-// https://github.com/AdguardTeam/HttpsExclusions/issues/291 
-nuernberg.de
 // AG-3013
 ping.*.adguard.io
+// https://github.com/AdguardTeam/HttpsExclusions/issues/291 
+nuernberg.de
