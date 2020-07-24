@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: banks and financial services
 //
+hlebroking.com
 alrayanbank.co.uk
 coventrybuildingsociety.co.uk
 anz.com.au
