@@ -81,3 +81,5 @@ mydocomo.com
 // Softbank login
 bbss.softbankbb.co.jp
 my.softbank.jp
+//https://github.com/AdguardTeam/CoreLibs/issues/1301
+dec.fazenda.df.gov.br
