@@ -1489,6 +1489,7 @@ nordthueringer-volksbank.de
 norisbank.de
 nospa.de
 ns-bank.ru
+nsandi.com
 nttdocomo.co.jp
 nubank.com.br
 nwolb.com
@@ -2250,6 +2251,7 @@ secure.sirena-travel.ru
 secure.tcsbank.ru
 secure.ucs.su
 secure.upc.ua
+secure3.nsandi.com
 secure4.segpay.com
 secure5.arcot.com
 secureacceptance.cybersource.com
