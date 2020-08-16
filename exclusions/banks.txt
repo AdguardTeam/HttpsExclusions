@@ -143,13 +143,18 @@ bancoagrario.gov.co
 bancobrasil.com.br
 bancocajasocial.com
 bancocaroni.com.ve
+bancochile.cl
+bancoconsorcio.cl
 bancodebogota.com
 bancodeoccidente.com.co
 bancodobrasil.com.br
+bancoestado.cl
 bancoexterior.com
+bancofalabella.cl
 bancofalabella.com.co
 bancofinandina.com
 bancointer.com.br
+bancointernacional.cl
 bancoldex.com
 bancomer.com
 bancoomeva.com.co
@@ -157,7 +162,9 @@ bancopichincha.com.co
 bancopopular.com.co
 bancopopular.es
 bancoprocredit.com.co
+bancoripley.cl
 bancosantander.es
+bancosecurity.cl
 bancow.com.co
 bancrecerdigital.com
 bancsabadell.com
@@ -290,6 +297,7 @@ bhf-bank.com
 bhw.de
 bibessen.de
 bic.modulbank.ru
+bice.cl
 bidv.com
 bidv.vn
 big.pt
@@ -448,6 +456,7 @@ client.vpb.ru
 client.yarinterbank.ru
 cmbank.ru
 cmbchina.com
+cmr.cl
 cms.tu.bk.mufg.jp
 cnb.com
 co-operativebank.co.nz
@@ -1159,6 +1168,7 @@ isube.anadolubank.com.tr
 isube.kuveytturk.com.tr
 isube.tbank.com.tr
 it.tb.by
+itau.cl
 itau.co
 itau.com.br
 itiny.industrialbank.ua
@@ -2187,6 +2197,7 @@ saba.bankmelli-iran.com
 saferpay.com
 salzlandsparkasse.de
 sanalpos.halkbank.com.tr
+santander.cl
 santander.com.br
 santander.com.co
 santander.de
@@ -2212,7 +2223,9 @@ scharnhauserbank.de
 schwab.com
 schwaebisch-hall.de
 schwaebische-bank.de
+scotiabank.cl
 scotiabank.com
+scotiabankchile.cl
 scsb.com.tw
 scu.org.tw
 sdk-bockum-hoevel.de
@@ -2675,6 +2688,7 @@ taishinbank.com.tw
 takarekbank.hu
 tangerine.ca
 targobank.de
+tarjetacencosud.cl
 tas24.ua
 taunussparkasse.de
 tavrich.ru
@@ -2716,6 +2730,7 @@ trade.paritem.com
 trade.webborsam.com
 train.ideabank.ua
 transaccionesbancolombia.com
+transbank.cl
 transcredit.ru
 treasurydirect.gov
 triodos.es
