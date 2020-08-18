@@ -1,6 +1,6 @@
 //
-// Adguard HTTPS exclusions: banks and financial services
 //
+// Adguard HTTPS exclusions: banks and financial services
 1.elecsnet.ru
 1822direkt-banking.de
 1822direkt.de
@@ -326,6 +326,7 @@ bn.aliorbank.pl
 bnc.ca
 bnkv.ru
 bnpparibas.com
+bnpparibas.hu
 bnpparibasfortis.be
 bnz.co.nz
 bobibanking.com
@@ -361,6 +362,7 @@ btb.az
 btc-e.com
 btgpactualdigital.com.br
 btrl.ro
+budapestbank.hu
 bunq.app
 bus.ideabank.ua
 businessonline.ge
@@ -411,6 +413,7 @@ ceconline.ro
 centrinvest.ru
 centrum24.pl
 cepteteb.com.tr
+cetelem.hu
 cfi.mb.seb.se
 cfront.alfabank.kiev.ua
 ch6c.com.tw
@@ -426,6 +429,7 @@ chelindbank.ru
 chime.com
 chinabank.ph
 chinatrust.com
+cib.hu
 cibc.com
 cic.fr
 cimbclicks.co.id
@@ -468,6 +472,7 @@ colpatria.com.co
 comdirect.de
 commbank.com.au
 commerzbank.de
+commerzbank.hu
 commerzfinanz.com
 companyonline.ch
 computershare.com
@@ -574,6 +579,7 @@ donau-iller-bank.de
 donner-reuschel.de
 dovoba.de
 dslbank.de
+dtbank.hu
 dto.vakifbank.com.tr
 dvbank.ua
 dvbbank.com
@@ -742,6 +748,7 @@ gobank-online.de
 goldenpay.az
 gorod23.ru
 grafschafter-volksbank.de
+granitbank.hu
 greenmoney.ru
 greensill-bank.com
 grenke.net
@@ -1125,6 +1132,7 @@ ing.com.au
 ing.de
 ing.es
 ingbank.com.tr
+ingbank.hu
 ingbank.pl
 ingdirect.com.au
 ingdirect.es
@@ -1192,6 +1200,7 @@ kautionen.aareal-bank.com
 kbc.be
 kbtub.ru
 kd-bank.de
+kdb.hu
 kebhana.com
 key.com
 keytradebank.be
@@ -1337,6 +1346,7 @@ m2u.maybank.co.id
 mabanque.bnpparibas
 mabanqueprivee.bnpparibas
 maerkische-bank.de
+magnetbank.hu
 maib.md
 mangomoney.ru
 manimo.su
@@ -1376,8 +1386,10 @@ mercantilbanco.com
 mercedes-benz-bank.de
 merchantsecurity.enstage.com
 merckfinck.de
+merkantil.hu
 metabankonline.com.ua
 metzler.com
+mfb.hu
 mfbank.ru
 mib.devoncredit.ru
 micb.md
@@ -1392,6 +1404,7 @@ mitfcu.org
 mitnykredit.dk
 mizrahi-tefahot.co.il
 mizuhobank.co.jp
+mkb.hu
 mkbnetbankar.hu
 ml.com
 mlb.de
@@ -1667,6 +1680,7 @@ opelbank.de
 open.ru
 openbank.es
 openbank.ru
+operbank.hu
 oplata.beeline.ru
 oplata.lifecell.com.ua
 oplatatroika.mobi-money.ru
@@ -1683,6 +1697,7 @@ ostsaechsische-sparkasse-dresden.de
 otf.seb.se
 otkritie.rapida.ru
 otpbank.com.ua
+otpbank.hu
 otpbank.ru
 otpbankdirekt.hu
 otpdirekt.ro
@@ -1777,8 +1792,10 @@ pnb.com.ph
 pnbindia.in
 pnc.com
 poidem.ru
+polgaribank.hu
 pommerschevb.de
 poppankki.fi
+porschefinance.hu
 portal.aareal.com
 portal.citidirect.com
 portal.lacaixa.es
@@ -2206,6 +2223,7 @@ santanderbank.com
 santanderconsumer.se
 sbab.se
 sberbank-ast.ru
+sberbank.hu
 sberbank.kz
 sberbank.ru
 sberbank.ua
@@ -2758,6 +2776,7 @@ unibank.az
 unicaja.es
 unicajabanco.es
 unicredit.it
+unicreditbank.hu
 unicreditbanking.eu
 unicreditbanking.net
 unifinbank.ru
