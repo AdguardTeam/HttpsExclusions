@@ -345,6 +345,7 @@ bph.pl
 bpi.com.ph
 bpiexpressonline.com
 bpostbank.be
+bpostbanque.be
 bps-sberbank.by
 bradesco.com.br
 brdoffice.ro
