@@ -85,6 +85,7 @@ ambank.com.my
 amerantbank.com
 americanexpress.com
 americanexpress.com
+amp.com.au
 amrahbank.az
 amundi-tc.com
 androidpay-users-pa.googleapis.com
@@ -376,6 +377,7 @@ caisse-epargne.fr
 caixa-enginyers.com
 caixa.gov.br
 caixaebankingonline.cgd.pt
+cajamar.es
 campuscu.com
 canarabank.in
 capitalone.com
@@ -3297,6 +3299,7 @@ yapikredi.com.az
 yapikredi.com.tr
 yarbank.ru
 yenibayi.passotaksit.com.tr
+youneedabudget.com
 yuantabank.com.tw
 z.tochka.com
 zaim.com
@@ -3306,4 +3309,3 @@ zaymer.ru
 ziraatbank.az
 ziraatbank.com.tr
 zkb.ch
-zkb.ru
