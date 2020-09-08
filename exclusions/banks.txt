@@ -636,6 +636,8 @@ ekonto.paluckibs.pl
 ekspertiz.bankasya.com.tr
 ekspertiz.turkiyefinans.com.tr
 ekspertiz.vakifbank.com.tr
+elevationsbanking.com
+elevationscu.com
 ellisbank.com
 elster.de
 emiratesnbd.com
@@ -2791,6 +2793,7 @@ unison24.com.ua
 unistream.ru
 unitpay.ru
 universalbank.com.ua
+univest.net
 unsere-raiba.de
 unserevolksbank.de
 uob.co.th
