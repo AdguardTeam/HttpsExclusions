@@ -636,6 +636,8 @@ ekonto.paluckibs.pl
 ekspertiz.bankasya.com.tr
 ekspertiz.turkiyefinans.com.tr
 ekspertiz.vakifbank.com.tr
+elevationsbanking.com
+elevationscu.com
 ellisbank.com
 elster.de
 emiratesnbd.com
@@ -666,8 +668,6 @@ eurocitybank-onlinebanking.de
 eurocitybank.ru
 europe.citidirect-eb.citicorp.com
 europlan.ru
-elevationscu.com
-elevationsbanking.com
 evb-meppen.de
 evenordbank.de
 evobanco.com
