@@ -666,6 +666,8 @@ eurocitybank-onlinebanking.de
 eurocitybank.ru
 europe.citidirect-eb.citicorp.com
 europlan.ru
+elevationscu.com
+elevationsbanking.com
 evb-meppen.de
 evenordbank.de
 evobanco.com
@@ -2791,6 +2793,7 @@ unison24.com.ua
 unistream.ru
 unitpay.ru
 universalbank.com.ua
+univest.net
 unsere-raiba.de
 unserevolksbank.de
 uob.co.th
