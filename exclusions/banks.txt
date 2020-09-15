@@ -273,6 +273,8 @@ bc.kbmkb.ru
 bc.mbr.ru
 bcc-msk.ru
 bcc.kz
+bci.nc
+bcinet.nc
 bcj.ch
 bclient.nkcbank.ru
 bcr.md
@@ -327,9 +329,11 @@ bmoharris.com
 bmwbank.de
 bn.aliorbank.pl
 bnc.ca
+bnc.nc
 bnkv.ru
 bnpparibas.com
 bnpparibas.hu
+bnpparibas.nc
 bnpparibasfortis.be
 bnz.co.nz
 bobibanking.com
@@ -1489,6 +1493,7 @@ nbcbank.az
 nbe.com.eg
 nbg.gr
 nbmc.ru
+nc.bnpparibas.net
 nccc.com.tw
 nedbank.co.za
 netbank.de
@@ -1515,6 +1520,7 @@ nobaeg.de
 nokss.ru
 nordea.com
 nordea.ru
+nordea.se
 nordea.se
 nordeanetbank.dk
 nordthueringer-volksbank.de
@@ -2308,6 +2314,7 @@ service.santanderconsumer.at
 servis24.cz
 settrade.com
 sgb24.pl
+sgcb.nc
 sgeb.bg
 sgkb.ch
 sgkb.de
