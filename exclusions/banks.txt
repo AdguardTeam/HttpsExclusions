@@ -24,6 +24,7 @@ a-3.ru
 a24m.a-bank.com.ua
 aab.de
 abcbank.de
+abchina.com
 abl.agrocombank.com.ua
 abnamro.nl
 abr.ru
@@ -191,6 +192,7 @@ bankastana.kz
 bankaudi.com.lb
 bankavrasiya.az
 bankchb.com
+bankcomm.com
 bankelita.ru
 banker.ua
 bankhapoalim.co.il
@@ -408,6 +410,7 @@ cb1.sichbank.com
 cbar.az
 cbcfcu.org
 cbportal.commerzbank.com
+ccb.com
 ccb.ru
 ccbank.ru
 ccservicing.com
@@ -1512,6 +1515,7 @@ nobaeg.de
 nokss.ru
 nordea.com
 nordea.ru
+nordea.se
 nordeanetbank.dk
 nordthueringer-volksbank.de
 norisbank.de
@@ -2186,7 +2190,6 @@ rs-portal.capitalbank.ru
 rsb.ru
 rshb.ru
 rsportal.kbca.ru
-ru.intl.ccb.com
 ruru.ru
 rusnarbank.com
 russipoteka.ru
