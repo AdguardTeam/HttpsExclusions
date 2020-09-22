@@ -529,6 +529,7 @@ dab-bank.de
 dalena.ru
 danamonline.com
 danskebank.dk
+danskebank.se
 davivienda.com
 db-pbc.pl
 db.com
@@ -2264,6 +2265,7 @@ sdk-bockum-hoevel.de
 sdk-stockhausen.de
 sdkinlamstedt.de
 seb.ee
+seb.se
 secb.de
 secure-banking.de
 secure-payments.express-bank.ru
