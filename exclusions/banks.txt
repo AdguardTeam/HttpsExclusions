@@ -193,6 +193,7 @@ bankaudi.com.lb
 bankavrasiya.az
 bankchb.com
 bankcomm.com
+bankdki.co.id
 bankelita.ru
 banker.ua
 bankhapoalim.co.il
@@ -369,8 +370,10 @@ bss.novahovcb.ru
 btb.az
 btc-e.com
 btgpactualdigital.com.br
+btpn.com
 btrl.ro
 budapestbank.hu
+bukopin.co.id
 bunq.app
 bus.ideabank.ua
 businessonline.ge
@@ -1196,6 +1199,7 @@ itscenter.alipay.com
 ivybank.ru
 iw.unistream.ru
 izhcard.ru
+jenius.com
 jihsunbank.com.tw
 jkopay.com
 jp-bank.japanpost.jp
