@@ -200,6 +200,7 @@ bankhaus-hallbaum.de
 bankhaus-mayer.de
 bankhaus-plump.de
 bankia.es
+bankid.no
 bankid.org.ua
 banking-gefa-bank.de
 banking-merkur-bank.de
@@ -525,6 +526,7 @@ dab-bank.de
 dalena.ru
 danamonline.com
 danskebank.dk
+danskebank.se
 davivienda.com
 db-pbc.pl
 db.com
@@ -764,6 +766,7 @@ grenkeonline.com
 group.pictet
 grupobancolombia.com
 gsb.or.th
+gtbank.com
 guarda.co
 gunaybank.com
 gutapay.ru
@@ -1809,6 +1812,7 @@ portal.aareal.com
 portal.citidirect.com
 portal.lacaixa.es
 portal.nefteprom.com
+portalbank.no
 portaldepagosmercantil.com
 portmanat.az
 portmone.com.ua
@@ -2258,6 +2262,7 @@ sdk-bockum-hoevel.de
 sdk-stockhausen.de
 sdkinlamstedt.de
 seb.ee
+seb.se
 secb.de
 secure-banking.de
 secure-payments.express-bank.ru
@@ -2684,6 +2689,7 @@ stadtsparkasse-remscheid.de
 stadtsparkasse-schmallenberg.de
 stadtsparkasse-schwalmstadt.de
 stadtsparkasse-versmold.de
+stanbicibtcbank.com
 standardbank.co.za
 standardchartered.com.tw
 start2pay.com
@@ -3133,6 +3139,7 @@ volvofinans.se
 vorne.de
 vostbank.ru
 vp.ru
+vpbank.com.vn
 vpos.isbank.co.uk
 vr-amberg.de
 vr-b.de
