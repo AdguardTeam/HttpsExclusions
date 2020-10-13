@@ -85,3 +85,8 @@ my.softbank.jp
 dec.fazenda.df.gov.br
 // https://github.com/AdguardTeam/HttpsExclusions/issues/311
 intelink.gov
+receiptbank.com
+xero.com
+freshbooks.com
+kashflow.com
+prestigecu.org
