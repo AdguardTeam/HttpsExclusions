@@ -1,3 +1,4 @@
+
 //
 //
 // Adguard HTTPS exclusions: banks and financial services
@@ -58,12 +59,16 @@ akbank.de
 akbars.ru
 akf.de
 akf24.de
+alahli.com
 alahlynet.com.eg
+alawwalbank.com
 albank.ru
 alfa-bank.by
 alfabank.kz
 alfabank.ru
 alfaportal.ru
+alfransi.com.sa
+alinma.com
 aliorbank.pl
 alipay.com
 allegacy.org
@@ -188,6 +193,7 @@ bank11.de
 bank11direkt.de
 bank1saar.de
 bank34.ua
+bankalbilad.com
 bankastana.kz
 bankaudi.com.lb
 bankavrasiya.az
@@ -868,6 +874,7 @@ ib.banknp.ru
 ib.bankrbk.kz
 ib.bankrsi.ru
 ib.bmbank.com.ua
+ib.bpi.ir
 ib.bri.co.id
 ib.chelinvest.ru
 ib.emb.spb.ru
@@ -1460,6 +1467,7 @@ mvb.de
 my-volksbank.de
 my-zaim.ru
 my.alfabank.com.ua
+my.bmi.ir
 my.credit-agricole.com.ua
 my.europlanbank.ru
 my.helaba.bank
@@ -2186,6 +2194,8 @@ rheingauer-volksbank.de
 rhoen-rennsteig-sparkasse.de
 richart.tw
 rileg.de
+ripb.parsian-bank.ir
+riyadbank.com
 robinhood.com
 robokassa.ru
 rocketbank.ru
@@ -2231,8 +2241,11 @@ s2b.standardchartered.com
 saalesparkasse.de
 saastopankki.fi
 saba.bankmelli-iran.com
+sabb.com
 saferpay.com
+saib.com.sa
 salzlandsparkasse.de
+samba.com
 sanalpos.halkbank.com.tr
 santander.cl
 santander.com.br
