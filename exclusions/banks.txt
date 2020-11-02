@@ -3338,5 +3338,14 @@ qnb.com
 
 onfastspring.com
 
+banquepopulaire.fr
+fr.banquepopulaire.cyberplus
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/338
+
+secureinternetbank.com
+
+// https://github.com/AdguardTeam/HttpsExclusions/issues/337
+
 
 
