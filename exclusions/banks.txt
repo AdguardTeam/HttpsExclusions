@@ -1,4 +1,5 @@
 
+
 //
 //
 // Adguard HTTPS exclusions: banks and financial services
@@ -257,6 +258,7 @@ bankvostok.com.ua
 banorte.com
 banplusonline.com
 banquelaurentienne.ca
+banquepopulaire.fr
 banrisul.com.br
 barclaycard.co.uk
 barclaycard.de
@@ -736,6 +738,7 @@ forex.se
 forsakringskassan.se
 fortuneo.fr
 foxbit.com.br
+fr.banquepopulaire.cyberplus
 frankenberger-bank.de
 frankfurter-sparkasse.de
 frankfurter-volksbank.de
@@ -2324,6 +2327,7 @@ secure3.nsandi.com
 secure4.segpay.com
 secure5.arcot.com
 secureacceptance.cybersource.com
+secureinternetbank.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
