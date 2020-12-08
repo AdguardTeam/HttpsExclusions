@@ -60,6 +60,8 @@ mvd.dor.ga.gov
 receita.economia.gov.br
 zakupki.gov.ru
 gov.pl
+// https://github.com/AdguardTeam/HttpsExclusions/issues/348
+tikker.emta.ee
 // https://github.com/AdguardTeam/HttpsExclusions/issues/341
 paypal-topup.ee
 // https://github.com/AdguardTeam/CoreLibs/issues/533
