@@ -65,6 +65,10 @@ freshbooks.com
 kashflow.com
 prestigecu.org
 gov.pl
+// https://github.com/AdguardTeam/HttpsExclusions/issues/348
+tikker.emta.ee
+// https://github.com/AdguardTeam/HttpsExclusions/issues/341
+paypal-topup.ee
 // https://github.com/AdguardTeam/CoreLibs/issues/533
 gov.in
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1705
@@ -90,7 +94,8 @@ my.softbank.jp
 dec.fazenda.df.gov.br
 // https://github.com/AdguardTeam/HttpsExclusions/issues/311
 intelink.gov
-// https://github.com/AdguardTeam/HttpsExclusions/issues/350
-govt.nz
-// https://github.com/AdguardTeam/HttpsExclusions/issues/344
-scalable.capital
+receiptbank.com
+xero.com
+freshbooks.com
+kashflow.com
+prestigecu.org
