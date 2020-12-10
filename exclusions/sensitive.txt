@@ -59,6 +59,11 @@ mil
 mvd.dor.ga.gov
 receita.economia.gov.br
 zakupki.gov.ru
+receiptbank.com
+xero.com
+freshbooks.com
+kashflow.com
+prestigecu.org
 gov.pl
 // https://github.com/AdguardTeam/CoreLibs/issues/533
 gov.in

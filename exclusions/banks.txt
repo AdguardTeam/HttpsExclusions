@@ -381,6 +381,7 @@ bunq.app
 bus.ideabank.ua
 businessonline.ge
 buy.moonpay.io
+buyway.be
 bv-activebanking.de
 byblosbank.com.lb
 bystrobank.ru
@@ -405,6 +406,7 @@ card2cash.unistream.ru
 cardhouse.ncc-uc.ru
 cardpay.com
 cardtocard.dvbank.ua
+carrefourfinance.be
 cashfree.com
 castell-bank.de
 cathaybk.com.tw
@@ -423,6 +425,7 @@ cbar.az
 cbcfcu.org
 cbportal.commerzbank.com
 ccavenue.com
+ccb.com
 ccb.ru
 ccbank.ru
 ccservicing.com
@@ -1226,6 +1229,7 @@ ivybank.ru
 iw.unistream.ru
 izhcard.ru
 jelly.market
+jenius.com
 jihsunbank.com.tw
 jkopay.com
 jp-bank.japanpost.jp
