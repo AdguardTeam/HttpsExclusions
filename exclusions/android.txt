@@ -243,3 +243,5 @@ playstation.com$app=com.scee.psxandroid
 store.hispace.hicloud.com$app=com.huawei.gameassistant
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/3425
 dl.google.com$app=com.android.providers.media
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3681
+weatherapi.market.xiaomi.com
