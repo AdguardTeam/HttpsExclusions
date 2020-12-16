@@ -765,6 +765,7 @@ foerde-sparkasse.de
 fondsdepotbank.de
 forabank.ru
 forex.se
+forex.se
 forsakringskassan.se
 fortuneo.fr
 fosterswiss.com
@@ -1175,6 +1176,7 @@ ifobs.kredobank.com.ua
 igsb.ru
 ihrziel.de
 ik.rinvestbank.ru
+ikanobank.se
 ikb.de
 ikb.uci-bank.com
 ikib.ru
@@ -1277,6 +1279,7 @@ kh3c.com.tw
 kieler-volksbank.de
 kiwibank.co.nz
 kkb.ru
+klarna.com
 klikbca.com
 kokobank.com
 kontrakt.ua
@@ -1369,6 +1372,7 @@ kz.shinhanglobal.com
 labanquepostale.fr
 landbank-horlofftal.de
 landbank.com.tw
+lansforsakringar.se
 lansforsakringar.se
 leaseplanbank.de
 leboutique.com
@@ -2240,6 +2244,7 @@ redwoodcu.org
 regiobank.nl
 renault-bank-direkt.de
 resonabank.co.jp
+resursbank.se
 retail.axisbank.co.in
 retail.mvbank.ru
 retail.nrb.ru
@@ -2314,6 +2319,7 @@ santander.de
 santander.nl
 santanderbank.com
 santanderconsumer.se
+sbab.se
 sbab.se
 sberbank-ast.ru
 sberbank.hu
@@ -2418,6 +2424,7 @@ simplii.com
 sinopac.com
 sistemagorod.ru
 sk-westerwald-sieg.de
+skandia.se
 skandia.se
 skb-badhomburg.de
 skb-buehlertal.de
