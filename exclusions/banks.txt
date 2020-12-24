@@ -35,6 +35,7 @@ absa.co.za
 absolutbank.ru
 abtsgmuender-bank.de
 accessbank.az
+accessbanking.com.ar
 accessbankplc.com
 account.skrill.com
 account.ubank.ru
@@ -169,6 +170,7 @@ bancointer.com.br
 bancointernacional.cl
 bancoldex.com
 bancomer.com
+bancon.bancor.com.ar
 bancoomeva.com.co
 bancopichincha.com.co
 bancopopular.com.co
@@ -207,6 +209,7 @@ bankcomm.com
 bankdki.co.id
 bankelita.ru
 banker.ua
+bankfirst.com.au
 bankhapoalim.co.il
 bankhaus-hallbaum.de
 bankhaus-mayer.de
@@ -512,6 +515,7 @@ coastal24.com
 cobinhood.com
 coinbase.com
 coinbase.com
+coinspot.com.au
 colpatria.com
 colpatria.com.co
 comdirect.de
@@ -1155,6 +1159,7 @@ ic.vitabank.spb.ru
 ic.zhilcredit.ru
 icabanken.se
 icb.kubantorgbank.ru
+icbc.com.ar
 icbc.com.cn
 icicibank.com
 iclb.kbreb.ru
@@ -1186,6 +1191,7 @@ imoneybank.ru
 in-bank.ru
 in.agri-bank.com
 inbiz.intesasanpaolo.com
+independentreserve.com
 industrialbank.ua
 inetpayonline.com
 info-msk.rusfinance.ru
@@ -1195,6 +1201,7 @@ info.deltacredit.ru
 info.metib.ru
 ing-diba.de
 ing-diba.de
+ing.com.au
 ing.com.au
 ing.de
 ing.es
@@ -2396,6 +2403,7 @@ securitybank.com
 seebachgrund.de
 seeligerbank.de
 selfbank.es
+selfwealth.com.au
 sendwyre.com
 seninbankan.com.tr
 service.fuib.com
@@ -2407,6 +2415,7 @@ sgcb.nc
 sgeb.bg
 sgkb.ch
 sgkb.de
+sharesight.com
 shinhan.de
 shpd.motivtelecom.ru
 siab.ru
@@ -3057,6 +3066,7 @@ vereinigtevolksbankeg.de
 vereinte-volksbank.de
 verkkopalkka.maventa.fi
 verkkopankki2.danskebank.fi
+vicsuper.com.au
 vietcombank.com.vn
 vietinbank.vn
 vip.ritzbank.ru
