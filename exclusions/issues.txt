@@ -91,3 +91,5 @@ ping.*.adguard.io
 nuernberg.de
 // https://github.com/AdguardTeam/AdguardFilters/issues/63641
 vseinstrumenti.ru
+// Varity issue
+playfamily.ru
