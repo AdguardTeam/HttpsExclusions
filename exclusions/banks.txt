@@ -127,6 +127,7 @@ atf24.kz
 atfbank.kz
 audibank.de
 augusta-bank.de
+australiansuper.com
 autopays.ru
 auxmoney.com
 aval.ua
@@ -2250,6 +2251,7 @@ rcbconlinebanking.com
 redwoodcu.org
 regiobank.nl
 renault-bank-direkt.de
+reports.adguard.com
 resonabank.co.jp
 resursbank.se
 retail.axisbank.co.in
