@@ -93,3 +93,6 @@ nuernberg.de
 vseinstrumenti.ru
 // Varity issue
 playfamily.ru
+// https://github.com/AdguardTeam/AdguardForWindows/issues/3654 and https://github.com/AdguardTeam/HttpsExclusions/issues/367
+reports.adguard.com
+
