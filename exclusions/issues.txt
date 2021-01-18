@@ -91,5 +91,7 @@ ping.*.adguard.io
 nuernberg.de
 // https://github.com/AdguardTeam/AdguardFilters/issues/63641
 vseinstrumenti.ru
+// Varity issue
+playfamily.ru
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/3716
 api.samsungcloud.com
