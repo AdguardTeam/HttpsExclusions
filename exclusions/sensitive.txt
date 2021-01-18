@@ -90,5 +90,3 @@ xero.com
 freshbooks.com
 kashflow.com
 prestigecu.org
-// https://github.com/AdguardTeam/AdguardForAndroid/issues/3716
-api.samsungcloud.com
