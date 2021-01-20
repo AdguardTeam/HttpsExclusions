@@ -95,3 +95,4 @@ vseinstrumenti.ru
 playfamily.ru
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/3716
 api.samsungcloud.com
+

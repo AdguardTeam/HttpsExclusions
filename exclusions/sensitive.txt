@@ -59,7 +59,16 @@ mil
 mvd.dor.ga.gov
 receita.economia.gov.br
 zakupki.gov.ru
+receiptbank.com
+xero.com
+freshbooks.com
+kashflow.com
+prestigecu.org
 gov.pl
+// https://github.com/AdguardTeam/HttpsExclusions/issues/348
+tikker.emta.ee
+// https://github.com/AdguardTeam/HttpsExclusions/issues/341
+paypal-topup.ee
 // https://github.com/AdguardTeam/CoreLibs/issues/533
 gov.in
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/1705
@@ -81,7 +90,7 @@ mydocomo.com
 // Softbank login
 bbss.softbankbb.co.jp
 my.softbank.jp
-//https://github.com/AdguardTeam/CoreLibs/issues/1301
+// https://github.com/AdguardTeam/CoreLibs/issues/1301
 dec.fazenda.df.gov.br
 // https://github.com/AdguardTeam/HttpsExclusions/issues/311
 intelink.gov
