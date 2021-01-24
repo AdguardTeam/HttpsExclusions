@@ -86,15 +86,12 @@ alorbank.ru
 alpari.ru
 alpha.gr
 alphabank.ro
-alphabank.ro
-alrayanbank.co.uk
 alrayanbank.co.uk
 altbank.com
 alxinger-bank.de
 ambank.amonline.com.my
 ambank.com.my
 amerantbank.com
-americanexpress.com
 americanexpress.com
 amp.com.au
 amrahbank.az
@@ -153,7 +150,6 @@ bancaribe.com.ve
 bancnetonline.com
 banco.bradesco
 bancoactivo.com
-bancoagrario.gov.co
 bancoagrario.gov.co
 bancobrasil.com.br
 bancocajasocial.com
@@ -516,7 +512,6 @@ co-operativebank.co.uk
 coastal24.com
 cobinhood.com
 coinbase.com
-coinbase.com
 coinspot.com.au
 colpatria.com
 colpatria.com.co
@@ -537,7 +532,6 @@ corporate.patriabank.ro
 correqts.kedrbank.com
 cotabank.com.tw
 county2.riverbank.co.ke
-coventrybuildingsociety.co.uk
 coventrybuildingsociety.co.uk
 cp.bluesnap.com
 credicard.com.br
@@ -771,7 +765,6 @@ foehr-amrumer-bank.de
 foerde-sparkasse.de
 fondsdepotbank.de
 forabank.ru
-forex.se
 forex.se
 forsakringskassan.se
 fortuneo.fr
@@ -1207,8 +1200,6 @@ info.cyberplat.ru
 info.deltacredit.ru
 info.metib.ru
 ing-diba.de
-ing-diba.de
-ing.com.au
 ing.com.au
 ing.de
 ing.es
@@ -1225,7 +1216,6 @@ intellectmoney.ru
 interactivebrokers.co.uk
 interactivebrokers.com
 intercommerz.ru
-internet-banking.dbs.com.sg
 internet-banking.dbs.com.sg
 internet-banking.dbsbank.in
 internet-banking.hk.dbs.com
@@ -1386,7 +1376,6 @@ kz.shinhanglobal.com
 labanquepostale.fr
 landbank-horlofftal.de
 landbank.com.tw
-lansforsakringar.se
 lansforsakringar.se
 leaseplanbank.de
 leboutique.com
@@ -1592,8 +1581,6 @@ neteller.com
 netpnb.com
 netsafe.hdfcbank.com
 nettbank2.danskebank.no
-nettbank2.danskebank.no
-nettbanken.nordea.no
 nettbanken.nordea.no
 nettbedriften.evry.com
 netteller.com
@@ -1608,7 +1595,6 @@ nobaeg.de
 nokss.ru
 nordea.com
 nordea.ru
-nordea.se
 nordea.se
 nordeanetbank.dk
 nordthueringer-volksbank.de
@@ -1959,7 +1945,6 @@ qweb.quercia.com
 r-volksbank.de
 rabobank.co.nz
 rabobank.nl
-rabodirect.de
 rabodirect.de
 radabank.com.ua
 raiba-aiglsbach.de
@@ -2340,7 +2325,6 @@ santander.nl
 santanderbank.com
 santanderconsumer.se
 sbab.se
-sbab.se
 sberbank-ast.ru
 sberbank.hu
 sberbank.kz
@@ -2449,7 +2433,6 @@ simplii.com
 sinopac.com
 sistemagorod.ru
 sk-westerwald-sieg.de
-skandia.se
 skandia.se
 skb-badhomburg.de
 skb-buehlertal.de
