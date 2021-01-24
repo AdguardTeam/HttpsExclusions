@@ -20,6 +20,7 @@
 3dsecure.csas.cz
 3dsecure.gpwebpay.com
 3dsecure.icicibank.com
+3dsecure.no
 53.com
 60.251.84.21
 95.56.246.182
@@ -621,6 +622,7 @@ diamantpay.com.ua
 die-raiffeisenbank.de
 die-vrbank.de
 diebank.de
+difi.no
 digid.nl
 digital.noorbank.com
 dino.tzero.com
@@ -1935,6 +1937,7 @@ psd-rhein-ruhr.de
 psd-rheinneckarsaar.de
 psd-westfalen-lippe.de
 psdbank-ht.de
+pvu.nets.no
 qantasmoney.com
 qiwi.com
 qiwi.ru
@@ -2422,6 +2425,7 @@ shpd.motivtelecom.ru
 siab.ru
 sibank.ru
 sibes.omsk.ru
+signicat.com
 signin.ebay.ca
 signin.ebay.co.uk
 signin.ebay.com
