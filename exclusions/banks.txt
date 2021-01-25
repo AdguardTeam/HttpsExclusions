@@ -20,6 +20,7 @@
 3dsecure.csas.cz
 3dsecure.gpwebpay.com
 3dsecure.icicibank.com
+3dsecure.no
 53.com
 60.251.84.21
 95.56.246.182
@@ -85,15 +86,12 @@ alorbank.ru
 alpari.ru
 alpha.gr
 alphabank.ro
-alphabank.ro
-alrayanbank.co.uk
 alrayanbank.co.uk
 altbank.com
 alxinger-bank.de
 ambank.amonline.com.my
 ambank.com.my
 amerantbank.com
-americanexpress.com
 americanexpress.com
 amp.com.au
 amrahbank.az
@@ -152,7 +150,6 @@ bancaribe.com.ve
 bancnetonline.com
 banco.bradesco
 bancoactivo.com
-bancoagrario.gov.co
 bancoagrario.gov.co
 bancobrasil.com.br
 bancocajasocial.com
@@ -218,6 +215,8 @@ bankhaus-plump.de
 bankia.es
 bankid.no
 bankid.org.ua
+bankidapis.no
+bankidnorge.no
 banking-gefa-bank.de
 banking-merkur-bank.de
 banking-suedwestbank.de
@@ -515,7 +514,6 @@ co-operativebank.co.uk
 coastal24.com
 cobinhood.com
 coinbase.com
-coinbase.com
 coinspot.com.au
 colpatria.com
 colpatria.com.co
@@ -536,7 +534,6 @@ corporate.patriabank.ro
 correqts.kedrbank.com
 cotabank.com.tw
 county2.riverbank.co.ke
-coventrybuildingsociety.co.uk
 coventrybuildingsociety.co.uk
 cp.bluesnap.com
 credicard.com.br
@@ -621,6 +618,7 @@ diamantpay.com.ua
 die-raiffeisenbank.de
 die-vrbank.de
 diebank.de
+difi.no
 digid.nl
 digital.noorbank.com
 dino.tzero.com
@@ -769,7 +767,6 @@ foehr-amrumer-bank.de
 foerde-sparkasse.de
 fondsdepotbank.de
 forabank.ru
-forex.se
 forex.se
 forsakringskassan.se
 fortuneo.fr
@@ -1171,11 +1168,15 @@ iclient3.devoncredit.ru
 iclients.baltinvest.ru
 icon25-bank.com
 icorner.ch
+id.banknorwegian.no
+id.santanderconsumer.no
 idbi.com
 idbibank.co.in
 idbibank.com
 ideabank24.by
 ideaonline.ua
+ident.nets.eu
+identity.banknorwegian.no
 ifobs.bankcenter.com.ua
 ifobs.dvbank.ua
 ifobs.kredobank.com.ua
@@ -1201,8 +1202,6 @@ info.cyberplat.ru
 info.deltacredit.ru
 info.metib.ru
 ing-diba.de
-ing-diba.de
-ing.com.au
 ing.com.au
 ing.de
 ing.es
@@ -1219,7 +1218,6 @@ intellectmoney.ru
 interactivebrokers.co.uk
 interactivebrokers.com
 intercommerz.ru
-internet-banking.dbs.com.sg
 internet-banking.dbs.com.sg
 internet-banking.dbsbank.in
 internet-banking.hk.dbs.com
@@ -1381,7 +1379,6 @@ labanquepostale.fr
 landbank-horlofftal.de
 landbank.com.tw
 lansforsakringar.se
-lansforsakringar.se
 leaseplanbank.de
 leboutique.com
 leipziger-volksbank.de
@@ -1421,6 +1418,7 @@ login.e-taxes.gov.az
 login.ingbank.pl
 login.optumbank.com
 login.sebbank.ru
+login.sparebank1.no
 lovizaim.ru
 lzo.com
 m24.comertbank.md
@@ -1482,6 +1480,7 @@ migs.mastercard.com.au
 mijn.ing.nl
 minavardkontakter.se
 minbank.ru
+minnettbank.santanderconsumer.no
 minpension.se
 mirconnect.ru
 mitfcu.org
@@ -1585,6 +1584,7 @@ netpnb.com
 netsafe.hdfcbank.com
 nettbank2.danskebank.no
 nettbanken.nordea.no
+nettbedriften.evry.com
 netteller.com
 new.mybank.by
 new.permatanet.com
@@ -1597,7 +1597,6 @@ nobaeg.de
 nokss.ru
 nordea.com
 nordea.ru
-nordea.se
 nordea.se
 nordeanetbank.dk
 nordthueringer-volksbank.de
@@ -1935,6 +1934,7 @@ psd-rhein-ruhr.de
 psd-rheinneckarsaar.de
 psd-westfalen-lippe.de
 psdbank-ht.de
+pvu.nets.no
 qantasmoney.com
 qiwi.com
 qiwi.ru
@@ -1947,7 +1947,6 @@ qweb.quercia.com
 r-volksbank.de
 rabobank.co.nz
 rabobank.nl
-rabodirect.de
 rabodirect.de
 radabank.com.ua
 raiba-aiglsbach.de
@@ -2328,7 +2327,6 @@ santander.nl
 santanderbank.com
 santanderconsumer.se
 sbab.se
-sbab.se
 sberbank-ast.ru
 sberbank.hu
 sberbank.kz
@@ -2391,6 +2389,7 @@ secure.sirena-travel.ru
 secure.tcsbank.ru
 secure.ucs.su
 secure.upc.ua
+secure.ya.no
 secure3.nsandi.com
 secure4.segpay.com
 secure5.arcot.com
@@ -2404,6 +2403,7 @@ securitybank.com
 seebachgrund.de
 seeligerbank.de
 selfbank.es
+selfservice.ikano.no
 selfwealth.com.au
 sendwyre.com
 seninbankan.com.tr
@@ -2422,6 +2422,7 @@ shpd.motivtelecom.ru
 siab.ru
 sibank.ru
 sibes.omsk.ru
+signicat.com
 signin.ebay.ca
 signin.ebay.co.uk
 signin.ebay.com
@@ -2434,7 +2435,6 @@ simplii.com
 sinopac.com
 sistemagorod.ru
 sk-westerwald-sieg.de
-skandia.se
 skandia.se
 skb-badhomburg.de
 skb-buehlertal.de
@@ -3417,6 +3417,7 @@ xcitybank.com.ua
 xn--80aae3af7av6a7a.xn--p1ai
 xn--httenberger-bank-jzb.de
 xpi.com.br
+yanettbank.ya.no
 yapikredi.com.az
 yapikredi.com.tr
 yarbank.ru

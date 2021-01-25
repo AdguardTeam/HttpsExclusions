@@ -101,3 +101,7 @@ kashflow.com
 prestigecu.org
 myob.com
 hotdoc.com.au
+// https://github.com/AdguardTeam/HttpsExclusions/pull/372
+checkout.bambora.com
+id.biltema.com
+besoklegen.no
