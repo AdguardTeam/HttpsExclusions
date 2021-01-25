@@ -215,8 +215,8 @@ bankhaus-plump.de
 bankia.es
 bankid.no
 bankid.org.ua
-bankidnorge.no
 bankidapis.no
+bankidnorge.no
 banking-gefa-bank.de
 banking-merkur-bank.de
 banking-suedwestbank.de
