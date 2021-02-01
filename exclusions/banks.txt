@@ -449,6 +449,7 @@ ccb.com
 ccb.ru
 ccbank.ru
 ccservicing.com
+cdek.ru
 cdm24.pl
 ceconline.ro
 celsius.network
@@ -907,7 +908,6 @@ i.mdm.ru
 i.rietumu.lv
 i.taatta.net
 i.tcb.ru
-i.tochka.com
 i.vtb.ru
 ib.ablv.com
 ib.airbank.cz
@@ -2862,6 +2862,7 @@ tisco.co.th
 tiscoasset.com
 titubb.titck.gov.tr
 tmbdirect.com
+tochka.com
 touchbank.com
 tpb.vn
 trade.paritem.com
