@@ -448,6 +448,7 @@ ccb.com
 ccb.ru
 ccbank.ru
 ccservicing.com
+cdek.ru
 cdm24.pl
 ceconline.ro
 celsius.network
@@ -904,7 +905,6 @@ i.mdm.ru
 i.rietumu.lv
 i.taatta.net
 i.tcb.ru
-i.tochka.com
 i.vtb.ru
 ib.ablv.com
 ib.airbank.cz
@@ -1426,6 +1426,7 @@ m2mbank.ru
 m2u.maybank.co.id
 mabanque.bnpparibas
 mabanqueprivee.bnpparibas
+macquarie.com.au
 maerkische-bank.de
 magnetbank.hu
 maib.md
@@ -2341,6 +2342,7 @@ sbsbank.co.nz
 sbsibank.by
 sbtonline.in
 sc.com
+scalable.capital
 scb.co.th
 scbeasy.com
 scharnhauserbank.de
@@ -2862,6 +2864,7 @@ tisco.co.th
 tiscoasset.com
 titubb.titck.gov.tr
 tmbdirect.com
+tochka.com
 touchbank.com
 tpb.vn
 trade.paritem.com
