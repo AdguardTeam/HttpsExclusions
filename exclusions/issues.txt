@@ -91,3 +91,5 @@ ping.*.adguard.io
 nuernberg.de
 // https://github.com/AdguardTeam/AdguardFilters/issues/63641
 vseinstrumenti.ru
+// https://github.com/AdguardTeam/HttpsExclusions/issues/378
+vd.l.qq.com
