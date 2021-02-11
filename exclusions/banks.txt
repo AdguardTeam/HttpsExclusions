@@ -88,6 +88,7 @@ alpha.gr
 alphabank.ro
 alrayanbank.co.uk
 altbank.com
+altinn.no
 alxinger-bank.de
 ambank.amonline.com.my
 ambank.com.my
@@ -1476,6 +1477,7 @@ mfbank.ru
 mib.devoncredit.ru
 micb.md
 migcredit.ru
+migrosbank.ch
 migs.mastercard.co.in
 migs.mastercard.com.au
 mijn.ing.nl
@@ -1800,6 +1802,7 @@ p2p.mdm.ru
 p2y.com.ua
 palmettohealthcu.org
 pashabank.az
+pasientsky.no
 passolig.com.tr
 pax-bank.de
 pay.aeroflot.ru
@@ -2487,6 +2490,7 @@ sparda-ostbayern.de
 sparda-sw.de
 sparda-west.de
 sparda.de
+sparebank1.no
 sparkasse-aachen.de
 sparkasse-adl.de
 sparkasse-alk.de
