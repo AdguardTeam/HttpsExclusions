@@ -251,3 +251,6 @@ zoom.us
 app.adjust.com$app=com.azure.authenticator
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/3756
 posteitalianespa.sc.omtrdc.net.$app=posteitaliane.posteapp.appbpol
+
+
+
