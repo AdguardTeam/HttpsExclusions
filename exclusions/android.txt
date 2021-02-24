@@ -249,5 +249,4 @@ weatherapi.market.xiaomi.com$app=com.miui.weather2
 zoom.us
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/3729
 app.adjust.com$app=com.azure.authenticator
-// https://github.com/AdguardTeam/AdguardForAndroid/issues/3756
-posteitalianespa.sc.omtrdc.net$app=posteitaliane.posteapp.appbpol
+
