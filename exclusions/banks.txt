@@ -51,6 +51,7 @@ acs.severgazbank.ru
 acs.sia.eu
 acs2.3ds.modirum.com
 acs2.rosbank.modirum.com
+adelaidebank.com.au
 ae.online.standardchartered.com
 afb.az
 agbank.az
@@ -303,6 +304,7 @@ bdo.com.ph
 bdvenlinea.banvenez.com
 bekb.ch
 belfius.be
+bendigobank.com.au
 bensbergerbank.de
 berenberg.de
 bergische-volksbank.de
@@ -740,6 +742,7 @@ factoring.seb.de
 faktura.ru
 farmersebank.com
 fbid.ru
+fbngp.ca
 fbtonline.com
 fbtonline.net
 fbwebpos.com
@@ -760,6 +763,7 @@ finanzcenter.sparkasse-bremen.de
 fineco.it
 fio.cz
 firstbank.com.tw
+firstbankcard.com
 firstcard.se
 flessabank.de
 fnb.co.za
