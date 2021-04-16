@@ -348,6 +348,7 @@ bk.tetrapolis.spb.ru
 bk17.ncubank.ru
 bkb.ch
 bkc-paderborn.de
+blkb.ch
 blockfi.com
 blombank.com
 blsk.de
@@ -3414,11 +3415,13 @@ wuestenrot.de
 wuestenrotdirect.de
 wvb.de
 ww-ag.de
+www.bankwest.com.au
 www.dbs.com
 www.ing.nl
 www.ipko.pl
 www.ipkobiznes.pl
 www.posb.com.sg
+www.westpac.com.au
 www1.royalbank.com
 www2.danskebank.ee
 www2.jugra.ru
