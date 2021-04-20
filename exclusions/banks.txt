@@ -20,6 +20,7 @@
 3dsecure.csas.cz
 3dsecure.gpwebpay.com
 3dsecure.icicibank.com
+3dsecure.no
 53.com
 60.251.84.21
 95.56.246.182
@@ -50,6 +51,7 @@ acs.severgazbank.ru
 acs.sia.eu
 acs2.3ds.modirum.com
 acs2.rosbank.modirum.com
+adelaidebank.com.au
 ae.online.standardchartered.com
 afb.az
 agbank.az
@@ -85,15 +87,13 @@ alorbank.ru
 alpari.ru
 alpha.gr
 alphabank.ro
-alphabank.ro
-alrayanbank.co.uk
 alrayanbank.co.uk
 altbank.com
+altinn.no
 alxinger-bank.de
 ambank.amonline.com.my
 ambank.com.my
 amerantbank.com
-americanexpress.com
 americanexpress.com
 amp.com.au
 amrahbank.az
@@ -128,7 +128,6 @@ atf24.kz
 atfbank.kz
 audibank.de
 augusta-bank.de
-auth.hdfc.lk
 autopays.ru
 auxmoney.com
 aval.ua
@@ -153,7 +152,6 @@ bancaribe.com.ve
 bancnetonline.com
 banco.bradesco
 bancoactivo.com
-bancoagrario.gov.co
 bancoagrario.gov.co
 bancobrasil.com.br
 bancocajasocial.com
@@ -219,6 +217,8 @@ bankhaus-plump.de
 bankia.es
 bankid.no
 bankid.org.ua
+bankidapis.no
+bankidnorge.no
 banking-gefa-bank.de
 banking-merkur-bank.de
 banking-suedwestbank.de
@@ -304,6 +304,7 @@ bdo.com.ph
 bdvenlinea.banvenez.com
 bekb.ch
 belfius.be
+bendigobank.com.au
 bensbergerbank.de
 berenberg.de
 bergische-volksbank.de
@@ -347,6 +348,7 @@ bk.tetrapolis.spb.ru
 bk17.ncubank.ru
 bkb.ch
 bkc-paderborn.de
+blkb.ch
 blockfi.com
 blombank.com
 blsk.de
@@ -450,6 +452,7 @@ ccb.com
 ccb.ru
 ccbank.ru
 ccservicing.com
+cdek.ru
 cdm24.pl
 ceconline.ro
 celsius.network
@@ -516,7 +519,6 @@ co-operativebank.co.uk
 coastal24.com
 cobinhood.com
 coinbase.com
-coinbase.com
 coinspot.com.au
 colpatria.com
 colpatria.com.co
@@ -537,7 +539,6 @@ corporate.patriabank.ro
 correqts.kedrbank.com
 cotabank.com.tw
 county2.riverbank.co.ke
-coventrybuildingsociety.co.uk
 coventrybuildingsociety.co.uk
 cp.bluesnap.com
 credicard.com.br
@@ -622,6 +623,7 @@ diamantpay.com.ua
 die-raiffeisenbank.de
 die-vrbank.de
 diebank.de
+difi.no
 digid.nl
 digital.noorbank.com
 dino.tzero.com
@@ -743,6 +745,7 @@ factoring.seb.de
 faktura.ru
 farmersebank.com
 fbid.ru
+fbngp.ca
 fbtonline.com
 fbtonline.net
 fbwebpos.com
@@ -763,6 +766,7 @@ finanzcenter.sparkasse-bremen.de
 fineco.it
 fio.cz
 firstbank.com.tw
+firstbankcard.com
 firstcard.se
 flessabank.de
 fnb.co.za
@@ -772,7 +776,6 @@ foehr-amrumer-bank.de
 foerde-sparkasse.de
 fondsdepotbank.de
 forabank.ru
-forex.se
 forex.se
 forsakringskassan.se
 fortuneo.fr
@@ -910,7 +913,6 @@ i.mdm.ru
 i.rietumu.lv
 i.taatta.net
 i.tcb.ru
-i.tochka.com
 i.vtb.ru
 ib.ablv.com
 ib.airbank.cz
@@ -1174,11 +1176,15 @@ iclient3.devoncredit.ru
 iclients.baltinvest.ru
 icon25-bank.com
 icorner.ch
+id.banknorwegian.no
+id.santanderconsumer.no
 idbi.com
 idbibank.co.in
 idbibank.com
 ideabank24.by
 ideaonline.ua
+ident.nets.eu
+identity.banknorwegian.no
 ifobs.bankcenter.com.ua
 ifobs.dvbank.ua
 ifobs.kredobank.com.ua
@@ -1204,8 +1210,6 @@ info.cyberplat.ru
 info.deltacredit.ru
 info.metib.ru
 ing-diba.de
-ing-diba.de
-ing.com.au
 ing.com.au
 ing.de
 ing.es
@@ -1222,7 +1226,6 @@ intellectmoney.ru
 interactivebrokers.co.uk
 interactivebrokers.com
 intercommerz.ru
-internet-banking.dbs.com.sg
 internet-banking.dbs.com.sg
 internet-banking.dbsbank.in
 internet-banking.hk.dbs.com
@@ -1385,7 +1388,6 @@ labanquepostale.fr
 landbank-horlofftal.de
 landbank.com.tw
 lansforsakringar.se
-lansforsakringar.se
 leaseplanbank.de
 leboutique.com
 leipziger-volksbank.de
@@ -1425,6 +1427,7 @@ login.e-taxes.gov.az
 login.ingbank.pl
 login.optumbank.com
 login.sebbank.ru
+login.sparebank1.no
 lovizaim.ru
 lzo.com
 m24.comertbank.md
@@ -1432,6 +1435,7 @@ m2mbank.ru
 m2u.maybank.co.id
 mabanque.bnpparibas
 mabanqueprivee.bnpparibas
+macquarie.com.au
 maerkische-bank.de
 magnetbank.hu
 maib.md
@@ -1481,11 +1485,13 @@ mfbank.ru
 mib.devoncredit.ru
 micb.md
 migcredit.ru
+migrosbank.ch
 migs.mastercard.co.in
 migs.mastercard.com.au
 mijn.ing.nl
 minavardkontakter.se
 minbank.ru
+minnettbank.santanderconsumer.no
 minpension.se
 mirconnect.ru
 mitfcu.org
@@ -1590,6 +1596,7 @@ netpnb.com
 netsafe.hdfcbank.com
 nettbank2.danskebank.no
 nettbanken.nordea.no
+nettbedriften.evry.com
 netteller.com
 new.mybank.by
 new.permatanet.com
@@ -1602,7 +1609,6 @@ nobaeg.de
 nokss.ru
 nordea.com
 nordea.ru
-nordea.se
 nordea.se
 nordeanetbank.dk
 nordthueringer-volksbank.de
@@ -1811,6 +1817,7 @@ p2p.mdm.ru
 p2y.com.ua
 palmettohealthcu.org
 pashabank.az
+pasientsky.no
 passolig.com.tr
 pax-bank.de
 pay.aeroflot.ru
@@ -1946,6 +1953,7 @@ psd-rhein-ruhr.de
 psd-rheinneckarsaar.de
 psd-westfalen-lippe.de
 psdbank-ht.de
+pvu.nets.no
 qantasmoney.com
 qiwi.com
 qiwi.ru
@@ -1958,7 +1966,6 @@ qweb.quercia.com
 r-volksbank.de
 rabobank.co.nz
 rabobank.nl
-rabodirect.de
 rabodirect.de
 radabank.com.ua
 raiba-aiglsbach.de
@@ -2339,7 +2346,6 @@ santander.nl
 santanderbank.com
 santanderconsumer.se
 sbab.se
-sbab.se
 sberbank-ast.ru
 sberbank.hu
 sberbank.kz
@@ -2354,6 +2360,7 @@ sbsbank.co.nz
 sbsibank.by
 sbtonline.in
 sc.com
+scalable.capital
 scb.co.th
 scbeasy.com
 scharnhauserbank.de
@@ -2403,6 +2410,7 @@ secure.sirena-travel.ru
 secure.tcsbank.ru
 secure.ucs.su
 secure.upc.ua
+secure.ya.no
 secure3.nsandi.com
 secure4.segpay.com
 secure5.arcot.com
@@ -2416,6 +2424,7 @@ securitybank.com
 seebachgrund.de
 seeligerbank.de
 selfbank.es
+selfservice.ikano.no
 selfwealth.com.au
 sendwyre.com
 seninbankan.com.tr
@@ -2434,6 +2443,7 @@ shpd.motivtelecom.ru
 siab.ru
 sibank.ru
 sibes.omsk.ru
+signicat.com
 signin.ebay.ca
 signin.ebay.co.uk
 signin.ebay.com
@@ -2446,7 +2456,6 @@ simplii.com
 sinopac.com
 sistemagorod.ru
 sk-westerwald-sieg.de
-skandia.se
 skandia.se
 skb-badhomburg.de
 skb-buehlertal.de
@@ -2497,6 +2506,7 @@ sparda-ostbayern.de
 sparda-sw.de
 sparda-west.de
 sparda.de
+sparebank1.no
 sparkasse-aachen.de
 sparkasse-adl.de
 sparkasse-alk.de
@@ -2874,6 +2884,7 @@ tisco.co.th
 tiscoasset.com
 titubb.titck.gov.tr
 tmbdirect.com
+tochka.com
 touchbank.com
 tpb.vn
 trade.paritem.com
@@ -3416,8 +3427,6 @@ wuestenrot.de
 wuestenrotdirect.de
 wvb.de
 ww-ag.de
-www.combankdigital.com
-www.cutx.org
 www.dbs.com
 www.digital.peoplesbank.lk
 www.ebank.peoplesbank.lk
@@ -3431,10 +3440,6 @@ www.neosonline.ndbbank.com
 www.onlinesbiglobal.com
 www.payeasy.lk
 www.posb.com.sg
-www.sampathvishwa.com
-www.security.online-banking.hsbc.lk
-www.seylanbank.lk
-www.ubdirect.com
 www1.royalbank.com
 www2.danskebank.ee
 www2.jugra.ru
@@ -3444,6 +3449,7 @@ xcitybank.com.ua
 xn--80aae3af7av6a7a.xn--p1ai
 xn--httenberger-bank-jzb.de
 xpi.com.br
+yanettbank.ya.no
 yapikredi.com.az
 yapikredi.com.tr
 yarbank.ru

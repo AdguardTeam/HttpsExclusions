@@ -99,3 +99,13 @@ xero.com
 freshbooks.com
 kashflow.com
 prestigecu.org
+myob.com
+hotdoc.com.au
+// https://github.com/AdguardTeam/HttpsExclusions/pull/372
+checkout.bambora.com
+id.biltema.com
+besoklegen.no
+// https://github.com/AdguardTeam/HttpsExclusions/issues/378
+vd.l.qq.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/389
+invest.ameritrade.com

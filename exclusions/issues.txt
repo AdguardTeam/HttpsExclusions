@@ -93,3 +93,8 @@ nuernberg.de
 vseinstrumenti.ru
 // Varity issue
 playfamily.ru
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3716
+api.samsungcloud.com
+// https://github.com/AdguardTeam/AdguardFilters/issues/77058
+api.apple-cloudkit.com
+
