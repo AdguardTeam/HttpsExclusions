@@ -1403,6 +1403,7 @@ libertypay.ge
 life.homecredit.ru
 ligabank.de
 lime-zaim.ru
+linebank.com.tw
 link.otkritiefc.ru
 liqpay.com
 live.adyen.com
@@ -1602,6 +1603,7 @@ new.mybank.by
 new.permatanet.com
 newvelocity.ocbcnisp.com
 nexo.io
+nextbank.com.tw
 nikoil.az
 nipbank.ru
 nispa.de
@@ -2088,6 +2090,7 @@ raiffeisenbankersingen.de
 raiffeisenonline.ro
 raika-erbes-buedesheim.de
 rakbankonline.ae
+rakuten-bank.com.tw
 rams.com.au
 razorpay.com
 rb-adel-siel.de
