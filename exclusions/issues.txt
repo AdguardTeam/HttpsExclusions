@@ -87,7 +87,7 @@ dms.metlife.ru
 vnn-res.vgcloud.vn
 // AG-3013
 ping.*.adguard.io
-// https://github.com/AdguardTeam/HttpsExclusions/issues/291 
+// https://github.com/AdguardTeam/HttpsExclusions/issues/291
 nuernberg.de
 // https://github.com/AdguardTeam/AdguardFilters/issues/63641
 vseinstrumenti.ru
@@ -97,4 +97,6 @@ playfamily.ru
 api.samsungcloud.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/77058
 api.apple-cloudkit.com
-
+// https://github.com/AdguardTeam/CoreLibs/issues/1369
+oyunkuzusu.com
+poscigi.pl
