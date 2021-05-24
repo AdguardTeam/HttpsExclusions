@@ -98,4 +98,6 @@ api.samsungcloud.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/405
 hpcloud.hp.com
 hpcloud.hp.net
+// https://github.com/AdguardTeam/AdguardFilters/issues/77058
+api.apple-cloudkit.com
 

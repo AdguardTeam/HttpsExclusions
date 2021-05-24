@@ -102,6 +102,7 @@ androidpay-users-pa.googleapis.com
 anz.co.nz
 anz.com
 anz.com.au
+ap.ebs.bankofchina.com
 apeksbank.com.ua
 api.oplata.com
 api.tech26.de
@@ -127,7 +128,6 @@ atf24.kz
 atfbank.kz
 audibank.de
 augusta-bank.de
-australiansuper.com
 autopays.ru
 auxmoney.com
 aval.ua
@@ -671,12 +671,14 @@ ebank.ofb.uz
 ebanka.danskebank.lv
 ebankas.danskebank.lt
 ebanking-hoernerbank.de
+ebanking.amanabank.lk
 ebanking.bankmellat.ir
 ebanking.bawagpsk.com
 ebanking.cibeg.com
 ebanking.easybank.at
 ebanking.eurobank.com.cy
 ebanking.ge
+ebanking.hnb.lk
 ebanking.ing.be
 ebanking.universalbank.com.ua
 ebanking2.danskebank.dk
@@ -1231,6 +1233,7 @@ internet-banking.hk.dbs.com
 internet.1mbank.ru
 internet.ocbc.com
 internetbank.armbusinessbank.am
+internetbank.nsb.lk
 internetbank.swedbank.se
 internetbanka.cz
 internetbanken.privat.nordea.se
@@ -1554,6 +1557,7 @@ myaccount.payoneer.com
 myaltyn.kz
 mybank.com.tw
 mybank.fortebank.com
+mybank.nationstrust.com
 mybrdnet.ro
 mybsn.com.my
 mycred.io
@@ -1660,6 +1664,7 @@ online.bcs.ru
 online.beyondbank.com.au
 online.binbankcards.ru
 online.bm.ru
+online.boc.lk
 online.bta-kazan.ru
 online.btabank.by
 online.bulbank.bg
@@ -1670,7 +1675,9 @@ online.citi.com
 online.citi.eu
 online.cosmosbank.in
 online.credit-agricole.ua
+online.cutx.org
 online.demirbank.kg
+online.dfcc.lk
 online.dubaifirst.com
 online.econombank.ru
 online.energbank.com
@@ -1683,6 +1690,7 @@ online.forward-bank.com
 online.garantibbva.ro
 online.gemvisa.com.au
 online.gpb.ru
+online.hdfc.lk
 online.hl.co.uk
 online.inecobank.am
 online.isbmsk.ru
@@ -1698,6 +1706,7 @@ online.mkb.ru
 online.ocbcnisp.com
 online.odeabank.com.tr
 online.oschadbank.ua
+online.pabcbank.com
 online.pchrb.ru
 online.piraeusbank.ua
 online.procreditbank.am
@@ -1772,6 +1781,7 @@ onlinebanking-vrbanknet.de
 onlinebanking.aib.ie
 onlinebanking.bank-credit-suisse-moscow.ru
 onlinebanking.brci.ro
+onlinebanking.cargillsbank.com
 onlinebanking.pnc.com
 onlinebanking.usbank.com
 onlinesbi.com
@@ -2366,6 +2376,7 @@ scotiabank.com
 scotiabankchile.cl
 scsb.com.tw
 scu.org.tw
+sdbmobilec.sdb.lk
 sdk-bockum-hoevel.de
 sdk-stockhausen.de
 sdkinlamstedt.de
@@ -3087,6 +3098,7 @@ vicsuper.com.au
 vietcombank.com.vn
 vietinbank.vn
 vip.ritzbank.ru
+virtualbanking.mcb.com.lk
 viseca.ch
 visecaone.ch
 vivuso.ru
@@ -3419,14 +3431,20 @@ wuestenrot.de
 wuestenrotdirect.de
 wvb.de
 ww-ag.de
-www.bankwest.com.au
 www.dbs.com
+www.digital.peoplesbank.lk
+www.ebank.peoplesbank.lk
+www.ibank.hbl.com
+www.indianbank.lk
 www.ing.nl
 www.ipko.pl
 www.ipkobiznes.pl
 www.mcb.mu
+www.ndbbankonline.com
+www.neosonline.ndbbank.com
+www.onlinesbiglobal.com
+www.payeasy.lk
 www.posb.com.sg
-www.westpac.com.au
 www1.royalbank.com
 www2.danskebank.ee
 www2.jugra.ru

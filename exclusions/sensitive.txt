@@ -107,3 +107,5 @@ id.biltema.com
 besoklegen.no
 // https://github.com/AdguardTeam/HttpsExclusions/issues/378
 vd.l.qq.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/389
+invest.ameritrade.com
