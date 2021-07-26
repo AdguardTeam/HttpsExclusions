@@ -562,6 +562,7 @@ creditplus.ru
 creditup.com.ua
 creditural.ru
 criptointercambio.com
+crobanet.croatiabanka.hr
 cronbank.de
 csas.cz
 csb.co.in
@@ -657,6 +658,7 @@ e-pastabanka.lv
 e-pay.by
 e-plat.mdmbank.com
 e.clhs.com.ua
+e.paba.hr
 e.seb.lt
 eantrag.ibb.de
 eastwestbanker.com
@@ -664,7 +666,9 @@ easycredit.de
 easypay.axisbank.co.in
 easypay.ua
 eb.de
+eb.sbhr.hr
 eba.procreditbank.md
+ebank.addiko.hr
 ebank.ansarbank.com
 ebank.eximbank.ro
 ebank.ofb.uz
@@ -678,6 +682,7 @@ ebanking.easybank.at
 ebanking.eurobank.com.cy
 ebanking.ge
 ebanking.ing.be
+ebanking.slatinska-banka.hr
 ebanking.universalbank.com.ua
 ebanking2.danskebank.dk
 ebase.com
@@ -694,6 +699,7 @@ ekonto.paluckibs.pl
 ekspertiz.bankasya.com.tr
 ekspertiz.turkiyefinans.com.tr
 ekspertiz.vakifbank.com.tr
+elementa.otpbanka.hr
 elevationsbanking.com
 elevationscu.com
 ellisbank.com
@@ -726,6 +732,7 @@ eurocitybank-onlinebanking.de
 eurocitybank.ru
 europe.citidirect-eb.citicorp.com
 europlan.ru
+evaba.com.hr
 evb-meppen.de
 evenordbank.de
 evobanco.com
@@ -809,6 +816,7 @@ genobank-mainz.de
 genobank-unterallgaeu.de
 genobank.de
 george.bcr.ro
+george.erstebank.hr
 getlogin.rosbank.ru
 gibank.ru
 global.moneygram.com
@@ -914,6 +922,7 @@ i.taatta.net
 i.tcb.ru
 i.vtb.ru
 ib.ablv.com
+ib.agrambanka.hr
 ib.airbank.cz
 ib.apkbank.ru
 ib.aversbank.ru
@@ -936,6 +945,7 @@ ib.gorbank.spb.ru
 ib.homecredit.ru
 ib.ideabank.by
 ib.intesasanpaolobank.ro
+ib.kaba.hr
 ib.kmbank.ru
 ib.mfk-bank.ru
 ib.mvkb.ru
@@ -1084,6 +1094,7 @@ ibank.rrbank.ru
 ibank.rtsbank.ru
 ibank.ru
 ibank.runabank.ru
+ibank.sabank.hr
 ibank.sbrf.com.ua
 ibank.selkombank.ru
 ibank.sistemabank.ru
@@ -1154,6 +1165,8 @@ ibar.az
 ibc.gib.ru
 ibc.orgbank.ru
 ibc.roscap.com
+ibg.hpb.hr
+ibg.ikb.hr
 ibk.ofkbank.ru
 ibkvbr.vistabank.ro
 ibs.spurtbank.ru
@@ -1196,6 +1209,7 @@ ikb.uci-bank.com
 ikib.ru
 ilbank.gov.tr
 imbanking.by
+imexnet.imexbanka.hr
 imoneybank.ru
 in-bank.ru
 in.agri-bank.com
@@ -1293,8 +1307,10 @@ kieler-volksbank.de
 kiwibank.co.nz
 kkb.ru
 klarna.com
+klik.poba.hr
 klikbca.com
 kokobank.com
+konet.kovanica.hr
 kontrakt.ua
 kraken.com
 kranbank.ru
@@ -1580,6 +1596,7 @@ nbmc.ru
 nc.bnpparibas.net
 nccc.com.tw
 nedbank.co.za
+net.kentbank.hr
 netbank.de
 netbank.erstebank.hu
 netbank.kdb.hu
@@ -1866,6 +1883,7 @@ payture.com
 payu.in
 pbbdirekt.com
 pbebank.com
+pbz.hr
 pcbac.com
 pekao.com.pl
 pekao24.pl
@@ -3444,6 +3462,7 @@ yenibayi.passotaksit.com.tr
 youneedabudget.com
 yuantabank.com.tw
 z.tochka.com
+zaba.hr
 zaim.com
 zapsibkombank.ru
 zarech.ru
