@@ -43,6 +43,7 @@ account.ubank.ru
 accounts.binance.com
 acikdeniz.denizbank.com
 acledabank-internetbanking.com
+acorns.com
 acs-education.com
 acs-visa.norvik.eu
 acs.bkm.com.tr
@@ -317,6 +318,7 @@ bernhauser-bank.de
 beta.shapeshift.com
 beta.wavesplatform.com
 bethmannbank.de
+betterment.com
 bezpecnost.csas.cz
 bfa.ru
 bfc.com.ve
@@ -1446,6 +1448,7 @@ login.sebbank.ru
 login.sparebank1.no
 lovizaim.ru
 lzo.com
+m1finance.com
 m24.comertbank.md
 m2mbank.ru
 m2u.maybank.co.id
@@ -2895,6 +2898,7 @@ ticket.uz.gov.ua
 tinkoff.ru
 tisco.co.th
 tiscoasset.com
+titanvest.com
 titubb.titck.gov.tr
 tmbdirect.com
 tochka.com
@@ -3406,6 +3410,7 @@ wartburg-sparkasse.de
 wayforpay.com
 wb.mosoblbank.ru
 wealthbar.com
+Wealthfront.com
 wealthsimple.com
 web.bancadigitalbod.com
 web.hellenicbank.com
