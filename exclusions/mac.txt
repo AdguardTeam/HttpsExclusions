@@ -16,3 +16,5 @@ check.svyaznoy.ru
 www.re-store.ru
 // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/1097
 www.antonioli.eu
+// // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/1506
+raindrop.io
