@@ -53,6 +53,7 @@ acs.sia.eu
 acs2.3ds.modirum.com
 acs2.rosbank.modirum.com
 adelaidebank.com.au
+adyen.com
 ae.online.standardchartered.com
 afb.az
 agbank.az
@@ -94,6 +95,7 @@ altinn.no
 alxinger-bank.de
 ambank.amonline.com.my
 ambank.com.my
+amedigital.com
 amerantbank.com
 americanexpress.com
 amp.com.au
@@ -154,6 +156,7 @@ bancnetonline.com
 banco.bradesco
 bancoactivo.com
 bancoagrario.gov.co
+bancoamazonia.com.br
 bancobrasil.com.br
 bancocajasocial.com
 bancocaroni.com.ve
@@ -173,6 +176,7 @@ bancoldex.com
 bancomer.com
 bancon.bancor.com.ar
 bancoomeva.com.co
+bancopan.com.br
 bancopichincha.com.co
 bancopopular.com.co
 bancopopular.es
@@ -279,6 +283,7 @@ barokart.com.tr
 basvuru.denizbank.com
 bb.com.br
 bbacbank.com
+Bbancobmg.com.br
 bbank.ru
 bbbank.de
 bbclick.baltbank.ru
@@ -362,6 +367,7 @@ bmo.com
 bmoharris.com
 bmwbank.de
 bn.aliorbank.pl
+bnb.gov.br
 bnc.ca
 bnc.nc
 bnkv.ru
@@ -402,6 +408,7 @@ bss.finars.ru
 bss.novahovcb.ru
 btb.az
 btc-e.com
+btgpactual.com
 btgpactualdigital.com.br
 btpn.com
 btrl.ro
@@ -412,8 +419,10 @@ bus.ideabank.ua
 businessonline.ge
 buyway.be
 bv-activebanking.de
+bv.com.br
 byblosbank.com.lb
 bystrobank.ru
+c6bank.com.br
 cabinet.altbb.ru
 cabinet.hcsbk.kz
 caisse-epargne.fr
@@ -438,7 +447,6 @@ cardtocard.dvbank.ua
 carrefourfinance.be
 castell-bank.de
 cathaybk.com.tw
-cav.receita.fazenda.gov.br
 cb-bank.de
 cb-retail.rmb.ru
 cb.buc.com.ua
@@ -485,6 +493,7 @@ chinatrust.com
 cib.hu
 cibc.com
 cic.fr
+cielo.com.br
 cimbclicks.co.id
 cimbclicks.com.my
 citibank.co.id
@@ -502,6 +511,7 @@ citizensbankonline.com
 clb.bankmtb.ru
 clb.olmabank.ru
 clbank.investcapitalbank.ru
+clear.com.br
 clhs.kiev.ua
 client-bank.itbank.ru
 client.mdmbank.ru
@@ -1493,7 +1503,9 @@ meinebank.de
 meinevolksbank.de
 memberdirect.net
 mercadobitcoin.com.br
+mercadopago.com.br
 mercantilbanco.com
+mercantildobrasil.com.br
 mercedes-benz-bank.de
 merchantsecurity.enstage.com
 merckfinck.de
@@ -1622,6 +1634,7 @@ new.mybank.by
 new.permatanet.com
 newvelocity.ocbcnisp.com
 nexo.io
+next.me
 nextbank.com.tw
 nikoil.az
 nipbank.ru
@@ -1812,6 +1825,7 @@ optima24.kg
 optumbank.com
 orangefinanse.com.pl
 orders.cloudpayments.ru
+original.com.br
 oschad24.com
 oschadbank.ua
 oskolbank.ru
@@ -1830,7 +1844,11 @@ oyakankerbank.de
 p2p.alfabank.ua
 p2p.mdm.ru
 p2y.com.ua
+pagbrasil.com
+pagbrasil.com
+pagseguro.uol.com.br
 palmettohealthcu.org
+paranabanco.com.br
 pashabank.az
 pasientsky.no
 passolig.com.tr
@@ -1908,6 +1926,7 @@ pib.ru
 pib.ua
 pib.uobthailand.com
 pibank.autopays.ru
+picpay.com
 pictet.com
 piraeusbank.com
 pkb24.ru
@@ -2283,6 +2302,7 @@ rbui.de
 rbuv.de
 rcbconline-corporate.com
 rcbconlinebanking.com
+recargapay.com.br
 redwoodcu.org
 regiobank.nl
 renault-bank-direkt.de
@@ -2295,12 +2315,14 @@ retail.patriabank.ro
 retail.santander.co.uk
 retail.sdm.ru
 revenue.ie
+revolut.com
 rfcu.com
 rficb.ru
 rgsbank.ru
 rheingauer-volksbank.de
 rhoen-rennsteig-sparkasse.de
 richart.tw
+rico.com.vc
 rileg.de
 ripb.parsian-bank.ir
 riyadbank.com
@@ -2351,6 +2373,7 @@ saastopankki.fi
 saba.bankmelli-iran.com
 sabb.com
 saferpay.com
+safra.com.br
 saib.com.sa
 salzlandsparkasse.de
 samba.com
@@ -2460,6 +2483,7 @@ shpd.motivtelecom.ru
 siab.ru
 sibank.ru
 sibes.omsk.ru
+sicredi.com.br
 signicat.com
 signin.ebay.ca
 signin.ebay.co.uk
@@ -2839,6 +2863,7 @@ start2pay.com
 stat-dv.mtsbank.ru
 static.siteheart.com
 steylerbank.de
+stone.com.br
 stripe.com
 sube.halkbank.com.tr
 sube.iktisatbank.com
@@ -2903,6 +2928,7 @@ titanvest.com
 titubb.titck.gov.tr
 tmbdirect.com
 tochka.com
+ton.com.br
 touchbank.com
 tpb.vn
 trade.paritem.com
@@ -2936,6 +2962,7 @@ uniastrum.ru
 unibank.az
 unicaja.es
 unicajabanco.es
+unicred.com.br
 unicredit.it
 unicreditbank.hu
 unicreditbanking.eu
@@ -2961,6 +2988,7 @@ uralprombank.ru
 uralsibbank.ru
 us.hsbc.com
 usaa.com
+userede.com.br
 utb.ru
 v-vb.de
 valiant.ch
