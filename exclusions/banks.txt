@@ -1,5 +1,6 @@
 
 
+
 //
 //
 // Adguard HTTPS exclusions: banks and financial services
@@ -57,6 +58,7 @@ adyen.com
 ae.online.standardchartered.com
 afb.az
 agbank.az
+agibank.com.br
 agorainvestimentos.com.br
 agribank.com.vn
 aib.ie
@@ -156,19 +158,23 @@ bancnetonline.com
 banco.bradesco
 bancoactivo.com
 bancoagrario.gov.co
+bancoalfa.com.br
 bancoamazonia.com.br
 bancobrasil.com.br
+bancobs2.com.br
 bancocajasocial.com
 bancocaroni.com.ve
 bancochile.cl
 bancoconsorcio.cl
 bancodebogota.com
 bancodeoccidente.com.co
+bancodigimais.com.br
 bancodobrasil.com.br
 bancoestado.cl
 bancoexterior.com
 bancofalabella.cl
 bancofalabella.com.co
+bancofibra.com.br
 bancofinandina.com
 bancointer.com.br
 bancointernacional.cl
@@ -188,6 +194,9 @@ bancow.com.co
 bancrecerdigital.com
 bancsabadell.com
 banesconline.com
+banese.com.br
+banestes.com.br
+banestes.com.br
 bangkokbank.com
 bank-direct.ru
 bank-enisey.ru
@@ -270,6 +279,7 @@ banktrust.com.ua
 bankuralsib.ru
 bankvostok.com.ua
 banorte.com
+banpara.b.br
 banplusonline.com
 banquelaurentienne.ca
 banquepopulaire.fr
@@ -306,6 +316,7 @@ bcr.md
 bcr.ro
 bcu.org
 bcv.ch
+bdmg.mg.gov.br
 bdo.com.ph
 bdvenlinea.banvenez.com
 becu.org
@@ -330,6 +341,7 @@ bfer.ro
 bhf-bank.ch
 bhf-bank.com
 bhw.de
+bib.com.br
 bibessen.de
 bic.modulbank.ru
 bice.cl
@@ -369,6 +381,7 @@ bn.aliorbank.pl
 bnb.gov.br
 bnc.ca
 bnc.nc
+bndes.gov.br
 bnkv.ru
 bnpparibas.com
 bnpparibas.hu
@@ -394,6 +407,7 @@ bpostbank.be
 bpostbanque.be
 bps-sberbank.by
 bradesco.com.br
+brde.com.br
 brdoffice.ro
 bremischevb.de
 brokers.tcsbank.ru
@@ -639,6 +653,7 @@ die-vrbank.de
 diebank.de
 difi.no
 digid.nl
+digio.com.br
 digital.noorbank.com
 dino.tzero.com
 directnet.com
@@ -1251,6 +1266,7 @@ instamojo.com
 intechbank.ru
 intellectmoney.ru
 interactivebrokers.co.uk
+interactivebrokers.co.uk
 interactivebrokers.com
 intercommerz.ru
 internet-banking.dbs.com.sg
@@ -1540,6 +1556,7 @@ mlp.de
 mmbank.ru
 mobibank.upb.ru
 mobikwik.com
+modalmais.com.br
 mohela.com
 moj.raiffeisenpolbank.com
 moja.tatrabanka.sk
@@ -1616,6 +1633,7 @@ nbmc.ru
 nc.bnpparibas.net
 nccc.com.tw
 nedbank.co.za
+neon.com.br
 net.kentbank.hr
 netbank.de
 netbank.erstebank.hu
@@ -1651,10 +1669,15 @@ nordeanetbank.dk
 nordthueringer-volksbank.de
 norisbank.de
 nospa.de
+novo.brb.com.br
 ns-bank.ru
 nsandi.com
 nttdocomo.co.jp
+nu.com.ar
+nu.com.co
+nu.com.mx
 nubank.com.br
+nuinvest.com.br
 nwolb.com
 nykredit.dk
 o-bank.com
@@ -1678,6 +1701,7 @@ onezaim.ru
 onfastspring.com
 online-banking.hsbc.com.ar
 online.adcb.com
+online.adcb.com
 online.agroprombank.com
 online.aktifbank.com.tr
 online.alefbank.ru
@@ -1690,6 +1714,7 @@ online.baltinvest.com
 online.bancamiga.com
 online.bankaustria.at
 online.bankcard.ru
+online.bankfab.com
 online.bankirdom.com
 online.bankofcyprus.com
 online.bankotsar.co.il
@@ -1832,6 +1857,7 @@ oplata.lifecell.com.ua
 oplatatroika.mobi-money.ru
 optima24.kg
 optumbank.com
+orama.com.br
 orangefinanse.com.pl
 orders.cloudpayments.ru
 original.com.br
@@ -1857,6 +1883,7 @@ pagbrasil.com
 pagbrasil.com
 pagseguro.uol.com.br
 palmettohealthcu.org
+paranabanco.com.br
 paranabanco.com.br
 pashabank.az
 pasientsky.no
@@ -1962,6 +1989,7 @@ portalbank.no
 portaldepagosmercantil.com
 portmanat.az
 portmone.com.ua
+portoseguro.com.br
 post.gov.tw
 postbank.kz
 postfinance.ch
@@ -2004,6 +2032,7 @@ qiwi.ru
 qnb.com
 qnbfinansbank.com
 qnbfinansbank.enpara.com
+quantaprevidencia.com.br
 quick.bankvl.ru
 quik.psbank.ru
 qweb.quercia.com
@@ -2493,6 +2522,7 @@ shpd.motivtelecom.ru
 siab.ru
 sibank.ru
 sibes.omsk.ru
+sicoob.com.br
 sicredi.com.br
 signicat.com
 signin.ebay.ca
@@ -2939,6 +2969,7 @@ titubb.titck.gov.tr
 tmbdirect.com
 tochka.com
 ton.com.br
+toroinvestimentos.com.br
 touchbank.com
 tpb.vn
 trade.paritem.com
