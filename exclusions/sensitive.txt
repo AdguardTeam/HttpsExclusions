@@ -107,3 +107,8 @@ id.biltema.com
 besoklegen.no
 // https://github.com/AdguardTeam/HttpsExclusions/issues/378
 vd.l.qq.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/427
+meu.inss.gov.br
+cnisnet.inss.gov.br
+// https://github.com/AdguardTeam/HttpsExclusions/issues/428
+onpointcu.com
