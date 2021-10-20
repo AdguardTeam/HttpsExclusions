@@ -100,4 +100,5 @@ hpcloud.hp.com
 hpcloud.hp.net
 // https://github.com/AdguardTeam/AdguardFilters/issues/77058
 api.apple-cloudkit.com
-
+// https://github.com/AdguardTeam/CoreLibs/issues/1500
+theluckygene.com
