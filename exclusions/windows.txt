@@ -9,3 +9,6 @@ badges-content.teamspeak.com
 named.myteamspeak.com
 // For Euro Truck Simulator 2 MP: https://github.com/AdguardTeam/AdguardForWindows/issues/1592
 api.truckersmp.com
+licensing.mp.microsoft.com
+// https://github.com/AdguardTeam/AdguardForWindows/issues/3741
+aus.waterfox.net
