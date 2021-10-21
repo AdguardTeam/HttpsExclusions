@@ -1,9 +1,8 @@
-
-
-
-//
 //
 // Adguard HTTPS exclusions: banks and financial services
+//
+business.faktura.ru
+fiz.tavrich.ru
 1.elecsnet.ru
 1822direkt-banking.de
 1822direkt.de
