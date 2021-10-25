@@ -1,6 +1,7 @@
 //
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
+gorzdrav.spb.ru
 hrblock.com
 accounts.google.com
 bitwarden.com
