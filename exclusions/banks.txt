@@ -2960,7 +2960,6 @@ thepay.com.ua
 theworldexchange.net
 tiaa.org
 ticket.uz.gov.ua
-tinkoff.ru
 tisco.co.th
 tiscoasset.com
 titanvest.com
@@ -3528,6 +3527,7 @@ www.neosonline.ndbbank.com
 www.onlinesbiglobal.com
 www.payeasy.lk
 www.posb.com.sg
+www.tinkoff.ru
 www1.royalbank.com
 www2.danskebank.ee
 www2.jugra.ru
