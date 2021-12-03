@@ -1,8 +1,6 @@
 //
-// Adguard HTTPS exclusions: banks and financial services
 //
-business.faktura.ru
-fiz.tavrich.ru
+// Adguard HTTPS exclusions: banks and financial services
 1.elecsnet.ru
 1822direkt-banking.de
 1822direkt.de
@@ -428,6 +426,7 @@ budapestbank.hu
 bukopin.co.id
 bunq.app
 bus.ideabank.ua
+business.faktura.ru
 businessonline.ge
 buyway.be
 bv-activebanking.de
@@ -490,6 +489,7 @@ cfront.alfabank.kiev.ua
 ch6c.com.tw
 changehero.io
 changelly.com
+chartersavingsbank.co.uk
 chase.com
 chasecanada.ca
 chb.com.tw
@@ -802,6 +802,7 @@ fio.cz
 firstbank.com.tw
 firstbankcard.com
 firstcard.se
+fiz.tavrich.ru
 flessabank.de
 fnb.co.za
 fnb.com.lb
@@ -1324,6 +1325,7 @@ kaspi.kz
 kasseler-sparkasse.de
 kautionen.aareal-bank.com
 kbc.be
+kbstar.com
 kbtub.ru
 kd-bank.de
 kdb.hu
@@ -1434,6 +1436,7 @@ landbank.com.tw
 lansforsakringar.se
 leaseplanbank.de
 leboutique.com
+legalandgeneral.com
 leipziger-volksbank.de
 leomoney.com
 leumi.ro
@@ -1784,6 +1787,7 @@ online.tkbbank.ru
 online.transstroybank.ru
 online.tskb.com.tr
 online.unicombank.com.ua
+online.virginmoney.com
 online.vostbank.ru
 online.vtb-bank.kz
 online.vtb.ru
@@ -2008,6 +2012,7 @@ procreditbank.de
 profitbank.ru
 promenergobank.ru
 promo.concord.ua
+prosperitybankusa.com
 psbst.ru
 pscb.ru
 psd-berlin-brandenburg.de
@@ -2423,6 +2428,7 @@ santander.nl
 santanderbank.com
 santanderconsumer.se
 sbab.se
+sber-bank.by
 sberbank-ast.ru
 sberbank.hu
 sberbank.kz
@@ -3541,6 +3547,7 @@ yanettbank.ya.no
 yapikredi.com.az
 yapikredi.com.tr
 yarbank.ru
+ybs.co.uk
 yenibayi.passotaksit.com.tr
 youneedabudget.com
 yuantabank.com.tw
