@@ -112,3 +112,5 @@ meu.inss.gov.br
 cnisnet.inss.gov.br
 // https://github.com/AdguardTeam/HttpsExclusions/issues/428
 onpointcu.com
+app.traderepublic.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/439
