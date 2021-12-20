@@ -102,3 +102,5 @@ hpcloud.hp.net
 api.apple-cloudkit.com
 // https://github.com/AdguardTeam/CoreLibs/issues/1500
 theluckygene.com
+// seems to be a false-positive of the bot detector there
+mid.ru
