@@ -3,6 +3,8 @@
 //
 // https://github.com/AdguardTeam/HttpsExclusions/issues/300
 idmsa.apple.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/449
+updates.cdn-apple.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/289
 e-tjanster.1177.se
 // https://github.com/AdguardTeam/CoreLibs/issues/1280
