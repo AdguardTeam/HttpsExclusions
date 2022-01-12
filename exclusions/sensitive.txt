@@ -115,3 +115,9 @@ cnisnet.inss.gov.br
 onpointcu.com
 app.traderepublic.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/439
+trbinance.com
+binance.com
+papara.com
+gate.io
+mexc.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/451

@@ -1770,6 +1770,7 @@ online.oschadbank.ua
 online.pabcbank.com
 online.pchrb.ru
 online.piraeusbank.ua
+online.pocztowy.pl
 online.procreditbank.am
 online.procreditbank.ge
 online.ptclick.com.ua
@@ -3029,6 +3030,7 @@ uob.co.th
 uob.com.sg
 upay.megafon.ru
 uphold.com
+upma.org
 uralfd.ru
 uralprombank.ru
 uralsibbank.ru
