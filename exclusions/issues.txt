@@ -106,3 +106,5 @@ api.apple-cloudkit.com
 theluckygene.com
 // seems to be a false-positive of the bot detector there
 mid.ru
+// https://github.com/AdguardTeam/CoreLibs/issues/1103
+download.skype.com
