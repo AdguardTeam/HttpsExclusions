@@ -144,6 +144,7 @@ axisbank.co.in
 axisbank.com
 azerturkbank.az
 b2.ndb24.ru
+ba.org.tw
 baaderbank.de
 baker.ebanksepah.ir
 bancaenlinea.bancoplaza.com
@@ -825,6 +826,7 @@ fs-bank.de
 ftx.com
 fubon.com
 fuggerbank-infoportal.de
+fundrich.com.tw
 gabler-saliter-bank.de
 garanti.com.tr
 garantibank.de
@@ -888,6 +890,7 @@ harzsparkasse.de
 haspa.de
 hauck-aufhaeuser.de
 hausbank.de
+hawho.tw
 hb.aibank.co.il
 hb.unionbank.co.il
 hb2.bankleumi.co.il
@@ -2905,6 +2908,7 @@ stadtsparkasse-versmold.de
 stanbicibtcbank.com
 standardbank.co.za
 standardchartered.com.tw
+starlingbank.com
 start2pay.com
 stat-dv.mtsbank.ru
 static.siteheart.com
@@ -2944,6 +2948,7 @@ tbb.ee
 tbconline.ge
 tcb-bank.com.tw
 tcbbank.com.tw
+tcfhc-sec.com.tw
 td.com
 tdameritrade.com
 tdbank.com
@@ -2992,8 +2997,10 @@ ts.seb.se
 tsb.co.nz
 tsp.gov
 turanbank.az
+twfhcsec.com.tw
 twint.ch
 twmp.com.tw
+twnch.org.tw
 ubot.com.tw
 ubrr.ru
 ubs.com
