@@ -9,7 +9,6 @@ chrome.adtidy.org
 dl.dropboxusercontent.com
 eff.org
 mozilla.net
-mozilla.org
 mozilla.com
 d13itkw33a7sus.cloudfront.net
 stickypassword.com
