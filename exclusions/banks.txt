@@ -752,6 +752,7 @@ esube.eximbank.gov.tr
 esube.turkishbank.com
 esube.turkishcards.com
 esunbank.com.tw
+ethikbank-onlinebanking.de
 etrade.com
 eurasian-bank.ru
 eurobank-ua.com
@@ -1284,6 +1285,7 @@ internetbanken.privat.nordea.se
 internetbanking.btn.co.id
 internetbanking.caixa.gov.br
 internetbanking.ro
+internetbanking.suncorpbank.com.au
 internetpanin.com
 internetsube.turkiyefinans.com.tr
 internetsubesi.fibabanka.com.tr
@@ -1523,6 +1525,7 @@ meine-vvb.de
 meine.postbank.de
 meinebank.de
 meinevolksbank.de
+meinkonto.tfbank.de
 memberdirect.net
 mercadobitcoin.com.br
 mercadopago.com.br
@@ -2918,6 +2921,7 @@ sube.halkbank.com.tr
 sube.iktisatbank.com
 sube.sekerbank.com.tr
 subesizbankacilik.vakifbank.com.tr
+suncorp.com.au
 sunnybank.com.tw
 sutorbank.de
 swedbank.ee
@@ -3518,6 +3522,7 @@ winbank.gr
 winterbacher-bank.de
 winterlinger-bank.de
 wirecardbank.de
+wise.com
 wizink.es
 wmtransfer.com
 wooppay.com
