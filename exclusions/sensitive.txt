@@ -1,6 +1,9 @@
 //
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
+lk.billing74.ru
+protonmail.com
+protonvpn.com
 gorzdrav.spb.ru
 hrblock.com
 accounts.google.com
