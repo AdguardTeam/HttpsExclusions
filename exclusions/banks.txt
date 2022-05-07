@@ -290,7 +290,7 @@ barokart.com.tr
 basvuru.denizbank.com
 bb.com.br
 bbacbank.com
-Bbancobmg.com.br
+bbancobmg.com.br
 bbank.ru
 bbbank.de
 bbclick.baltbank.ru
@@ -746,12 +746,14 @@ eqbank.ca
 erfurter-bank.de
 erzgebirgssparkasse.de
 esube.abank.com.tr
-esube.albarakaturk.com.tr
+esube.albaraka.com.tr
 esube.bankasya.com.tr
 esube.burgan.com.tr
 esube.eximbank.gov.tr
+esube.teb.com.tr
 esube.turkishbank.com
 esube.turkishcards.com
+esube.ziraatkatilim.com.tr
 esunbank.com.tw
 ethikbank-onlinebanking.de
 etrade.com
@@ -876,6 +878,8 @@ gws.sauberbank.com
 hafnerbank.de
 hagnauer-volksbank.de
 halifax-online.co.uk
+halkbank.mk
+halkbank.rs
 halkbankgayrimenkul.com.tr
 hallertauer-volksbank.de
 halykpay.kz
@@ -1282,6 +1286,7 @@ internetbank.armbusinessbank.am
 internetbank.nsb.lk
 internetbank.swedbank.se
 internetbanka.cz
+internetbankaciligi.fibabanka.com.tr
 internetbanken.privat.nordea.se
 internetbanking.btn.co.id
 internetbanking.caixa.gov.br
@@ -1304,8 +1309,10 @@ ipb.ru
 isbank.com.tr
 isnbank.ru
 isube.anadolubank.com.tr
+isube.emlakkatilim.com.tr
 isube.kuveytturk.com.tr
 isube.tbank.com.tr
+isube.vakifkatilim.com.tr
 it.tb.by
 itau.cl
 itau.co
@@ -3051,6 +3058,9 @@ usaa.com
 userede.com.br
 utb.ru
 v-vb.de
+vakif-bank.de
+vakifbank.at
+vakifbankusa.com
 valiant.ch
 vanguard.com
 varengold.de
@@ -3500,7 +3510,7 @@ wartburg-sparkasse.de
 wayforpay.com
 wb.mosoblbank.ru
 wealthbar.com
-Wealthfront.com
+wealthfront.com
 wealthsimple.com
 web.bancadigitalbod.com
 web.hellenicbank.com
@@ -3577,9 +3587,9 @@ ziraatbank.ba
 ziraatbank.bg
 ziraatbank.co.uk
 ziraatbank.com.gr
+ziraatbank.com.tr
 ziraatbank.de
 ziraatbank.me
-ziraatbank.uz
 ziraatbank.ru
-ziraatbank.com.tr
+ziraatbank.uz
 zkb.ch
