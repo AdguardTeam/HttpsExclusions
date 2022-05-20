@@ -1,6 +1,6 @@
 //
-//
 // Adguard HTTPS exclusions: banks and financial services
+//
 1.elecsnet.ru
 1822direkt-banking.de
 1822direkt.de
@@ -218,6 +218,7 @@ bankalbilad.com
 bankastana.kz
 bankaudi.com.lb
 bankavrasiya.az
+bankbsi.co.id
 bankchb.com
 bankcomm.com
 bankdki.co.id
@@ -383,6 +384,7 @@ bnb.gov.br
 bnc.ca
 bnc.nc
 bndes.gov.br
+bni.co.id
 bnkv.ru
 bnpparibas.com
 bnpparibas.hu
@@ -416,6 +418,7 @@ brom.ro
 bruehlerbank.de
 bsb.by
 bsi.sevnb.ru
+bsm.co.id
 bspb.ru
 bss.constans.ru
 bss.finars.ru
@@ -603,6 +606,8 @@ cyber.rostbank.ru
 da.victoriabank.md
 dab-bank.de
 dalena.ru
+dana.id
+danamon.co.id
 danamonline.com
 danskebank.dk
 danskebank.se
@@ -813,6 +818,7 @@ firstbankcard.com
 firstcard.se
 fiz.tavrich.ru
 flessabank.de
+flip.id
 fnb.co.za
 fnb.com.lb
 fnbba.com
