@@ -1,6 +1,12 @@
 //
-//
 // Adguard HTTPS exclusions: banks and financial services
+//
+bsm.co.id
+bankbsi.co.id
+dana.id
+flip.id
+bni.co.id
+danamon.co.id
 1.elecsnet.ru
 1822direkt-banking.de
 1822direkt.de
