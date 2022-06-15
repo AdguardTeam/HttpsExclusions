@@ -1705,6 +1705,7 @@ nispa.de
 nobaeg.de
 nokss.ru
 nordea.com
+nordea.fi
 nordea.ru
 nordea.se
 nordeanetbank.dk
@@ -2619,7 +2620,6 @@ societegenerale.fr
 sofinet.com.ve
 sofisadireto.com.br
 solicitudestarjetas.banesco.net
-solo1.nordea.fi
 sorexpay.com
 southindianbank.com
 sovcombank.ru
