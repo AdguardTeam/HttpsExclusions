@@ -124,6 +124,4 @@ papara.com
 gate.io
 mexc.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/451
-static.adtidy.org
-link.adtidy.org
-api.adguard.org
+
