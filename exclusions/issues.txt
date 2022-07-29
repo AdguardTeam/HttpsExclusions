@@ -108,3 +108,7 @@ theluckygene.com
 mid.ru
 // https://github.com/AdguardTeam/CoreLibs/issues/1103
 download.skype.com
+// Service domains
+static.adtidy.org
+link.adtidy.org
+api.adguard.org
