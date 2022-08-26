@@ -2968,6 +2968,7 @@ sube.halkyatirim.com.tr
 sube.iktisatbank.com
 sube.oyakyatirim.com.tr
 sube.sekerbank.com.tr
+subesiz.vakifbank.com.tr
 subesizbankacilik.vakifbank.com.tr
 suncorp.com.au
 sunnybank.com.tw
