@@ -3,6 +3,7 @@
 //
 lk.billing74.ru
 protonmail.com
+proton.me
 protonvpn.com
 gorzdrav.spb.ru
 hrblock.com
