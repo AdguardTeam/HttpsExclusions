@@ -839,6 +839,7 @@ fr.banquepopulaire.cyberplus
 frankenberger-bank.de
 frankfurter-sparkasse.de
 frankfurter-volksbank.de
+frostbank.com
 fryksdalenssparbank.se
 fs-bank.de
 ftx.com
@@ -2477,6 +2478,7 @@ sanalpos.halkbank.com.tr
 santander.cl
 santander.com.br
 santander.com.co
+santander.com.mx
 santander.de
 santander.nl
 santanderbank.com
