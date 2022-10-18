@@ -289,8 +289,8 @@ banrisul.com.br
 barclaycard.co.uk
 barclaycard.de
 barclaycardus.com
-barclays.de
 barclays.co.uk
+barclays.de
 barokart.com.tr
 basvuru.denizbank.com
 bb.com.br
@@ -398,10 +398,10 @@ bobibanking.com
 boc.cn
 bochk.com
 bodenseebank.de
-boq.com.au
 bok.com.tw
 bop.com.tw
 bopfinger-bank.de
+boq.com.au
 bordesholmer-sparkasse.de
 bot.com.tw
 boursorama.com
@@ -435,6 +435,7 @@ btpn.com
 btrl.ro
 budapestbank.hu
 bukopin.co.id
+bulbankonline.bg
 bunq.app
 bus.ideabank.ua
 business.faktura.ru
@@ -501,6 +502,7 @@ changehero.io
 changelly.com
 chartersavingsbank.co.uk
 chase.co.uk
+chase.co.uk
 chase.com
 chasecanada.ca
 chb.com.tw
@@ -525,6 +527,7 @@ citibank.co.th
 citibank.com
 citibank.com.co
 citibank.com.ph
+citibank.com.sg
 citibank.com.tw
 citibank.ru
 citibankonline.com
@@ -709,9 +712,16 @@ eb.de
 eb.sbhr.hr
 eba.procreditbank.md
 ebank.addiko.hr
+ebank.agribank.com.tw
 ebank.ansarbank.com
 ebank.eximbank.ro
+ebank.hc3cbank.com.tw
+ebank.hcfcbank.com.tw
+ebank.hua215.com.tw
+ebank.kfcc.com.tw
+ebank.kh3c.com.tw
 ebank.ofb.uz
+ebank.tsca.com.tw
 ebanka.danskebank.lv
 ebankas.danskebank.lt
 ebanking-hoernerbank.de
@@ -753,6 +763,7 @@ emsland-mitte.de
 enpara.com
 enter.unicredit.ru
 entiebank.com.tw
+epay.bg
 epay.unionbankofindia.co.in
 epayment.nets.eu
 eqbank.ca
@@ -795,6 +806,7 @@ extra.unicreditbank.hu
 ezaimo.ru
 factoring.mb.seb.se
 factoring.seb.de
+fairfx.com
 faktura.ru
 farmersebank.com
 fbid.ru
@@ -878,6 +890,7 @@ gnbsudameris.com.co
 gobank-online.de
 goldenpay.az
 gorod23.ru
+gov.uk
 grafschafter-volksbank.de
 granitbank.hu
 greenmoney.ru
@@ -1069,6 +1082,7 @@ ibank.eka-bank.ru
 ibank.ekp.lv
 ibank.elbin-bank.ru
 ibank.euroalliance.ru
+ibank.fast.org.tw
 ibank.fbbank.ru
 ibank.finam.ru
 ibank.finprombank.ru
@@ -1330,6 +1344,7 @@ iobnet.co.in
 ioffice.kz
 ipay.ua
 ipb.citibank.com.sg
+ipb.citibank.com.sg
 ipb.ru
 isbank.com.tr
 isnbank.ru
@@ -1512,6 +1527,7 @@ lloydsbank.nl
 localbitcoins.com
 localethereum.com
 loebbecke-bank.de
+login-portal.nra.bg
 login.aliorbank.pl
 login.banknetpower.net
 login.blockchain.com
@@ -1611,6 +1627,7 @@ moj.raiffeisenpolbank.com
 moja.tatrabanka.sk
 mojebanka.cz
 mojezdravefinance.cz
+monese.com
 moneta.ru
 money.comepay.ru
 money.idram.am
@@ -1673,6 +1690,7 @@ naffic.org.tw
 nalog.ru
 naspa.de
 nationwide.co.uk
+natwest.com
 navyfederal.org
 naxcivanbank.az
 nbcbank.az
@@ -1778,6 +1796,7 @@ online.bta-kazan.ru
 online.btabank.by
 online.bulbank.bg
 online.capitalbank.kz
+online.ccbank.bg
 online.cetelem.ru
 online.citadele.lv
 online.citi.com
@@ -1845,7 +1864,6 @@ online.vtb.ua
 online.woodforest.com
 onlineapp.unibank.az
 onlinebank.kz
-onlinebanking.53.com
 onlinebanking-aktivbank.de
 onlinebanking-alxinger-bank.de
 onlinebanking-bankhausbauer.de
@@ -1891,6 +1909,7 @@ onlinebanking-schroederbank.de
 onlinebanking-volksbank-hochrhein.de
 onlinebanking-vr-bank-nuernberg.de
 onlinebanking-vrbanknet.de
+onlinebanking.53.com
 onlinebanking.aib.ie
 onlinebanking.bank-credit-suisse-moscow.ru
 onlinebanking.brci.ro
@@ -2049,6 +2068,7 @@ portmone.com.ua
 portoseguro.com.br
 post.gov.tw
 postbank.kz
+poste.it 
 postfinance.ch
 pps.fuib.com
 prbkbr-ibank2.ru
@@ -3055,6 +3075,7 @@ triodos.nl
 trust.ru
 ts.seb.se
 tsb.co.nz
+tsb.co.uk
 tsp.gov
 turanbank.az
 twfhcsec.com.tw
@@ -3258,6 +3279,7 @@ vicsuper.com.au
 vietcombank.com.vn
 vietinbank.vn
 vip.ritzbank.ru
+virginmoney.com
 virtualbanking.mcb.com.lk
 viseca.ch
 visecaone.ch
@@ -3578,6 +3600,7 @@ westkreis.de
 westpac.co.nz
 wfc.sebank.se
 wideup.net
+widiba.it
 winbank.gr
 winterbacher-bank.de
 winterlinger-bank.de
