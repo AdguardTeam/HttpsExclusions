@@ -125,4 +125,5 @@ papara.com
 gate.io
 mexc.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/451
-
+tapi.telstra.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/494
