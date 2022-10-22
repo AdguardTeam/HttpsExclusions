@@ -354,6 +354,7 @@ big.pt
 bigbank.ee
 bil.com
 billdesk.com
+bireysel.payfix.com.tr
 bireysel.turkishbank.com
 bisbank.com.ua
 bistrozaim.ua
@@ -1958,6 +1959,7 @@ pagseguro.uol.com.br
 palmettohealthcu.org
 papara.com
 paragonbank.co.uk
+param.com.tr
 paranabanco.com.br
 paranabanco.com.br
 pashabank.az
