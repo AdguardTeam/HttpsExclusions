@@ -112,3 +112,5 @@ download.skype.com
 static.adtidy.org
 link.adtidy.org
 api.adguard.org
+// https://github.com/AdguardTeam/CoreLibs/issues/1693
+voipnx-saturn.line-apps.com
