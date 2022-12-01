@@ -48,7 +48,7 @@ You can write HTTPS exclusion with following syntax:
  - `example.org` matches `example.org` and all subdomains like `sub.example.org` and `sub.sub.example.org` (but doesn't match `example.org.any`). 
 
 You can use wildcard characters:
- - `example.*` matches any TLD `example.org`, `example.com`, `example.org.en` (Doesn't match subdomains like `sub.example.org` and `sub.sub.example.org`).
+ - `example.*` matches any TLD `example.org`, `example.com`, `example.org.uk` and subdomains `sub.example.com`, `sub.sub.example.org` and `sub.example.org.uk`.
  - `example*` matches all domains which starts with `example`: `exampleeee.com`, `example.com.uk`, etc., without subdomains.
  - `*.example.org` matches only subdomains of `example.org`: `sub.example.org`, `sub.sub.example.org` (Doesn't match `sub.example.org.uk`).
  - In general, the asterisk expands to any number of characters. So you can use wildcard character in any place of HTTPS exclusion, for example:
