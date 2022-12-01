@@ -41,3 +41,23 @@ node index.js
 ```
 
 Check the `dist` folder for the output.
+
+## HTTPS exclusion syntax
+
+You can write HTTPS exclusion with following syntax:
+ - `example.org` matches `example.org` and all subdomains like `sub.example.org` and `sub.sub.example.org` (but doesn't match `example.org.any`). 
+
+You can use wildcard characters:
+ - `example.*` matches any TLD `example.org`, `example.com`, `example.org.en` (Doesn't match subdomains like `sub.example.org` and `sub.sub.example.org`).
+ - `example*` matches all domains which starts with `example`: `exampleeee.com`, `example.com.uk`, etc., without subdomains.
+ - `*.example.org` matches only subdomains of `example.org`: `sub.example.org`, `sub.sub.example.org` (Doesn't match `sub.example.org.uk`).
+ - In general, the asterisk expands to any number of characters. So you can use wildcard character in any place of HTTPS exclusion, for example:
+    * `ex*mple.org` matches `exaaaample.org` and `exmple.org`, but doesn't match `sub.example.org` and `example.org.uk`.
+    * `*example*` matches `eeeexampleee.org`, `sub.example.org`, etc.
+    
+
+You can use exact match syntax:
+ - `"example.org"` matches only `example.org` without subdomains.
+
+Also you can use exact match syntax with wildcard characters:
+ - `"example.*"` matches any TLD, for example `example.org`, `example.com` and `example.com.uk` without subdomains.
