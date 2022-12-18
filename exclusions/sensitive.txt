@@ -38,6 +38,12 @@ passport.yandex.com.tr
 passport.yandex.kz
 passport.yandex.ru
 passport.yandex.ua
+id.yandex.by
+id.yandex.com
+id.yandex.com.tr
+id.yandex.kz
+id.yandex.ru
+id.yandex.ua
 securesafe.com
 skatteverket.se
 sophos.com
