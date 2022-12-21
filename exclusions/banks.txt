@@ -1,6 +1,7 @@
+
+//
 //
 // Adguard HTTPS exclusions: banks and financial services
-//
 1.elecsnet.ru
 1822direkt-banking.de
 1822direkt.de
@@ -359,6 +360,7 @@ bireysel.turkishbank.com
 bisbank.com.ua
 bistrozaim.ua
 bitfinex.com
+bitget.com
 bitpanda.com
 bitso.com
 bitstamp.net
@@ -444,6 +446,7 @@ businessonline.ge
 buyway.be
 bv-activebanking.de
 bv.com.br
+bybit.com
 byblosbank.com.lb
 bystrobank.ru
 c6bank.com.br
@@ -1228,6 +1231,7 @@ ibank24.kz
 ibank2r.vfbank.ru
 ibanka.seb.lv
 ibanking-services.com
+ibanking.bankofmelbourne.com.au
 ibanking.vtb.am
 ibankr.ricbank.com
 ibankretail.nbg.gr
@@ -2428,6 +2432,7 @@ rcbconlinebanking.com
 recargapay.com.br
 redwoodcu.org
 regiobank.nl
+renault-bank-direkt.at
 renault-bank-direkt.de
 resonabank.co.jp
 resursbank.se
@@ -2512,6 +2517,7 @@ santanderconsumer.se
 sbab.se
 sber-bank.by
 sberbank-ast.ru
+sberbank.com
 sberbank.hu
 sberbank.kz
 sberbank.ru
@@ -3670,4 +3676,3 @@ ziraatbank.ru
 ziraatbank.uz
 ziraatyatirim.matrikswebtrader.com
 zkb.ch
-sberbank.com
