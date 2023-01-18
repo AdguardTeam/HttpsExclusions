@@ -53,6 +53,7 @@ id.yandex.ua
 securesafe.com
 skatteverket.se
 sophos.com
+secuchart.com
 web.whatsapp.com
 rzd.ru
 1password.eu
