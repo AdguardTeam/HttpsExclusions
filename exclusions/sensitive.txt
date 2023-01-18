@@ -3,6 +3,7 @@
 //
 lk.billing74.ru
 fido.kt.com
+pay.naver.com
 protonmail.ch
 protonmail.com
 proton.me
@@ -120,6 +121,7 @@ freshbooks.com
 kashflow.com
 prestigecu.org
 myob.com
+nid.naver.com
 hotdoc.com.au
 // https://github.com/AdguardTeam/HttpsExclusions/pull/372
 checkout.bambora.com
