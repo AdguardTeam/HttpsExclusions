@@ -80,6 +80,8 @@ xero.com
 freshbooks.com
 kashflow.com
 prestigecu.org
+go.kr
+gov.kr
 gov.pl
 // https://github.com/AdguardTeam/HttpsExclusions/issues/348
 tikker.emta.ee
