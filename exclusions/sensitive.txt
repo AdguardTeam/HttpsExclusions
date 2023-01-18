@@ -2,6 +2,7 @@
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
 lk.billing74.ru
+fido.kt.com
 protonmail.ch
 protonmail.com
 proton.me
@@ -64,6 +65,7 @@ cmbchina.com
 nordpass.com
 trueidentity.com
 lifelock.com
+login.kt.com
 // Government domains
 gov.au
 turkiye.gov.tr
