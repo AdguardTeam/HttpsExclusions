@@ -24,6 +24,7 @@ agenciatributaria.gob.es
 bolagsverket.se
 canadapost.ca
 cra-arc.gc.ca
+cdn-secuchart.com
 dashlane.com
 ekb.esplus.ru
 f-secure.com
