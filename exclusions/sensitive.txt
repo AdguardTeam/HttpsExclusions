@@ -2,6 +2,7 @@
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
 lk.billing74.ru
+protonmail.ch
 protonmail.com
 proton.me
 protonvpn.com
