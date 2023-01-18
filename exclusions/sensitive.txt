@@ -10,6 +10,7 @@ protonvpn.com
 gorzdrav.spb.ru
 hrblock.com
 accounts.google.com
+accounts.kakao.com
 bitwarden.com
 1password.com
 roboform.com
@@ -17,6 +18,7 @@ enpass.io
 navyfederal.org
 signal-iduna.de
 kontur-ca.ru
+kauth.kakao.com
 agenciatributaria.gob.es
 bolagsverket.se
 canadapost.ca
