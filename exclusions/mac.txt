@@ -6,6 +6,7 @@ emploiquebec.gouv.qc.ca
 // Apple services must be excluded on Mac
 apple.com
 icloud.com
+icloud.com.cn
 // https://github.com/AdguardTeam/AdguardForMac/issues/552
 mzstatic.com
 // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/674
