@@ -56,6 +56,7 @@ adelaidebank.com.au
 adyen.com
 ae.online.standardchartered.com
 afb.az
+afjord-sparebank.no
 agbank.az
 agibank.com.br
 agorainvestimentos.com.br
@@ -103,6 +104,7 @@ americanexpress.com
 amp.com.au
 amrahbank.az
 amundi-tc.com
+andebu-sparebank.no
 androidpay-users-pa.googleapis.com
 anz.co.nz
 anz.com
@@ -133,6 +135,7 @@ atf24.kz
 atfbank.kz
 audibank.de
 augusta-bank.de
+aurskog-sparebank.no
 autopays.ru
 auxmoney.com
 aval.ua
@@ -329,6 +332,7 @@ belfius.be
 bendigobank.com.au
 bensbergerbank.de
 berenberg.de
+berg-sparebank.no
 bergische-volksbank.de
 berkheimer-bank.de
 berliner-sparkasse.de
@@ -351,12 +355,14 @@ bic.modulbank.ru
 bice.cl
 bidv.com
 bidv.vn
+bien.no
 big.pt
 bigbank.ee
 bil.com
 billdesk.com
 bireysel.payfix.com.tr
 bireysel.turkishbank.com
+birkenes-sparebank.no
 bisbank.com.ua
 bistrozaim.ua
 bitfinex.com
@@ -370,6 +376,7 @@ bity.com
 biw-bank.de
 biz.smpbank.ru
 biznes.platinumbank.com.ua
+bjugn-sparebank.no
 bk.banklviv.com
 bk.nico-bank.ru
 bk.tetrapolis.spb.ru
@@ -656,6 +663,7 @@ deine-volksbank.de
 delsuronline.com.ve
 delta-online.kz
 dengisend.ru
+dengulebanken.no
 desjardins.com
 dettinger-bank.de
 deutsche-bank.de
@@ -750,6 +758,8 @@ efactoring.ru
 efbank.ru
 efectivo.bnc.com.ve
 egolomt.mn
+eh-sparebank.no
+eika.no
 ekapusta.ru
 ekonto.paluckibs.pl
 ekspertiz.bankasya.com.tr
@@ -773,6 +783,7 @@ epayment.nets.eu
 eqbank.ca
 erfurter-bank.de
 erzgebirgssparkasse.de
+esbank.no
 esube.abank.com.tr
 esube.albaraka.com.tr
 esube.bankasya.com.tr
@@ -786,6 +797,7 @@ esube.ziraatkatilim.com.tr
 esube1.ziraatyatirim.com.tr
 esunbank.com.tw
 ethikbank-onlinebanking.de
+etnedalsparebank.no
 etrade.com
 eurasian-bank.ru
 eurobank-ua.com
@@ -887,6 +899,7 @@ george.bcr.ro
 george.erstebank.hr
 getlogin.rosbank.ru
 gibank.ru
+gildeskaal-sparebank.no
 global.moneygram.com
 globexbank.ru
 gls-online-filiale.de
@@ -902,7 +915,9 @@ greenmoney.ru
 greensill-bank.com
 grenke.net
 grenkeonline.com
+grong-sparebank.no
 group.pictet
+gruesparebank.no
 grupobancolombia.com
 gsb.or.th
 gtbank.com
@@ -917,6 +932,7 @@ halkbank.mk
 halkbank.rs
 halkbankgayrimenkul.com.tr
 hallertauer-volksbank.de
+haltdalensparebank.no
 halykpay.kz
 hamburger-volksbank.de
 handelsbanken.se
@@ -937,15 +953,19 @@ hb2.bankleumi.co.il
 hc24.by
 hdfcbank.com
 hdh-voba.de
+hegrasparebank.no
 heidelberger-volksbank.de
 helaba.de
 hellenicnetbanking.com
 hellostake.com
 hembanken2.danskebank.se
+hemnesparebank.no
 hermsdorfer-kreuz.de
 herner-sparkasse.de
 hesab.az
 hitbtc.com
+hjartdalbanken.no
+hjelmeland-sparebank.no
 hkb.de
 hl.co.uk
 hlebroking.com
@@ -956,6 +976,7 @@ homebank.ro
 homebank.tj
 homebanking.sskm.de
 hos.anadolubank.com.tr
+hsbank.no
 hsbc.ca
 hsbc.co.uk
 hsbc.com
@@ -1372,6 +1393,8 @@ ivd.gib.gov.tr
 ivybank.ru
 iw.unistream.ru
 izhcard.ru
+jaerensparebank.no
+jbf.no
 jenius.com
 jihsunbank.com.tw
 jkopay.com
@@ -1493,6 +1516,7 @@ kurumsalinternetsubesi.ing.com.tr
 kuzbank.ru
 kuzbasshimbank.ru
 kvartplata.ru
+kvinesdalsparebank.no
 kyffhaeusersparkasse.de
 kykyryza.ru
 kz.shinhanglobal.com
@@ -1500,6 +1524,7 @@ labanquepostale.fr
 landbank-horlofftal.de
 landbank.com.tw
 lansforsakringar.se
+larvikbanken.no
 leaseplanbank.de
 leboutique.com
 legalandgeneral.com
@@ -1561,6 +1586,7 @@ marcard.de
 marcus.com
 marfinbank.ua
 maritimebank.com
+marker-sparebank.no
 martinbank.de
 master-capital.org
 masterpass.ch
@@ -1589,6 +1615,7 @@ meine.postbank.de
 meinebank.de
 meinevolksbank.de
 meinkonto.tfbank.de
+melhusbanken.no
 memberdirect.net
 mercadobitcoin.com.br
 mercadopago.com.br
@@ -1740,6 +1767,7 @@ nordea.fi
 nordea.ru
 nordea.se
 nordeanetbank.dk
+nordirekte.no
 nordthueringer-volksbank.de
 norisbank.de
 nospa.de
@@ -1756,8 +1784,10 @@ nwolb.com
 nykredit.dk
 o-bank.com
 oaookb.ru
+oasparebank.no
 obconline.co.in
 oberlandbank.de
+odal-sparebank.no
 oddo-bhf.com
 oddo.fr
 odemegecidi.bkm.com.tr
@@ -1935,15 +1965,19 @@ operbank.hu
 oplata.beeline.ru
 oplata.lifecell.com.ua
 oplatatroika.mobi-money.ru
+oppdalsbanken.no
 optima24.kg
 optumbank.com
 orama.com.br
 orangefinanse.com.pl
 orders.cloudpayments.ru
 original.com.br
+orklasparebank.no
+orskogsparebank.no
 oschad24.com
 oschadbank.ua
 oskolbank.ru
+oslofjordsparebank.no
 ospa.de
 ostfriesische-volksbank.de
 ostsaechsische-sparkasse-dresden.de
@@ -2452,12 +2486,15 @@ rhoen-rennsteig-sparkasse.de
 richart.tw
 rico.com.vc
 rileg.de
+rindalsbanken.no
 ripb.parsian-bank.ir
 riyadbank.com
 robinhood.com
 robokassa.ru
 rocketbank.ru
 rodnayasvyaz.ru
+romsdalsbanken.no
+rorosbanken.no
 ros.ie
 rosavto.ru
 rosenergobank.ru
@@ -2468,6 +2505,7 @@ rottaler-raiba.de
 round.ru
 rs-portal.capitalbank.ru
 rsb.ru
+rsbank.no
 rshb.ru
 rsportal.kbca.ru
 ruru.ru
@@ -2632,6 +2670,7 @@ simplii.com
 sinopac.com
 sistemagorod.ru
 sk-westerwald-sieg.de
+skagerraksparebank.no
 skandia.se
 skb-badhomburg.de
 skb-buehlertal.de
@@ -2644,6 +2683,7 @@ skbank.com.tw
 skbwitten.de
 skmb.de
 sko.rbkmoney.ru
+skuesparebank.no
 sl-vb.de
 slbank.ru
 sls-direkt.de
@@ -2652,6 +2692,7 @@ smartbank.ru
 smbc.co.jp
 smponbank.ru
 sms-hm.de
+sn.no
 sngb.ru
 snsbank.nl
 sob-bank.de
@@ -2659,6 +2700,8 @@ societegenerale.com
 societegenerale.fr
 sofinet.com.ve
 sofisadireto.com.br
+sognbank.no
+soknedal-sparebank.no
 solicitudestarjetas.banesco.net
 sorexpay.com
 southindianbank.com
@@ -3000,6 +3043,7 @@ static.siteheart.com
 steylerbank.de
 stone.com.br
 stripe.com
+strommensparebank.no
 sube.garantibbva.com.tr
 sube.halkbank.com.tr
 sube.halkyatirim.com.tr
@@ -3009,6 +3053,7 @@ sube.sekerbank.com.tr
 subesiz.vakifbank.com.tr
 subesizbankacilik.vakifbank.com.tr
 suncorp.com.au
+sunndal-sparebank.no
 sunnybank.com.tw
 sutorbank.de
 swedbank.ee
@@ -3064,6 +3109,7 @@ tiaa.org
 ticari.yapikredi.com.tr
 ticket.uz.gov.ua
 tinkoff.ru
+tinnbank.no
 tisco.co.th
 tiscoasset.com
 titanvest.com
@@ -3072,6 +3118,7 @@ tmbdirect.com
 tochka.com
 ton.com.br
 toroinvestimentos.com.br
+totenbanken.no
 touchbank.com
 tpb.vn
 trade.paritem.com
@@ -3087,12 +3134,14 @@ trust.ru
 ts.seb.se
 tsb.co.nz
 tsb.co.uk
+tsbank.no
 tsp.gov
 turanbank.az
 twfhcsec.com.tw
 twint.ch
 twmp.com.tw
 twnch.org.tw
+tysnes-sparebank.no
 ubot.com.tw
 ubrr.ru
 ubs.com
@@ -3141,7 +3190,9 @@ v-vb.de
 vakif-bank.de
 vakifbank.at
 vakifbankusa.com
+valdressparebank.no
 valiant.ch
+valle-sparebank.no
 vanguard.com
 varengold.de
 vb-abi.de
@@ -3280,6 +3331,7 @@ vbvisbek.de
 vbwildeshauser-geest.de
 vbwinsenermarsch.de
 vbwolgast.de
+vekselbanken.no
 venmo.com
 vereinigte-sparkassen.de
 vereinigtevolksbankeg.de
