@@ -41,3 +41,7 @@ node index.js
 ```
 
 Check the `dist` folder for the output.
+
+## How the list gets updated in the AdGuard apps 
+
+The list of HTTPS exclusions gets updated automatically when a new version of the app is released. For the new version, current exclusions from this repository are fetched and set as default.
