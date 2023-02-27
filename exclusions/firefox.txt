@@ -21,3 +21,5 @@ static.adguard.com
 agrd.io
 // 1Paassword extension
 cdn.agilebits.com
+// https://github.com/AdguardTeam/AdguardForWindows/issues/4595
+aus5.mozilla.org
