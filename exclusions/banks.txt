@@ -2114,7 +2114,7 @@ portmone.com.ua
 portoseguro.com.br
 post.gov.tw
 postbank.kz
-poste.it 
+poste.it
 postfinance.ch
 pps.fuib.com
 prbkbr-ibank2.ru
@@ -2621,6 +2621,7 @@ secure.payu.ru
 secure.payza.com
 secure.payza.eu
 secure.platononline.com
+secure.royalbank.com
 secure.sirena-travel.ru
 secure.tcsbank.ru
 secure.ucs.su
