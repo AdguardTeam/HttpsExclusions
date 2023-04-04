@@ -1,3 +1,4 @@
+
 //
 //
 // Adguard HTTPS exclusions: banks and financial services
@@ -617,9 +618,9 @@ cronbank.de
 csas.cz
 csb.co.in
 ctbcbank.com
+cultureland.co.kr
 currency.com
 customer.lichousing.com
-cultureland.co.kr
 cvw-privatbank-ag.de
 cyber.rostbank.ru
 da.victoriabank.md
@@ -1329,6 +1330,7 @@ ingdirect.com.au
 ingdirect.es
 ingdirect.fr
 ingonline.com
+inicis.com
 instamojo.com
 intechbank.ru
 intellectmoney.ru
@@ -1367,7 +1369,6 @@ investbank.com.ua
 investbank2.com.ua
 investor.vps.no
 investpay.ru
-inicis.com
 iobnet.co.in
 ioffice.kz
 ipay.ua
@@ -1764,6 +1765,7 @@ nipbank.ru
 nispa.de
 nobaeg.de
 nokss.ru
+nonghyup.com
 nordea.com
 nordea.fi
 nordea.ru
@@ -1774,7 +1776,6 @@ nordthueringer-volksbank.de
 norisbank.de
 nospa.de
 novo.brb.com.br
-nonghyup.com
 ns-bank.ru
 nsandi.com
 nttdocomo.co.jp
@@ -1996,7 +1997,6 @@ oyakankerbank.de
 p2p.alfabank.ua
 p2p.mdm.ru
 p2y.com.ua
-payco.com
 pagbrasil.com
 pagbrasil.com
 pagseguro.uol.com.br
@@ -2036,6 +2036,7 @@ pay24.co.il
 payanyway.ru
 payb2b.domru.ru
 paycard.beeline.ru
+payco.com
 paydirekt.de
 payeer.com
 payjet.ru
@@ -2547,6 +2548,7 @@ safra.com.br
 saib.com.sa
 salzlandsparkasse.de
 samba.com
+samsungpop.com
 sanalpos.halkbank.com.tr
 santander.cl
 santander.com.br
@@ -2556,7 +2558,6 @@ santander.de
 santander.nl
 santanderbank.com
 santanderconsumer.se
-samsungpop.com
 sbab.se
 sber-bank.by
 sberbank-ast.ru
@@ -3097,6 +3098,7 @@ tdbank.com
 tdcanadatrust.com
 teb.com.tr
 teba-kreditbank.de
+techcu.com
 teksweb.icbc.com.tr
 telebank.eatpbank.ru
 telebank.forshtadt.ru
@@ -3125,10 +3127,10 @@ tmbdirect.com
 tochka.com
 ton.com.br
 toroinvestimentos.com.br
-totenbanken.no
-touchbank.com
 toss.im
 tossinvest.com
+totenbanken.no
+touchbank.com
 tpb.vn
 trade.paritem.com
 trade.webborsam.com
