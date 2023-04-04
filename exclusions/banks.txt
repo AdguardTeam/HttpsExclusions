@@ -2626,6 +2626,7 @@ secure.sirena-travel.ru
 secure.tcsbank.ru
 secure.ucs.su
 secure.upc.ua
+secure.wayforpay.com
 secure.ya.no
 secure.yakindogubank.com
 secure3.nsandi.com
