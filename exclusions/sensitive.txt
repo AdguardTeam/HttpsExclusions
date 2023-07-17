@@ -144,4 +144,5 @@ papara.com
 gate.io
 mexc.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/451
-
+kau.gov.hu
+mail.tutanota.com
