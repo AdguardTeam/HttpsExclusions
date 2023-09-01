@@ -1,7 +1,6 @@
 //
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
-bitwarden.eu
 lk.billing74.ru
 fido.kt.com
 pay.naver.com
@@ -13,7 +12,6 @@ gorzdrav.spb.ru
 hrblock.com
 accounts.google.com
 accounts.kakao.com
-bitwarden.com
 1password.com
 roboform.com
 enpass.io
@@ -147,3 +145,6 @@ mexc.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/451
 kau.gov.hu
 mail.tutanota.com
+// https://github.com/AdguardTeam/AdguardFilters/issues/160593
+bitwarden.eu
+bitwarden.com
