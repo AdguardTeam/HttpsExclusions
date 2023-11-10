@@ -723,7 +723,7 @@ e-pay.by
 e-plat.mdmbank.com
 e.clhs.com.ua
 e.paba.hr
-e.seb.lt
+seb.lt
 e.sfcu.org
 e25.pl
 eantrag.ibb.de
