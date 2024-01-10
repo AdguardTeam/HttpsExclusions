@@ -246,6 +246,7 @@ banking-wuestenrotdirect.de
 banking.airbusbank.com
 banking.axa.de
 banking.co.at
+banking.coastcapitalsavings.com
 banking.guarantee.ru
 banking.haspa.de
 banking.ing-diba.at
@@ -254,6 +255,7 @@ banking.ksk-stade.de
 banking.postbank.de
 banking.raiffeisen.at
 banking.rostocker-vrbank.de
+banking.servus.ca
 banking.sparkasse-mittelsachsen.de
 banking.sparkasse-nienburg.de
 banking.sparkasse-prignitz.de
@@ -270,6 +272,7 @@ bankofamerica.com
 bankofbaku.com
 bankofbeirut.com
 bankofkazan.ru
+bankofmaldives.com.mv
 bankofscotland.co.uk
 bankofscotland.de
 bankofscotland.nl
@@ -309,6 +312,7 @@ bbr.ru
 bbva.com.ar
 bbva.com.co
 bbva.es
+bbva.mx
 bbvaprovinet.provincial.com
 bc.bankdolinsk.ru
 bc.banksmb.ru
@@ -415,6 +419,7 @@ bop.com.tw
 bopfinger-bank.de
 boq.com.au
 bordesholmer-sparkasse.de
+bosbank24.pl
 bot.com.tw
 boursorama.com
 bov.wallet.best
@@ -459,6 +464,7 @@ bybit.com
 byblosbank.com.lb
 bystrobank.ru
 c6bank.com.br
+ca24.credit-agricole.pl
 cabinet.altbb.ru
 cabinet.hcsbk.kz
 caisse-epargne.fr
@@ -534,16 +540,17 @@ cic.fr
 cielo.com.br
 cimbclicks.co.id
 cimbclicks.com.my
+citi.com
 citibank.co.id
 citibank.co.in
 citibank.co.th
-citibank.com
 citibank.com.co
 citibank.com.ph
 citibank.com.sg
 citibank.com.tw
 citibank.ru
 citibankonline.com
+citibankonline.pl
 citidirectbeportalemea.citidirect.com
 citizensbank.com
 citizensbankonline.com
@@ -621,6 +628,7 @@ cronbank.de
 csas.cz
 csb.co.in
 ctbcbank.com
+cultureland.co.kr
 currency.com
 customer.lichousing.com
 cvw-privatbank-ag.de
@@ -685,6 +693,7 @@ diebank.de
 difi.no
 digid.nl
 digio.com.br
+digital.bankaust.com.au
 digital.noorbank.com
 dino.tzero.com
 directnet.com
@@ -717,7 +726,8 @@ e-pay.by
 e-plat.mdmbank.com
 e.clhs.com.ua
 e.paba.hr
-e.seb.lt
+e.sfcu.org
+e25.pl
 eantrag.ibb.de
 eastwestbanker.com
 easycredit.de
@@ -826,6 +836,7 @@ ezaimo.ru
 factoring.mb.seb.se
 factoring.seb.de
 fairfx.com
+faisanet.mib.com.mv
 faktura.ru
 farmersebank.com
 fbid.ru
@@ -911,6 +922,7 @@ gls.de
 gnbsudameris.com.co
 gobank-online.de
 goldenpay.az
+goonline.bnpparibas.pl
 gorod23.ru
 gov.uk
 grafschafter-volksbank.de
@@ -978,6 +990,7 @@ holvi.com
 homebank.kz
 homebank.ro
 homebank.tj
+homebanking.bancoctt.pt
 homebanking.sskm.de
 hos.anadolubank.com.tr
 hsbank.no
@@ -1297,6 +1310,7 @@ ideabank24.by
 ideaonline.ua
 ident.nets.eu
 identity.banknorwegian.no
+ids.alterna.ca
 ifobs.bankcenter.com.ua
 ifobs.dvbank.ua
 ifobs.kredobank.com.ua
@@ -1333,8 +1347,10 @@ ingdirect.com.au
 ingdirect.es
 ingdirect.fr
 ingonline.com
+inicis.com
 instamojo.com
 intechbank.ru
+inteligo.pl
 intellectmoney.ru
 interactivebrokers.co.uk
 interactivebrokers.co.uk
@@ -1421,6 +1437,7 @@ kdb.hu
 kebhana.com
 key.com
 keytradebank.be
+kftc.or.kr
 kgibank.com
 kh.hu
 kh3c.com.tw
@@ -1568,10 +1585,13 @@ login.banknetpower.net
 login.blockchain.com
 login.bsczarnkow.pl
 login.e-taxes.gov.az
+login.erstebank.hu
 login.ingbank.pl
+login.nestbank.pl
 login.optumbank.com
 login.sebbank.ru
 login.sparebank1.no
+login.vancity.com
 lovizaim.ru
 lzo.com
 m1finance.com
@@ -1629,6 +1649,7 @@ mercantildobrasil.com.br
 mercedes-benz-bank.de
 merchantsecurity.enstage.com
 merckfinck.de
+meridiancu.ca
 merkantil.hu
 metabankonline.com.ua
 metrobankonline.co.uk
@@ -1693,6 +1714,7 @@ mvb.de
 my-volksbank.de
 my-zaim.ru
 my.alfabank.com.ua
+my.blackhawkbank.com
 my.bmi.ir
 my.credit-agricole.com.ua
 my.europlanbank.ru
@@ -1767,6 +1789,7 @@ nipbank.ru
 nispa.de
 nobaeg.de
 nokss.ru
+nonghyup.com
 nordea.com
 nordea.fi
 nordea.ru
@@ -1829,6 +1852,7 @@ online.bankofcyprus.com
 online.bankotsar.co.il
 online.bankpozitiv.kz
 online.bcs.ru
+online.beobank.be
 online.beyondbank.com.au
 online.binbankcards.ru
 online.bm.ru
@@ -1892,6 +1916,7 @@ online.severgazbank.ru
 online.standardlife.com
 online.svrbank.ru
 online.t-mobilebankowe.pl
+online.techcu.com
 online.tfb.ru
 online.tiscoasset.com
 online.tkbbank.ru
@@ -1957,6 +1982,7 @@ onlinebanking.bank-credit-suisse-moscow.ru
 onlinebanking.brci.ro
 onlinebanking.cargillsbank.com
 onlinebanking.pnc.com
+onlinebanking.rhbgroup.com
 onlinebanking.usbank.com
 onlinesbi.com
 onlinetsb.kz
@@ -2037,6 +2063,7 @@ pay24.co.il
 payanyway.ru
 payb2b.domru.ru
 paycard.beeline.ru
+payco.com
 paydirekt.de
 payeer.com
 payjet.ru
@@ -2073,6 +2100,7 @@ penfed.org
 pensionsmyndigheten.se
 perevedi.me
 perfectmoney.is
+personal.affinitycu.ca
 personal.metrobankdirect.com
 personalbank.ru
 pervbank.ru
@@ -2096,6 +2124,7 @@ platipokarte.ru
 platiza.ru
 platron.ru
 plimus.com
+plusbank24.pl
 pnb.com.ph
 pnbindia.in
 pnc.com
@@ -2115,7 +2144,7 @@ portmone.com.ua
 portoseguro.com.br
 post.gov.tw
 postbank.kz
-poste.it 
+poste.it
 postfinance.ch
 pps.fuib.com
 prbkbr-ibank2.ru
@@ -2136,6 +2165,7 @@ profitbank.ru
 promenergobank.ru
 promo.concord.ua
 prospera.ca
+prospera.oauth.live.central1.cc
 prosperitybankusa.com
 psbst.ru
 pscb.ru
@@ -2433,6 +2463,7 @@ rb-zellerland.de
 rb-zorneding.de
 rb.cz
 rba.hr
+rbaccess.rogersbank.com
 rbbissingen.de
 rbbn.de
 rbborken.de
@@ -2550,6 +2581,7 @@ safra.com.br
 saib.com.sa
 salzlandsparkasse.de
 samba.com
+samsungpop.com
 sanalpos.halkbank.com.tr
 santander.cl
 santander.com.br
@@ -2594,6 +2626,7 @@ sdk-bockum-hoevel.de
 sdk-stockhausen.de
 sdkinlamstedt.de
 seb.ee
+seb.lt
 seb.se
 secb.de
 secure-banking.de
@@ -2623,17 +2656,23 @@ secure.payu.com.tr
 secure.payu.ru
 secure.payza.com
 secure.payza.eu
+secure.pcfinancial.ca
 secure.platononline.com
+secure.royalbank.com
+secure.seligson.fi
 secure.sirena-travel.ru
 secure.tcsbank.ru
 secure.ucs.su
 secure.upc.ua
+secure.wayforpay.com
 secure.ya.no
 secure.yakindogubank.com
 secure3.nsandi.com
 secure4.segpay.com
 secure5.arcot.com
 secureacceptance.cybersource.com
+secured.acu.ca
+secured.scu.mb.ca
 secureinternetbank.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
@@ -3127,6 +3166,8 @@ tmbdirect.com
 tochka.com
 ton.com.br
 toroinvestimentos.com.br
+toss.im
+tossinvest.com
 totenbanken.no
 touchbank.com
 tpb.vn
@@ -3156,11 +3197,13 @@ ubrr.ru
 ubs.com
 ucpb.biz
 udengi.ru
+ue.dnb.pl
 uiccu.org
 ukrgasbank.com
 ukrsibbank.com
 ul.royal-bank.ru
 umbank.ru
+umcu.org
 umweltbank.de
 uniastrum.ru
 unibank.az
@@ -3173,6 +3216,7 @@ unicreditbanking.eu
 unicreditbanking.net
 unifinbank.ru
 union-investment.de
+unionbank.com
 unionbank.de
 unionbankonline.co.in
 unionbankph.com
