@@ -476,6 +476,7 @@ campuscu.com
 canarabank.in
 capitalone.com
 capitecbank.co.za
+card-form.diehard.yandex.net
 card-transfer.tele2.ru
 card.cyberplat.ru
 card.uplati.ru
@@ -3181,6 +3182,7 @@ treasurydirect.gov
 triodos.es
 triodos.nl
 trust.ru
+trust.yandex.ru
 ts.seb.se
 tsb.co.nz
 tsb.co.uk
