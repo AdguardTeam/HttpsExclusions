@@ -1023,6 +1023,7 @@ i-bank.vyborg-bank.ru
 i-conect.ro
 i-pank.krediidipank.ee
 i-pank2.krediidipank.ee
+i-pass.com.tw
 i-vtb.by
 i.bps-sberbank.by
 i.emb.ru
@@ -2190,6 +2191,7 @@ psd-westfalen-lippe.de
 psdbank-ht.de
 pttbank.ptt.gov.tr
 pvu.nets.no
+pxpayplus.com
 qantasmoney.com
 questrade.com
 qiwi.com
