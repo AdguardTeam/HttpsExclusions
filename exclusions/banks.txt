@@ -26,6 +26,7 @@
 a-3.ru
 a24m.a-bank.com.ua
 aab.de
+abanca.com
 abcbank.de
 abchina.com
 abl.agrocombank.com.ua
@@ -1022,6 +1023,7 @@ i-bank.vyborg-bank.ru
 i-conect.ro
 i-pank.krediidipank.ee
 i-pank2.krediidipank.ee
+i-pass.com.tw
 i-vtb.by
 i.bps-sberbank.by
 i.emb.ru
@@ -1338,9 +1340,11 @@ info.cyberplat.ru
 info.deltacredit.ru
 info.metib.ru
 ing-diba.de
+ing.be
 ing.com.au
 ing.de
 ing.es
+ing.pl
 ingbank.com.tr
 ingbank.hu
 ingbank.pl
@@ -1348,6 +1352,7 @@ ingdirect.com.au
 ingdirect.es
 ingdirect.fr
 ingonline.com
+ingwb.com
 inicis.com
 instamojo.com
 intechbank.ru
@@ -1985,7 +1990,7 @@ onlinebanking.cargillsbank.com
 onlinebanking.pnc.com
 onlinebanking.rhbgroup.com
 onlinebanking.usbank.com
-onlinesbi.com
+onlinesbi.sbi
 onlinetsb.kz
 onstmettinger-bank.de
 op.fi
@@ -2186,6 +2191,7 @@ psd-westfalen-lippe.de
 psdbank-ht.de
 pttbank.ptt.gov.tr
 pvu.nets.no
+pxpayplus.com
 qantasmoney.com
 questrade.com
 qiwi.com
@@ -2698,7 +2704,9 @@ sgeb.bg
 sgkb.ch
 sgkb.de
 sharesight.com
+shinhan.com
 shinhan.de
+shinhan.kz
 shinseibank.com
 shpd.motivtelecom.ru
 siab.ru
@@ -2854,6 +2862,7 @@ sparkasse-hattingen.de
 sparkasse-hegau-bodensee.de
 sparkasse-heidelberg.de
 sparkasse-heilbronn.de
+sparkasse-hellweg-lippe.de
 sparkasse-herford.de
 sparkasse-hildburghausen.de
 sparkasse-hildesheim.de
@@ -3122,6 +3131,7 @@ taishinbank.com.tw
 takarekbank.hu
 tangerine.ca
 targobank.de
+targobank.es
 tarjetacencosud.cl
 tas24.ua
 taunussparkasse.de
