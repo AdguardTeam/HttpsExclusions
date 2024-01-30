@@ -26,6 +26,7 @@
 a-3.ru
 a24m.a-bank.com.ua
 aab.de
+abanca.com
 abcbank.de
 abchina.com
 abl.agrocombank.com.ua
@@ -3122,6 +3123,7 @@ taishinbank.com.tw
 takarekbank.hu
 tangerine.ca
 targobank.de
+targobank.es
 tarjetacencosud.cl
 tas24.ua
 taunussparkasse.de
