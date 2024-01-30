@@ -1339,9 +1339,11 @@ info.cyberplat.ru
 info.deltacredit.ru
 info.metib.ru
 ing-diba.de
+ing.be
 ing.com.au
 ing.de
 ing.es
+ing.pl
 ingbank.com.tr
 ingbank.hu
 ingbank.pl
@@ -1349,6 +1351,7 @@ ingdirect.com.au
 ingdirect.es
 ingdirect.fr
 ingonline.com
+ingwb.com
 inicis.com
 instamojo.com
 intechbank.ru
