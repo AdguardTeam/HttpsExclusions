@@ -630,6 +630,7 @@ crobanet.croatiabanka.hr
 cronbank.de
 csas.cz
 csb.co.in
+csob.sk
 ctbcbank.com
 cultureland.co.kr
 currency.com
