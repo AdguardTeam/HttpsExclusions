@@ -455,6 +455,7 @@ budapestbank.hu
 bukopin.co.id
 bulbankonline.bg
 bunq.app
+bunq.com
 bus.ideabank.ua
 business.faktura.ru
 businessonline.ge
@@ -643,6 +644,7 @@ danamon.co.id
 danamonline.com
 danskebank.dk
 danskebank.se
+datev.de
 davivienda.com
 db-pbc.pl
 db.com
@@ -841,6 +843,7 @@ fairfx.com
 faisanet.mib.com.mv
 faktura.ru
 farmersebank.com
+fastbill.com
 fbid.ru
 fbngp.ca
 fbtonline.com
@@ -915,6 +918,7 @@ genobank.de
 george.bcr.ro
 george.erstebank.hr
 getlogin.rosbank.ru
+getpenta.com
 gibank.ru
 gildeskaal-sparebank.no
 global.moneygram.com
@@ -1455,6 +1459,7 @@ klik.poba.hr
 klikbca.com
 kokobank.com
 konet.kovanica.hr
+kontist.com
 kontrakt.ua
 kraken.com
 kranbank.ru
@@ -1559,6 +1564,7 @@ leipziger-volksbank.de
 leomoney.com
 leumi.ro
 levo-bank.de
+lexoffice.de
 lgbbank.com
 lgn.ru
 lhv.ee
@@ -1615,7 +1621,6 @@ manimo.su
 marcard.de
 marcus.com
 marfinbank.ua
-meridiancu.ca
 maritimebank.com
 marker-sparebank.no
 martinbank.de
@@ -1655,6 +1660,7 @@ mercantildobrasil.com.br
 mercedes-benz-bank.de
 merchantsecurity.enstage.com
 merckfinck.de
+meridiancu.ca
 meridiancu.ca
 merkantil.hu
 metabankonline.com.ua
@@ -2193,13 +2199,13 @@ pttbank.ptt.gov.tr
 pvu.nets.no
 pxpayplus.com
 qantasmoney.com
-questrade.com
 qiwi.com
 qiwi.ru
 qnb.com
 qnbfinansbank.com
 qnbfinansbank.enpara.com
 quantaprevidencia.com.br
+questrade.com
 quick.bankvl.ru
 quik.psbank.ru
 qweb.quercia.com
@@ -2698,6 +2704,7 @@ service.santanderconsumer.at
 servis24.cz
 servus.ca
 settrade.com
+sevdesk.de
 sgb24.pl
 sgcb.nc
 sgeb.bg
