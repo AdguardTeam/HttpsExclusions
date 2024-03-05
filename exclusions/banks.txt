@@ -2130,6 +2130,7 @@ picpay.com
 pictet.com
 piraeusbank.com
 pkb24.ru
+pki-auth.monobank.com.ua
 plat.ru
 plategka.com
 platezh.ru
@@ -3594,6 +3595,7 @@ volkswagenbank.de
 volvofinans.se
 vorne.de
 vostbank.ru
+vostok.bank
 vp.ru
 vpbank.com.vn
 vpos.isbank.co.uk
