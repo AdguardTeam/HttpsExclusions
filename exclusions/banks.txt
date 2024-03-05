@@ -1710,6 +1710,7 @@ moneyman.kz
 moneyman.ru
 moneyou.de
 moneyveo.ua
+monobank.com.ua
 monobank.ua
 monzo.com
 moscombank.ru
@@ -2130,7 +2131,6 @@ picpay.com
 pictet.com
 piraeusbank.com
 pkb24.ru
-pki-auth.monobank.com.ua
 plat.ru
 plategka.com
 platezh.ru
