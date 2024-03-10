@@ -116,10 +116,8 @@ voipnx-saturn.line-apps.com
 api.coop.no
 bestill.egon.no
 api.source.no
-tnfba-static2.telenorcdn.net
-tnfba-static.telenorcdn.net
-p-sdp-mob.tvs.telenor.net
-p-sdp-mqtt.tvs.telenor.net
+telenorcdn.net
+tvs.telenor.net
 nfk.wtw.no
 mobilemaps-pa-gz.googleapis.com
 googlehomefoyer-pa.googleapis.com
