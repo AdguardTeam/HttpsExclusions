@@ -2685,7 +2685,6 @@ secure.upc.ua
 secure.wayforpay.com
 secure.ya.no
 secure.yakindogubank.com
-secure2.transamerica.com
 secure3.nsandi.com
 secure4.segpay.com
 secure5.arcot.com
@@ -3199,6 +3198,7 @@ trade.paritem.com
 trade.webborsam.com
 train.ideabank.ua
 transaccionesbancolombia.com
+transamerica.com
 transbank.cl
 transcredit.ru
 treasurydirect.gov
