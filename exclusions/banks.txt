@@ -2048,7 +2048,6 @@ paragonbank.co.uk
 param.com.tr
 paranabanco.com.br
 paranabanco.com.br
-participant.transamerica.com
 pashabank.az
 pashaonline.pashabank.com.tr
 pasientsky.no
