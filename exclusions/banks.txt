@@ -139,6 +139,7 @@ atfbank.kz
 audibank.de
 augusta-bank.de
 aurskog-sparebank.no
+auth.cert.toss.im
 autopays.ru
 auxmoney.com
 aval.ua
@@ -3192,6 +3193,7 @@ tochka.com
 ton.com.br
 toroinvestimentos.com.br
 toss.im
+tossinvest.com
 tossinvest.com
 totenbanken.no
 touchbank.com
