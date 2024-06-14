@@ -20,7 +20,7 @@ jobs:
       - name: Check out to repository
         uses: actions/checkout@v4
       - name: Run sort
-        run: sort exclusions/banks.txt -o exclusions/banks.txt
+        run: LC_ALL=C sort exclusions/banks.txt -o exclusions/banks.tx
         shell: bash
       - name: Remove last empty line
         run: truncate -s-1 exclusions/banks.txt
