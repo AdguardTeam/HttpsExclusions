@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "lib": ["ES2023", "ES2023.Array", "ES2023.Collection"],
+    "target": "ES2022",
+    "moduleResolution": "NodeNext",
+    "removeComments": false,
+    "alwaysStrict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "tools/**/*.mts"
+  ]
+}

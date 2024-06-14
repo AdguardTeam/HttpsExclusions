@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "git@github.com:AdguardTeam/HttpsExclusions.git",
   "author": "AdGuard",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint:banks": "tsx tools/banks.mts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "tsx": "^4.15.4",
+    "typescript": "^5.4.5"
+  }
 }
