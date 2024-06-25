@@ -14,7 +14,7 @@ on:
 
 jobs:
   bank:
-    name: Check that bank.txt is sorted
+    name: Check that banks.txt is sorted
     runs-on: ubuntu-latest
     steps:
       - name: Set up Node.js LTS
