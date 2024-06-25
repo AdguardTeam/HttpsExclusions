@@ -9,6 +9,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "tools/**/*.mts"
+    "tools/**/*.ts"
   ]
 }

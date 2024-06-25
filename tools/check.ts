@@ -1,4 +1,4 @@
-import { readFile, stat } from 'node:fs/promises';
+const { readFile, stat } = require('fs').promises;
 
 const RE_NL = /\r?\n/;
 const COMMENT_MARKER = '//';
