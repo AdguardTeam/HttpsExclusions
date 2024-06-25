@@ -29,6 +29,5 @@ jobs:
         run: npm ci
       - name: Check out to repository
         uses: actions/checkout@v4
-      - name: Run lint:banks
-        run: npm run lint:banks
-        shell: bash
+      - name: Run lint
+        run: npm run lint
