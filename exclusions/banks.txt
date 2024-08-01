@@ -3814,7 +3814,7 @@ ziraatbank.ru
 ziraatbank.uz
 ziraatyatirim.matrikswebtrader.com
 zkb.ch
-// banks, financial institutions, payment systems, MFS (mobile financial services), etc from Bangladesh
+// banks, financial institutions, payment systems, MFS (mobile financial services), etc from Bangladesh. referances: https://www.bb.org.bd/en/index.php/links/links/9, https://www.bb.org.bd/en/index.php/links/links/2, https://www.bb.org.bd/en/index.php/links/links/3, https://en.wikipedia.org/wiki/List_of_banks_in_Bangladesh
 citytouch.com.bd
 citybankplc.com
 ibfcat1.dutchbanglabank.com
