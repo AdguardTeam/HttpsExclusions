@@ -156,3 +156,32 @@ mail.tutanota.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/160593
 bitwarden.eu
 bitwarden.com
+// Freelancer domains, they have a lot of subdomains
+freelancer.com
+notifications.freelancer.com
+*.freelancer.com
+developers.freelancer.com
+accounts.freelancer.com
+freelancer.com.bd
+freelancer.com.au
+freelancer.co.uk
+www.freelancer.com
+www.freelancer.com.bd
+www.freelancer.com.au
+www.freelancer.co.uk
+freelancer.is
+freelancer.jp
+freelancer.ph
+f-cdn.com
+cdn5.f-cdn.com
+cdn6.f-cdn.com
+*.f-cdn.com
+freelancer.ca
+*.freelancer.ca
+freelancer.cl
+freelancer.cn
+freelancer.co.id
+freelancer.co.it
+// Termius
+termius.com
+account.termius.com
