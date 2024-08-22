@@ -156,7 +156,7 @@ mail.tutanota.com
 // https://github.com/AdguardTeam/AdguardFilters/issues/160593
 bitwarden.eu
 bitwarden.com
-// Freelancer domains, they have a lot of subdomains
+// Freelancer domains, they have a lot of country-specific domains
 freelancer.com
 freelancer.com.bd
 freelancer.com.au
