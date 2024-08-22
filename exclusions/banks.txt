@@ -1015,6 +1015,7 @@ hsbc.com.tr
 hsbc.com.tw
 hsbc.com.vn
 hsbc.fr
+hsbc.lk
 hsbcnet.com
 hsbcprivatebank.com
 hua215.com.tw
