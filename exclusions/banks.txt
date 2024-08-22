@@ -1,4 +1,4 @@
-
+//
 //
 // Adguard HTTPS exclusions: banks and financial services
 1.elecsnet.ru
