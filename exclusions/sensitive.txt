@@ -172,3 +172,17 @@ freelancer.co.id
 freelancer.co.it
 // Termius
 termius.com
+// Synology DDNS
+quickconnect.to
+Synology.me
+diskstation.me
+i234.me
+myds.me
+dscloud.biz
+dscloud.me
+dscloud.mobi
+dsmynas.com
+dsmynas.org
+familyds.com
+familyds.net
+familyds.org
