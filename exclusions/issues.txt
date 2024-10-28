@@ -27,6 +27,8 @@ tknauth.spmode.ne.jp
 files.msal.ru
 // https://github.com/AdguardTeam/AdguardFilters/issues/7678
 firestore.clients6.google.com
+//https://github.com/AdguardTeam/AdguardForWindows/issues/5268
+copilot.microsoft.com
 // https://forum.adguard.com/index.php?threads/27219/
 triolan.name
 // Opera VPN:
