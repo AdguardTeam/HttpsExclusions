@@ -1294,6 +1294,7 @@ ibank2r.vfbank.ru
 ibanka.seb.lv
 ibanking-services.com
 ibanking.bankofmelbourne.com.au
+ibanking.stgeorge.com.au
 ibanking.vtb.am
 ibankr.ricbank.com
 ibankretail.nbg.gr
@@ -3133,6 +3134,7 @@ start2pay.com
 stat-dv.mtsbank.ru
 static.siteheart.com
 steylerbank.de
+stgeorge.com.au
 stone.com.br
 stripe.com
 strommensparebank.no
