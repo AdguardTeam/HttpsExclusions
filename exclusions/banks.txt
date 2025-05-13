@@ -457,6 +457,7 @@ btgpactualdigital.com.br
 btpn.com
 btrl.ro
 budapestbank.hu
+buhl.de
 bukopin.co.id
 bulbankonline.bg
 bunq.app
@@ -464,6 +465,7 @@ bunq.com
 bupa.com.au
 bus.ideabank.ua
 business.faktura.ru
+business.revolut.com
 businessonline.ge
 buyway.be
 bv-activebanking.de
@@ -718,6 +720,7 @@ discover.com
 dkb.de
 dkm.de
 docfcu.org
+docomo.ne.jp
 donau-iller-bank.de
 donner-reuschel.de
 dovoba.de
@@ -1448,6 +1451,7 @@ izhcard.ru
 jaerensparebank.no
 jago.com
 jbf.no
+jcb.co.jp
 jenius.com
 jihsunbank.com.tw
 jkopay.com
@@ -1745,6 +1749,7 @@ mtochka.com
 mtsbank.ru
 muenchner-bank.de
 mueritz-sparkasse.de
+mufg.jp
 muganbank.az
 mvb.de
 my-volksbank.de
@@ -2120,6 +2125,7 @@ payonlinesystem.com
 paypal-nakit.com
 paypal.com
 paypalobjects.com
+paypay-card.co.jp
 payproglobal.com
 payps.ru
 paysecure.ru
@@ -2794,6 +2800,7 @@ sls-direkt.de
 slsp.sk
 smartbank.ru
 smartmonday.com.au
+smbc-card.com
 smbc.co.jp
 smponbank.ru
 sms-hm.de
