@@ -1648,6 +1648,7 @@ manimo.su
 marcard.de
 marcus.com
 marfinbank.ua
+marinecu.com
 maritimebank.com
 marker-sparebank.no
 martinbank.de
@@ -1696,6 +1697,7 @@ mfb.hu
 mfbank.ru
 mib.devoncredit.ru
 micb.md
+midoregon.com
 migcredit.ru
 migrosbank.ch
 migs.mastercard.co.in
@@ -1783,6 +1785,7 @@ myfedloan.org
 myhalyk.kz
 mykassa.kz
 mymerrill.com
+myoccu.org
 myskb.ru
 myvoba.com
 n26.com
@@ -2045,6 +2048,7 @@ optumbank.com
 orama.com.br
 orangefinanse.com.pl
 orders.cloudpayments.ru
+oregonstatecu.com
 original.com.br
 orklasparebank.no
 orskogsparebank.no
@@ -2557,6 +2561,7 @@ rbui.de
 rbuv.de
 rcbconline-corporate.com
 rcbconlinebanking.com
+rcuonline.org
 recargapay.com.br
 redwoodcu.org
 regiobank.nl
@@ -2740,6 +2745,7 @@ secureshop.firstdata.lv
 securitybank.com
 seebachgrund.de
 seeligerbank.de
+selco.org
 selfbank.es
 selfservice.ikano.no
 selfwealth.com.au
@@ -3792,6 +3798,7 @@ webmoney.ru
 webtrading.onvista-bank.de
 wellsfargo.com
 wespa.de
+westconsincu.org
 westerwaldbank.de
 westkreis.de
 westpac.co.nz
