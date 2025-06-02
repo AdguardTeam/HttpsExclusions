@@ -53,6 +53,7 @@ acs.sia.eu
 acs2.3ds.modirum.com
 acs2.rosbank.modirum.com
 adelaidebank.com.au
+adelfibanking.com
 adyen.com
 ae.online.standardchartered.com
 afb.az
@@ -484,6 +485,7 @@ caixaebankingonline.cgd.pt
 cajamar.es
 campuscu.com
 canarabank.in
+capfed.com
 capitalone.com
 capitecbank.co.za
 card-form.diehard.yandex.net
@@ -888,6 +890,7 @@ fio.cz
 firstbank.com.tw
 firstbankcard.com
 firstcard.se
+firsttechfed.com
 firstwestcu.ca
 fiz.tavrich.ru
 flessabank.de
@@ -960,6 +963,7 @@ grenke.net
 grenkeonline.com
 grong-sparebank.no
 group.pictet
+growfinancial.org
 gruesparebank.no
 grupobancolombia.com
 gsb.or.th
@@ -3173,6 +3177,7 @@ sube.oyakyatirim.com.tr
 sube.sekerbank.com.tr
 subesiz.vakifbank.com.tr
 subesizbankacilik.vakifbank.com.tr
+suncoast.com
 suncorp.com.au
 sunndal-sparebank.no
 sunnybank.com.tw
