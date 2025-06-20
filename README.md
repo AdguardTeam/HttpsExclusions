@@ -42,10 +42,51 @@ node index.js
 
 Check the `dist` folder for the output.
 
-## How the list gets updated in the AdGuard apps 
+## How the list gets updated in the AdGuard apps
 
 The list of HTTPS exclusions gets updated automatically when a new version of the app is released. For the new version, current exclusions from this repository are fetched and set as default.
 
-Note: the HTTPS exclusions list gets updated in **compile-time** because it is built into the application.  
+Note: the HTTPS exclusions list gets updated in **compile-time** because it is built into the application.
 
 When you update AdGuard, the exclusion list will be updated **unless you modified it before**. If you have made changes to it, you won't get any updates.
+
+## HTTPS exclusions syntax
+
+Each line in the exclusion list defines a rule to disable HTTPS filtering for a specific domain in all or in a specific application.
+
+### General terms
+
+* One rule per line.
+* A rule without the `$app` modifier is applied system-wide.
+* Lines starting with `#` are treated as comments.
+* Each non-comment line represents one rule.
+* Rules can target domains or exact domains. Quotes `"..."` used to apply a rule to exact domain.
+* The scope of the rule may be limited to a specific app or a list of apps, separated by `|`. Format: `domain[$app=package1|package2]`
+
+
+### Examples
+
+* Exclude a domain and all subdomains
+
+```adblock
+example.com
+```
+
+* Exclude only the exact domain, without subdomains
+
+```adblock
+"example.com"
+```
+
+* Exclude a domain and all subdomains only in a specific apps
+
+```adblock
+example.com$app=com.android.chrome
+example.com$app=com.android.chrome|org.mozilla.firefox
+```
+
+* Exclude only the exact domain in Firefox only
+
+```adblock
+"example.com"$app=org.mozilla.firefox
+```
