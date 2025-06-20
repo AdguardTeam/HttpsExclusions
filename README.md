@@ -57,7 +57,7 @@ Each line in the exclusion list defines a rule to disable HTTPS filtering for a 
 ### General terms
 
 * One rule per line.
-* A rule without the `$app` modifier is system-wide.
+* A rule without the `$app` modifier is applied system-wide.
 * Lines starting with `#` are treated as comments.
 * Each non-comment line represents one rule.
 * Rules can target domains or exact domains. Quotes `"..."` used to apply a rule to exact domain.
