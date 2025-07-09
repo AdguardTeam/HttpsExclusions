@@ -253,3 +253,5 @@ hk.enel.it
 cdc.daikin.eu
 // https://github.com/AdguardTeam/AdguardForAndroid/issues/5096
 wallpaperapi.sofa.opera-api2.com
+// https://github.com/AdguardTeam/HttpsExclusions/pull/665
+play-integrity-checker-api.vercel.app$app=gr.nikolasspyr.integritycheck
