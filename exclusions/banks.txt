@@ -390,6 +390,7 @@ biz.smpbank.ru
 biznes.platinumbank.com.ua
 bjugn-sparebank.no
 bk.banklviv.com
+bk.mufg.jp
 bk.nico-bank.ru
 bk.tetrapolis.spb.ru
 bk17.ncubank.ru
@@ -686,6 +687,7 @@ dbo.snbank.ru
 dbo.zhivagobank.ru
 dbo1.uralfinance.com
 dbs.com.tw
+dcard.docomo.ne.jp
 dcu-online.org
 dcu.org
 degussa-bank.de
@@ -722,7 +724,6 @@ discover.com
 dkb.de
 dkm.de
 docfcu.org
-docomo.ne.jp
 donau-iller-bank.de
 donner-reuschel.de
 dovoba.de
@@ -1455,7 +1456,6 @@ izhcard.ru
 jaerensparebank.no
 jago.com
 jbf.no
-jcb.co.jp
 jenius.com
 jihsunbank.com.tw
 jkopay.com
@@ -1756,7 +1756,6 @@ mtochka.com
 mtsbank.ru
 muenchner-bank.de
 mueritz-sparkasse.de
-mufg.jp
 muganbank.az
 mvb.de
 my-volksbank.de
@@ -1767,6 +1766,7 @@ my.bmi.ir
 my.credit-agricole.com.ua
 my.europlanbank.ru
 my.helaba.bank
+my.jcb.co.jp
 my.k-bnk.ru
 my.letobank.ru
 my.modulbank.ru
