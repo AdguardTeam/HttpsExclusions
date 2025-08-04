@@ -1883,6 +1883,7 @@ oneclickmoney.ru
 onezaim.ru
 onfastspring.com
 online-banking.hsbc.com.ar
+online-payment.kakaopay.com
 online.adcb.com
 online.agroprombank.com
 online.aktifbank.com.tr
@@ -2089,6 +2090,7 @@ pashaonline.pashabank.com.tr
 pasientsky.no
 passolig.com.tr
 pax-bank.de
+pay-api-gw.kakaopay.com
 pay.aeroflot.ru
 pay.alfabank.ua
 pay.amazon.in
