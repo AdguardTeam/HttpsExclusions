@@ -118,6 +118,7 @@ apeksbank.com.ua
 apexsmrt.b2clogin.com
 api.oplata.com
 api.tech26.de
+apigw.tosspayments.com
 apobank.de
 app.aave.com
 app.dharma.io
@@ -912,6 +913,7 @@ fr.banquepopulaire.cyberplus
 frankenberger-bank.de
 frankfurter-sparkasse.de
 frankfurter-volksbank.de
+frontend-storage.tosspayments.com
 frostbank.com
 fryksdalenssparbank.se
 fs-bank.de
@@ -2112,9 +2114,11 @@ pay.rambler.ru
 pay.sampo.ru
 pay.skrill.com
 pay.smartbank.ua
+pay.toss.im
 pay.vostbank.ru
 pay24.co.il
 payanyway.ru
+payapi-public.toss.im
 payb2b.domru.ru
 paycard.beeline.ru
 payco.com
@@ -2123,6 +2127,7 @@ payeer.com
 payjet.ru
 paykun.com
 paymaster.ru
+payment-gateway.tosspayments.com
 payment.ru
 paymentgate.ru
 payments.braintree-api.com
@@ -3250,10 +3255,8 @@ tmbdirect.com
 tochka.com
 ton.com.br
 toroinvestimentos.com.br
-toss.im
 tossbank.com
 tossinvest.com
-tosspayments.com
 totenbanken.no
 touchbank.com
 tpb.vn
