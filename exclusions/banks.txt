@@ -343,6 +343,7 @@ bekb.ch
 belfius.be
 bendigobank.com.au
 bensbergerbank.de
+beobank.be
 berenberg.de
 berg-sparebank.no
 bergische-volksbank.de
@@ -1909,7 +1910,6 @@ online.bankofcyprus.com
 online.bankotsar.co.il
 online.bankpozitiv.kz
 online.bcs.ru
-online.beobank.be
 online.beyondbank.com.au
 online.binbankcards.ru
 online.bm.ru
