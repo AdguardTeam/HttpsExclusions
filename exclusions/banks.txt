@@ -727,6 +727,7 @@ discountbank.co.il
 discover.com
 dkb.de
 dkm.de
+dnb.no
 docfcu.org
 donau-iller-bank.de
 donner-reuschel.de
@@ -1850,6 +1851,7 @@ nokss.ru
 nonghyup.com
 nordea.com
 nordea.fi
+nordea.no
 nordea.ru
 nordea.se
 nordeanetbank.dk
