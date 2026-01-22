@@ -83,6 +83,8 @@ trueidentity.com
 lifelock.com
 login.kt.com
 // Government domains
+mos.ru
+gov.ru
 anaf.ro
 inspectiamuncii.ro
 gov.au
