@@ -1,0 +1,33 @@
+name: Lint HttpsExclusions
+
+env:
+  NODE_VERSION: 20
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "**/*.txt"
+  pull_request:
+    branches:
+      - master
+    paths:
+      - "**/*.txt"
+
+jobs:
+  bank:
+    name: Check that banks.txt is sorted
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Node.js LTS
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Check out to repository
+        uses: actions/checkout@v4
+      - name: Run lint
+        run: npm run lint
