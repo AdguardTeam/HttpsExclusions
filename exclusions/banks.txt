@@ -1775,6 +1775,7 @@ my.bmi.ir
 my.credit-agricole.com.ua
 my.europlanbank.ru
 my.helaba.bank
+my.ing.lu
 my.jcb.co.jp
 my.k-bnk.ru
 my.letobank.ru
@@ -3888,6 +3889,7 @@ www.ifilbd.com
 www.iidfc.com
 www.ilfsl.com
 www.indianbank.lk
+www.ing.lu
 www.ing.nl
 www.ipdcbd.com
 www.ipko.pl
