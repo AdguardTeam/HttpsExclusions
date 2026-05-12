@@ -122,6 +122,7 @@ apigw.tosspayments.com
 apobank.de
 app.aave.com
 app.dharma.io
+app.trading212.com
 app3.takasbank.web.tr
 apsiyon.com
 aquacard.co.uk
