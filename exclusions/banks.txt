@@ -1,6 +1,20 @@
 //
 //
 // Adguard HTTPS exclusions: banks and financial services
+// https://github.com/AdguardTeam/HttpsExclusions/issues/719
+// Serbian banks
+24x7.rs
+aik.halcom.rs
+aikbank.rs
+altabanka.rs
+bancaintesa.rs
+bib.eway2pay.com
+mobibanka.rs
+nlbkb.rs
+otpbanka.rs
+posted.co.rs
+raiffeisenbank.rs
+yettelbank.rs
 1.elecsnet.ru
 1822direkt-banking.de
 1822direkt.de
@@ -10,7 +24,6 @@
 24.comertbank.md
 24banking.md
 24banking.ro
-24x7.rs
 2checkout.com
 3ds.bankofbaku.com
 3ds.mdmbank.ru
@@ -67,8 +80,6 @@ agranisme.org
 agribank.com.vn
 ahesube.anadoluhayat.com.tr
 aib.ie
-aik.halcom.rs
-aikbank.rs
 ais.snbank.ru
 akb.ch
 akbank.com
@@ -99,7 +110,6 @@ alpari.ru
 alpha.gr
 alphabank.ro
 alrayanbank.co.uk
-altabanka.rs
 altbank.com
 alterna.ca
 altinn.no
@@ -167,7 +177,6 @@ bajajfinserv.in
 baker.ebanksepah.ir
 bancaenlinea.bancoplaza.com
 bancaenlinea.bicentenariobu.com
-bancaintesa.rs
 bancaintesa.ru
 bancamia.com.co
 bancaribe.com.ve
@@ -370,7 +379,6 @@ bhf-bank.ch
 bhf-bank.com
 bhw.de
 bib.com.br
-bib.eway2pay.com
 bibessen.de
 bic.modulbank.ru
 bice.cl
@@ -1741,7 +1749,6 @@ mlb.de
 mlp.de
 mmbank.ru
 mobibank.upb.ru
-mobibanka.rs
 mobikwik.com
 modalmais.com.br
 modhumotibankltd.com
@@ -1857,7 +1864,6 @@ nextbank.com.tw
 nikoil.az
 nipbank.ru
 nispa.de
-nlbkb.rs
 nobaeg.de
 nokss.ru
 nonghyup.com
@@ -2091,7 +2097,6 @@ otkritie.rapida.ru
 otpbank.com.ua
 otpbank.hu
 otpbank.ru
-otpbanka.rs
 otpbankdirekt.hu
 otpdirekt.ro
 otpsmart.com.ua
@@ -2230,7 +2235,6 @@ portoseguro.com.br
 post.gov.tw
 postbank.kz
 poste.it
-posted.co.rs
 postfinance.ch
 pps.fuib.com
 prbkbr-ibank2.ru
@@ -2408,7 +2412,6 @@ raiffeisenbank-wangen.de
 raiffeisenbank-weissach.de
 raiffeisenbank-westallgaeu.de
 raiffeisenbank-wyhl.de
-raiffeisenbank.rs
 raiffeisenbankersingen.de
 raiffeisenonline.ro
 raika-erbes-buedesheim.de
@@ -3980,7 +3983,6 @@ yarbank.ru
 ybs.co.uk
 yenibayi.passotaksit.com.tr
 yesrewardz.com
-yettelbank.rs
 youneedabudget.com
 yuantabank.com.tw
 z.tochka.com
