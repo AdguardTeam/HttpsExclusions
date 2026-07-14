@@ -1,6 +1,15 @@
 //
 // Adguard HTTPS exclusions: other services with sensitive personal information
 //
+// https://github.com/AdguardTeam/HttpsExclusions/issues/719
+// Serbian E-Government
+apr.gov.rs
+croso.gov.rs
+efaktura.mfin.gov.rs
+eid.gov.rs
+euprava.gov.rs
+lpa.gov.rs
+purs.gov.rs
 kurlypay.co.kr
 hanko.io
 ebs.ru
@@ -214,12 +223,3 @@ cert.vno.co.kr
 digisign.ro
 websign.ro
 certsign.ro
-// https://github.com/AdguardTeam/HttpsExclusions/issues/719
-// Serbian E-Government
-apr.gov.rs
-croso.gov.rs
-efaktura.mfin.gov.rs
-eid.gov.rs
-euprava.gov.rs
-lpa.gov.rs
-purs.gov.rs
